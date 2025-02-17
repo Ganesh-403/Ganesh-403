@@ -26,7 +26,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-403&layout=compact&theme=radical)  
 
 ## 🏆 GitHub Trophies  
-![Trophy](https://github-profile-trophy.vercel.app/?username=Ganesh-403&theme=darkhub&column=3)  
+<p align="center">  
+  <img src="https://github-profile-trophy.vercel.app/?username=Ganesh-403&theme=darkhub&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />  
+</p>
+
 
 ## 🏖️ Hobbies & Interests  
 🎶 **Music** 
