@@ -32,11 +32,9 @@
 
 
 ## 🏖️ Hobbies & Interests  
-🎶 **Music** 
-✈️ **Travelling**   
-🏋️ **Fitness & Health**   
+<span>🎶 **Music**</span> | <span>✈️ **Travelling**</span> | <span>🏋️ **Fitness & Health**</span>
+ 
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ganesh-kambli-404-error)  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ganesh-403&color=blue)  
