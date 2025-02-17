@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Ganesh Kambli](https://github.com/Ganesh-403)
+# [Ganesh Kambli](https://github.com/Ganesh-403)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F74C00&width=600&lines=Hey+there!+👋;I'm+Ganesh+Kambli!;Aspiring+Software+Engineer;Passionate+about+AI%2FML+and+Development!)](https://git.io/typing-svg)
 
@@ -22,8 +22,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ganesh-403&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-403&layout=compact&theme=radical)  
 
-## 🔥 Streaks  
-![GitHub Streak](https://streak-stats.demolab.com?user=Ganesh-403&theme=highcontrast&hide_border=true)
 
 ## 🏆 GitHub Trophies  
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Ganesh-403&theme=darkhub)
@@ -32,9 +30,6 @@
 **Music** 🎶  
 **Travelling** ✈️  
 **Fitness & Health** 🏋️  
-
-## 🐍 Contribution Snake  
-![Snake Animation](https://github.com/GaneshKambli/Ganesh-403/blob/output/github-contribution-grid-snake.svg)
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ganesh-kambli-404-error)
