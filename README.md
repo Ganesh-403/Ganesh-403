@@ -1,6 +1,4 @@
-# [Ganesh Kambli](https://github.com/Ganesh-403)  
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F74C00&width=500&lines=Hey+there!+👋;I'm+Ganesh+Kambli!;Aspiring+Software+Engineer;Passionate+about+AI%2FML+and+Development!)](https://git.io/typing-svg)  
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F74C00&width=500&lines=Hey+there!+👋;I'm+Ganesh+Kambli!;Aspiring+Software+Engineer;Passionate+about+AI%2FML+and+Development!)](https://git.io/typing-svg)  
 
 ![Header](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)  
 
