@@ -40,7 +40,6 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ganesh-403&theme=radical)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ganesh-403&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-403&layout=compact&theme=radical)  
 
