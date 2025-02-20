@@ -58,14 +58,14 @@
 ---
 
 ## 🏖️ Hobbies & Interests  
-🎶 **Music** | ✈️ **Travelling** | 🏋️ **Fitness & Health** | 🎮 **Gaming**  
+🎶 **Music** | ✈️ **Travelling** | 🏋️ **Fitness & Health** 
 
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ganesh-kambli)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ganesh-kambli-404-error/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/Ganesh-403)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gkambli403@gmail.com)  
 
 ---
 
@@ -73,18 +73,5 @@
 ✅ **Visitor Counter**  
 ![Visitor Count](https://komarev.com/ghpvc/?username=Ganesh-403&color=blue)  
 
-✅ **Recent GitHub Activity**  
-<!-- Uncomment this if you set up recent activity workflow -->
-<!-- ![GitHub Activity](https://github.com/Ganesh-403/Ganesh-403/blob/main/recent-activity.svg) -->
 
----
-
-### **🚀 What’s Next?**  
-🔹 Working on **AI/ML-based Web Apps**  
-🔹 Exploring **Cloud & DevOps**  
-🔹 Open to **Internships & Collaborations!**  
-
----
-
-### **Final Thoughts:**  
-This version **improves readability, structure, and performance** while keeping your personality intact. Let me know if you want any more tweaks! 🚀🔥  
+ 
