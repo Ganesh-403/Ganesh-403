@@ -5,7 +5,7 @@
 ## 🚀 About Me  
 🎓 **Third-year Computer Engineering Student at Savitribai Phule Pune University**  
 💡 **Aspiring Software Engineer | Full-Stack & AI/ML Enthusiast**  
-🏆 **Runner-up (2nd Rank) in an Inter-College Coding Competition**  
+🏆 **Runner-up in an Inter-College Coding Competition**  
 🔬 **Worked on AI-based Flight Delay Prediction & Attendance Monitoring Projects**   
 
 > **"Code is like humor. When you have to explain it, it’s bad." — Cory House**  
@@ -41,13 +41,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ganesh-403&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-403&layout=compact&theme=radical)  
-
----
-
-## 🏆 GitHub Trophies  
-<p align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=Ganesh-403&theme=darkhub&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />  
-</p>
 
 ---
 
