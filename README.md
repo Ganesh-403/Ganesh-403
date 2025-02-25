@@ -3,37 +3,33 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="350" alt="Coding GIF">
 
 ## 🚀 About Me  
-🎓 **Third-year Computer Engineering Student at Savitribai Phule Pune University**  
+🎓 **Third-year Computer Engineering Student at SPPU**  
 💡 **Aspiring Software Engineer | Full-Stack & AI/ML Enthusiast**  
 🏆 **Runner-up in an Inter-College Coding Competition**  
-🔬 **Worked on AI-based Flight Delay Prediction & Attendance Monitoring Projects**   
+🔬 **Worked on AI-based Flight Delay Prediction & Attendance Monitoring Projects**  
 
-> **"Code is like humor. When you have to explain it, it’s bad." — Cory House**  
+> *"Code is like humor. When you have to explain it, it’s bad."* — Cory House  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### **💻 Programming & Scripting**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+**💻 Languages & Frameworks**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)  
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)  
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)  
 
-### **🌐 Web Development**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+**🛢️ Databases & Cloud**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
 
-### **🛢️ Databases & Cloud**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-### **🔧 Tools & Platforms**  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+**🔧 Tools & Platforms**  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  
 
 ---
 
@@ -44,21 +40,12 @@
 
 ---
 
-## 🏖️ Hobbies & Interests  
-🎶 **Music** | ✈️ **Travelling** | 🏋️ **Fitness & Health** 
+## 🏖️ Interests & Connect  
 
----
+🎶 **Music** | ✈️ **Travelling** | 🏋️ **Fitness & Health**  
 
-## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ganesh-kambli-404-error/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/Ganesh-403)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gkambli403@gmail.com)  
 
----
 
-### **Extras:**  
-✅ **Visitor Counter**  
-![Visitor Count](https://komarev.com/ghpvc/?username=Ganesh-403&color=blue)  
-
-
- 
