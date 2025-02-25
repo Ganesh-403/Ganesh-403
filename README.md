@@ -48,6 +48,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/Ganesh-403) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gkambli403@gmail.com)  
 
----
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Ganesh-403&color=blue)  
