@@ -5,7 +5,7 @@
 ## 🚀 About Me  
 🎓 **Third-year Computer Engineering Student at SPPU**  
 💡 **Aspiring Software Engineer | Full-Stack & AI/ML Enthusiast**  
-🏆 **Runner-up in an Inter-College Coding Competition**  
+🏆 **Runner-up in an Intercollegiate Coding Competition**  
 🔬 **Worked on AI-based Flight Delay Prediction & Attendance Monitoring Projects**  
 
 > *"Code is like humor. When you have to explain it, it’s bad."* — Cory House  
