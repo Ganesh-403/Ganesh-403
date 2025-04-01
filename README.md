@@ -6,7 +6,7 @@
 🎓 **Third-year Computer Engineering Student at SPPU**  
 💡 **Aspiring Software Engineer | Full-Stack & AI/ML Enthusiast**  
 🏆 **Runner-up in an Intercollegiate Coding Competition**  
-🔬 **Worked on AI-based Flight Delay Prediction & Attendance Monitoring Projects**  
+🔬 **Worked on AI-driven Solutions, Web Development & Automation**  
 
 > *"Code is like humor. When you have to explain it, it’s bad."* — Cory House  
 
@@ -30,6 +30,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) 
 
 ---
 
