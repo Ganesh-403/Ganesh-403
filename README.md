@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="350" alt="Coding GIF">
 
 ## 🚀 About Me  
-🎓 **Third-year Computer Engineering Student at SPPU**  
+🎓 **Final-year Computer Engineering Student at SPPU**  
 💡 **Aspiring Software Engineer | Full-Stack & AI/ML Enthusiast**  
 🏆 **Runner-up in an Intercollegiate Coding Competition**  
 🔬 **Worked on AI-driven Solutions, Web Development & Automation**  
