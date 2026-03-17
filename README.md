@@ -12,7 +12,7 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/ganesh-kambli-404-error/">
+  <a href="https://www.linkedin.com/in/ganeshkambli">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:gkambli70@gmail.com">
@@ -31,7 +31,7 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Coding GIF"/>
 
 - 🎓 **Final-year Computer Engineering** @ **GSMCOE, Pune (SPPU)** — graduating 2026
-- 💼 **2 internships**, **3 deployed projects**, **2 competition wins**
+- 💼 **1 internship**, **3 deployed projects**, **2 competition wins**
 - 🐍 **Python Developer Intern** @ AI Adventures LLP *(Dec 2024 – Feb 2025)*
 - 🍯 Building **HoneyCloud** — a cloud-native scalable honeypot platform
 - 🥇 **Winner** — Site Craft Web Dev Challenge, VAMINT Club 2025
