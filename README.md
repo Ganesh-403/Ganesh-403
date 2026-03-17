@@ -31,7 +31,7 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Coding GIF"/>
 
 - 🎓 **Final-year Computer Engineering** @ **GSMCOE, Pune (SPPU)** — graduating 2026
-- 💼 **1 internship**, **3 deployed projects**, **2 competition wins**
+- 💼 **1 internship**, **multiple deployed projects**, **2 competition wins**
 - 🐍 **Python Developer Intern** @ AI Adventures LLP *(Dec 2024 – Feb 2025)*
 - 🍯 Building **HoneyCloud** — a cloud-native scalable honeypot platform
 - 🥇 **Winner** — Site Craft Web Dev Challenge, VAMINT Club 2025
