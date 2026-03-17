@@ -198,7 +198,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ganesh-kambli-404-error/">
+  <a href="https://www.linkedin.com/in/ganeshkambli">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:gkambli70@gmail.com">
