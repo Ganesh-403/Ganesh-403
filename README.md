@@ -160,10 +160,6 @@
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ganesh-403&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1"/>
-</p>
-
 | 🥇 | **Winner** — Site Craft Web Development Challenge — VAMINT Club 2025, GSMCOE, Pune |
 |---|---|
 | 🏆 | **Runner-Up** — Prep-A-Thon Coding Competition — Technobash 2025, GSMCOE, Pune |
