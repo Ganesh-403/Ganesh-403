@@ -6,7 +6,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F74C00&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Ganesh+Kambli+👋;Final-Year+CS+Engineer+%40+GSMCOE%2C+SPPU;Python+%7C+Backend+%7C+Cloud+%7C+Cybersecurity;Built+a+Honeypot+Platform+%7C+Cloud+SaaS+%7C+Secure+VFS;Shipping+production-grade+software+before+graduation+🚀" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F74C00&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Ganesh+Kambli+👋;Final-Year+CS+Engineer+%40+SPPU%2C+Pune;Python+%7C+Backend+%7C+Cloud+%7C+Cybersecurity;Built+a+Honeypot+Platform+%7C+Cloud+SaaS+%7C+Secure+VFS;Shipping+production-grade+software+before+graduation+🚀" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF"/>
 
-- 🎓 **Final-year Computer Engineering** @ **GSMCOE, Pune (SPPU)** — graduating 2026
+- 🎓 **Final-year Computer Engineering** @ **Savitribai Phule Pune University** — graduating 2026
 - 🐍 **Python Developer Intern** @ AI Adventures LLP *(Dec 2024 – Feb 2025)*
 - 🍯 Building **HoneyCloud** — a scalable cloud-native honeypot & threat analytics platform
 - 🔐 Built **SVF** — a C++ secure virtual file system with SHA-256 hashing & RBAC
@@ -104,7 +104,7 @@
     </td>
     <td width="50%">
       <h3>🚂 Railway Management System</h3>
-      <p>Full-stack booking system with a under-3-action booking workflow, real-time seat reservation, and MySQL query optimizations that handle concurrent operations with zero race conditions.</p>
+      <p>Full-stack booking system with an under-3-action booking workflow, real-time seat reservation, and MySQL query optimizations that handle concurrent operations with zero race conditions.</p>
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -198,7 +198,7 @@
 
 ## 🗺️ My Journey
 ```text
-2022  ──▶  Started B.E. Computer Engineering @ GSMCOE, Pune (SPPU)
+2022  ──▶  Started B.E. Computer Engineering @ Savitribai Phule Pune University
 2023  ──▶  Explored Full-Stack, Python, and Data Science fundamentals
 2024  ──▶  Python Developer Intern @ AI Adventures LLP
            Built real-time automation pipelines | Dived into ML & Cloud
@@ -212,9 +212,9 @@
 
 ## 🏆 Achievements
 
-| 🥇 | **Winner** — Site Craft Web Development Challenge — VAMINT Club 2025, GSMCOE, Pune |
+| 🥇 | **Winner** — Site Craft Web Development Challenge — VAMINT Club 2025, Pune |
 |---|---|
-| 🏆 | **Runner-Up** — Prep-A-Thon Coding Competition — Technobash 2025, GSMCOE, Pune |
+| 🏆 | **Runner-Up** — Prep-A-Thon Coding Competition — Technobash 2025, Pune |
 
 ---
 
