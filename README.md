@@ -6,20 +6,20 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F74C00&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Ganesh+Kambli+👋;Final-Year+CS+Engineer+%40+GSMCOE%2C+SPPU;Python+Developer+%7C+Full-Stack+%7C+ML;2+Internships+%7C+3+Deployed+Projects+%7C+2+Competition+Wins;Aspiring+SDE+—+Shipping+before+graduation+🚀" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F74C00&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Ganesh+Kambli+👋;Final-Year+CS+Engineer+%40+GSMCOE%2C+SPPU;Python+%7C+Full-Stack+%7C+ML+%7C+Cybersecurity;1+Internship+%7C+6+Projects+%7C+2+Competition+Wins;Shipping+production-grade+software+🚀" alt="Typing SVG"/>
   </a>
 </p>
 
-<!-- Social Badges -->
+<!-- Social + Portfolio Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/ganeshkambli">
+  <a href="https://www.linkedin.com/in/ganesh-kambli-404-error/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:gkambli70@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Ganesh-403">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://ganesh-kamblis-projects.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-F74C00?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Ganesh-403&color=F74C00&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
@@ -28,15 +28,14 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Coding GIF"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF"/>
 
 - 🎓 **Final-year Computer Engineering** @ **GSMCOE, Pune (SPPU)** — graduating 2026
-- 💼 **1 internship**, **multiple deployed projects**, **2 competition wins**
-- 🐍 **Python Developer Intern** @ AI Adventures LLP *(Dec 2024 – Feb 2025)*
+- 💼 **Python Developer Intern** @ AI Adventures LLP *(Dec 2024 – Feb 2025)*
 - 🍯 Building **HoneyCloud** — a cloud-native scalable honeypot platform
 - 🥇 **Winner** — Site Craft Web Dev Challenge, VAMINT Club 2025
 - 🏆 **Runner-Up** — Prep-A-Thon Coding Competition, Technobash 2025
-- 🎯 Targeting **Software Developer / SDE roles** post-graduation
+- 🎯 Targeting **Software Developer** roles — Pune / Remote
 - ⚡ Fun fact: I debug better with music on 🎶
 
 <br/>
@@ -72,35 +71,53 @@
       <h3>🍯 HoneyCloud</h3>
       <p>Cloud-deployed honeypot platform with real-time threat dashboards, scalable multi-node architecture, and attacker behaviour analytics.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Cloud-Deployment-F74C00?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Cloud-F74C00?style=flat-square"/>
       <img src="https://img.shields.io/badge/Cybersecurity-181717?style=flat-square"/>
-      <br/><img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square"/>
+      <br/><img src="https://img.shields.io/badge/Status-In%20Progress-F74C00?style=flat-square"/>
     </td>
     <td width="50%">
-      <h3>🚂 Railway Management System</h3>
-      <p>Booking workflow reduced to under 3 user actions with real-time scheduling and seat reservation; optimised MySQL queries for concurrent operations with zero race conditions.</p>
+      <h3>✈️ Flight Delay Prediction AI</h3>
+      <p>ML web app predicting flight delays — 15+ engineered features, tuned Random Forest model outperformed baseline. Dashboard surfaces top 5 delay drivers.</p>
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <br/><a href="https://github.com/Ganesh-403"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Plotly.js-3F4F75?style=flat-square"/>
+      <br/><a href="https://github.com/Ganesh-403/FlightDelayAI"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>✈️ Flight Delay Prediction AI</h3>
-      <p>Engineered 15+ predictive features from historical flight data; tuned Random Forest model outperformed baseline. Produced dashboards surfacing top 5 delay drivers.</p>
-      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Random%20Forest-013243?style=flat-square"/>
-      <br/><a href="https://github.com/Ganesh-403"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <h3>🚂 Railway Management System</h3>
+      <p>Full-stack booking system — under 3 user actions to book, optimised MySQL queries with zero race conditions.</p>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <br/><a href="https://github.com/Ganesh-403/Railway-Management-System"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%">
       <h3>📜 Bulk Certificate Generator</h3>
-      <p>Compressed certificate generation from hours of manual effort to under 2 minutes — processes 500+ recipients per batch via CSV upload and single-click bulk PDF download.</p>
+      <p>Hours of manual effort → under 2 minutes. Processes 500+ recipients per batch via CSV upload and single-click bulk PDF download.</p>
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
       <img src="https://img.shields.io/badge/Jinja2-B41717?style=flat-square"/>
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      <br/><a href="https://github.com/Ganesh-403"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <br/><a href="https://github.com/Ganesh-403/Bulk-Certificate-Generation-Web-Application"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🤖 Absence Detection System</h3>
+      <p>Built at AI Adventures LLP — end-to-end attendance tracking pipeline cutting reporting time by ~80% and eliminating human error.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Sheets%20API-34A853?style=flat-square&logo=google&logoColor=white"/>
+      <br/><a href="https://github.com/Ganesh-403/Absence-Detection-System"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%">
+      <h3>🔍 Open Source License Detector</h3>
+      <p>Flask app that detects open-source licenses in .txt and .md files — instant compliance check for developers.</p>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NLP-181717?style=flat-square"/>
+      <br/><a href="https://github.com/Ganesh-403/Open-Source-License-Detection"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
@@ -138,8 +155,8 @@
 **Dev Workflow**<br/>
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </p>
 
@@ -149,10 +166,10 @@
 ```text
 2022  ──▶  Started B.E. Computer Engineering @ GSMCOE, Pune (SPPU)
 2023  ──▶  Explored Full-Stack, Python, and Data Science fundamentals
-2024  ──▶  Python Developer Intern @ AI Adventures LLP | Dived into ML & Cloud
+2024  ──▶  Python Developer Intern @ AI Adventures LLP | ML & Cloud deep-dive
 2025  ──▶  🥇 Won Site Craft Web Dev Challenge (VAMINT 2025)
            🏆 Runner-Up Prep-A-Thon Coding Competition (Technobash 2025)
-           🍯 Building HoneyCloud | Targeting SDE roles 🎯
+           🍯 Building HoneyCloud | Targeting Software Developer roles 🎯
 2026  ──▶  Graduating — ready to ship production-grade software
 ```
 
@@ -194,14 +211,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ganeshkambli">
+  <a href="https://www.linkedin.com/in/ganesh-kambli-404-error/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:gkambli70@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Ganesh-403">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://ganesh-kamblis-projects.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-F74C00?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
