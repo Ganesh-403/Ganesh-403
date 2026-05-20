@@ -57,23 +57,7 @@ Currently building **[HoneyCloud](https://github.com/Ganesh-403/honeycloud)** �
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     CURRENTLY BUILDING
-══════════════════════════════════════════════════════════════ -->
 
-## 🔨 Currently Building
-
-<div align="center">
-
-| Project | Core Stack | What It Solves | Status |
-|:--------|:-----------|:---------------|:------:|
-| 🍯 **[HoneyCloud](https://github.com/Ganesh-403/honeycloud)** | Python · LSTM · WebSockets · Docker | Cloud-native honeypot with real-time threat classification | `🟡 In Progress` |
-| 🤖 **Semantic Plagiarism Detector** | FAISS · Sentence Transformers · Streamlit | AI-powered semantic similarity beyond keyword matching | `🟢 Complete` |
-| 🔐 **[SVF](https://github.com/Ganesh-403/SVF)** | C++17 · Argon2id · B-Tree · POSIX | Secure virtual filesystem mimicking ext4 internals | `🟢 Complete` |
-
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════
      EXPERIENCE
@@ -213,25 +197,7 @@ Currently building **[HoneyCloud](https://github.com/Ganesh-403/honeycloud)** �
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     FOCUS DOMAINS
-══════════════════════════════════════════════════════════════ -->
 
-## 🎯 Focus Domains
-
-<div align="center">
-
-| | Domain | What I Build |
-|:---:|:-------|:-------------|
-| 🔐 | **Cybersecurity & Systems** | Honeypot platforms, secure filesystems, RBAC, threat analytics pipelines |
-| ☁️ | **Cloud & Backend** | AWS-powered REST APIs, SaaS backends, async services, cloud deployments |
-| 🤖 | **AI / LLM & RAG** | Semantic search, RAG pipelines, LangChain, FAISS, Ollama, vector DBs |
-| 🐍 | **Python & Automation** | Monitoring pipelines, data workflows, CI/CD with GitHub Actions |
-| 🌐 | **Full-Stack Web** | Flask apps, booking systems, Streamlit dashboards |
-
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════
      JOURNEY
@@ -257,26 +223,14 @@ Currently building **[HoneyCloud](https://github.com/Ganesh-403/honeycloud)** �
      RECOGNITION (Achievements + Certs merged)
 ══════════════════════════════════════════════════════════════ -->
 
-## 🏆 Recognition
+## 🏆 Achievements
 
 <div align="center">
-
-**Competitions**
 
 | | |
 |:---:|:---|
 | 🥇 | **Winner** — Site Craft Web Development Challenge &nbsp;·&nbsp; VAMINT Club 2025, Pune |
 | 🏆 | **Runner-Up** — Prep-A-Thon Coding Competition &nbsp;·&nbsp; Technobash 2025, Pune |
-
-<br/>
-
-**Certifications**
-
-| | Certification | Issuer | Score / Date |
-|:---:|:---|:---|:---:|
-| 🤖 | **Google AI Essentials** | Google | Feb 2025 |
-| 💬 | **Google Prompting Essentials** | Google | Jan 2025 |
-| 🐍 | **Python for ML Training** | EduPyramids · SINE, IIT Bombay | **96%** · Apr 2026 |
 
 </div>
 
@@ -287,12 +241,6 @@ Currently building **[HoneyCloud](https://github.com/Ganesh-403/honeycloud)** �
 ══════════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ganesh-403&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-403&layout=compact&theme=radical&hide_border=true" height="170"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganesh-403&theme=radical&hide_border=true"/>
