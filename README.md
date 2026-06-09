@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=F74C00&center=true&vCenter=true&width=750&lines=Backend+%26+Cloud+Engineer+%7C+CGPA%3A+8.65+%2F+10;Building+HoneyCloud+%E2%80%94+LSTM+threat+intel+%2B+WebSockets;Shipped+a+Semantic+Plagiarism+Detector+with+FAISS;SVF+in+C%2B%2B17+%E2%80%94+Argon2id%2C+B-Tree%2C+ext4-mimic;AWS+%7C+FastAPI+%7C+LangChain+%7C+RAG+%7C+Docker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?Feafont=Fira+Code&size=17&pause=1000&color=F74C00&center=true&vCenter=true&width=750&lines=Backend+%26+Cloud+Engineer+%7C+CGPA%3A+8.65+%2F+10;Building+HoneyCloud+%E2%80%94+LSTM+threat+intel+%2B+WebSockets;Shipped+a+Semantic+Plagiarism+Detector+with+FAISS;SVF+in+C%2B%2B17+%E2%80%94+Argon2id%2C+B-Tree%2C+ext4-mimic;AWS+%7C+FastAPI+%7C+LangChain+%7C+RAG+%7C+Docker" alt="Typing SVG" />
   </a>
 </p>
 
@@ -81,98 +81,6 @@ Currently building **[HoneyCloud](https://github.com/Ganesh-403/honeycloud)** �
     </td>
   </tr>
 </table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════
-     FEATURED PROJECTS — TOP 3
-══════════════════════════════════════════════════════════════ -->
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <!-- HoneyCloud -->
-    <td width="50%" valign="top">
-      <h3>🍯 HoneyCloud &nbsp;<a href="https://github.com/Ganesh-403/honeycloud"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/Final%20Year%20Project-F74C00?style=flat-square"/></h3>
-      <p><strong>Cyber Threat Intelligence Platform</strong></p>
-      <p>Multi-protocol honeypots (SSH / FTP / HTTP) that lure real attackers, stream live telemetry over WebSockets, and run an <strong>LSTM neural network</strong> to classify attack patterns automatically. Glassmorphic dashboard surfaces attacker profiles in real time.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LSTM-F74C00?style=flat-square"/>
-        <img src="https://img.shields.io/badge/WebSockets-181717?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Cloud-0078D4?style=flat-square"/>
-      </p>
-    </td>
-    <!-- Semantic Plagiarism Detector -->
-    <td width="50%" valign="top">
-      <h3>🤖 Semantic Plagiarism Detector &nbsp;<a href="https://github.com/Ganesh-403"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a></h3>
-      <p><strong>AI-Powered Similarity Engine</strong></p>
-      <p>Goes beyond keyword matching — uses <strong>Sentence Transformers + FAISS</strong> to detect paraphrased and semantically equivalent content. Multi-level pipeline analyzes at document and paragraph granularity. Streamlit dashboard with heatmaps and interactive pairwise analysis.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FAISS-F74C00?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Sentence%20Transformers-181717?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <!-- SVF -->
-    <td width="50%" valign="top">
-      <h3>🔐 SVF — Secure Virtual File System &nbsp;<a href="https://github.com/Ganesh-403/SVF"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a></h3>
-      <p><strong>Systems-Level Secure Storage Engine</strong></p>
-      <p>Persistent VFS in <strong>C++17</strong> — Argon2id auth, B-Tree directory indexing, Readers-Writer concurrency lock, and a block storage engine that mimics ext4 internals. POSIX permissions, modular user management, cross-platform: Windows / Linux / Docker.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Argon2id-F74C00?style=flat-square"/>
-        <img src="https://img.shields.io/badge/B--Tree-181717?style=flat-square"/>
-        <img src="https://img.shields.io/badge/POSIX-4A4A4A?style=flat-square"/>
-        <img src="https://img.shields.io/badge/ext4--mimic-555555?style=flat-square"/>
-      </p>
-    </td>
-    <!-- Cloud SaaS -->
-    <td width="50%" valign="top">
-      <h3>☁️ Cloud SaaS System &nbsp;<a href="https://github.com/Ganesh-403/Cloud-SaaS-System"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a></h3>
-      <p><strong>Full-Featured Cloud Backend Platform</strong></p>
-      <p>Production-ready Python SaaS backend with <strong>JWT authentication</strong>, database-backed user management, file upload/preview, metadata storage, and a RESTful API — built to scale with security-first architecture throughout.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-        <img src="https://img.shields.io/badge/REST%20API-F74C00?style=flat-square"/>
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<details>
-<summary>&nbsp;&nbsp;<strong>▸ More Projects</strong> — Railway Management System, Portfolio Website</summary>
-<br/>
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚂 Railway Management System &nbsp;<a href="https://github.com/Ganesh-403/Railway-Management-System"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a></h3>
-      <p>Full-stack seat booking engine with an under-3-action booking flow, real-time seat reservation, and MySQL query optimizations that eliminate race conditions under concurrent load.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Portfolio Website &nbsp;<a href="https://github.com/Ganesh-403/portfolio-website"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a></h3>
-      <p>Personal portfolio showcasing projects, skills, certifications, and experience. Responsive design optimized for recruiters — clean, fast, and professional.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </p>
-    </td>
-  </tr>
-</table>
-</details>
 
 <br/>
 
