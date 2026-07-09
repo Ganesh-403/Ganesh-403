@@ -2,19 +2,19 @@
      HEADER
 ══════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F74C00&height=210&section=header&text=Ganesh%20Kambli&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Backend%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI%20%E2%80%A2%20Security%20Engineering&descAlignY=57&descSize=17&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F74C00&height=210&section=header&text=Ganesh%20Kambli&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Backend%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Cloud%20%E2%80%A2%20Security%20Engineering&descAlignY=57&descSize=17&animation=fadeIn"/>
 </p>
 
 <!-- Availability + Typing -->
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-SDE%20%7C%20Backend%20%7C%20Cloud%20%7C%20Security-2ea44f?style=flat-square"/>
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-AI%20%7C%20Backend%20%7C%20SRE%20%7C%20DevOps%20%7C%20SOC-2ea44f?style=flat-square"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Graduating-June%202026-F74C00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Graduated-June%202026-F74C00?style=flat-square"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?Feafont=Fira+Code&size=17&pause=1000&color=F74C00&center=true&vCenter=true&width=750&lines=Backend+%26+Cloud+Engineer+%7C+CGPA%3A+8.65+%2F+10;Building+HoneyCloud+%E2%80%94+LSTM+threat+intel+%2B+WebSockets;Shipped+a+Semantic+Plagiarism+Detector+with+FAISS;SVF+in+C%2B%2B17+%E2%80%94+Argon2id%2C+B-Tree%2C+ext4-mimic;AWS+%7C+FastAPI+%7C+LangChain+%7C+RAG+%7C+Docker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?Feafont=Fira+Code&size=17&pause=1000&color=F74C00&center=true&vCenter=true&width=750&lines=Backend+%26+AI%2FML+Engineer+%7C+CGPA%3A+8.65+%2F+10;Built+RepoSage+%E2%80%94+Agentic+GraphRAG+Codebase+Intelligence;Shipped+HoneyCloud+%E2%80%94+LSTM+Threat+Intel%2C+2+Published+Papers;SVF+in+C%2B%2B17+%E2%80%94+Argon2id%2C+B-Tree%2C+ext4-mimic;AWS+%7C+FastAPI+%7C+LangChain+%7C+RAG+%7C+Docker" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,18 +28,20 @@
 
 ### I build infrastructure that sits between users and chaos.
 
-Final-year CS engineer at **SPPU Pune** (CGPA **8.65**), specializing in backend systems, cloud-native architecture, AI/LLM tooling, and cybersecurity. I ship production-grade software — honeypot platforms, semantic search engines, secure filesystems — before most people graduate.
+Computer Engineering graduate from **SPPU Pune** (CGPA **8.65**, June 2026), specializing in backend systems, AI/LLM tooling, cloud-native architecture, and cybersecurity. I ship production-grade software — honeypot platforms, agentic RAG systems, secure filesystems — and back it up with published research.
 
-Currently building **[HoneyCloud](https://github.com/Ganesh-403/honeycloud)** — a cloud-native threat intelligence platform with LSTM-based attack classification and real-time WebSocket telemetry.
+Built **[RepoSage](https://github.com/Ganesh-403)** — an offline agentic GraphRAG codebase intelligence system (LangGraph + ChromaDB + AST-based chunking) — and **[HoneyCloud](https://github.com/Ganesh-403/honeycloud)**, a cloud-native honeypot platform with LSTM-based threat classification, documented across **2 published papers**.
 
 - 🐍 **Python Developer Intern** @ AI Adventures LLP *(Dec 2024 – Feb 2025)*
+- 🌱 **Open Source Contributor** — GirlScript Summer of Code 2026 (GSSoC'26)
+- 🛠️ **Project Admin & Maintainer** — Elite Coders Summer of Code 2026 (ECSoC'26)
 - 🥇 **Winner** — Site Craft Web Dev Challenge, VAMINT Club 2025
 - 🏆 **Runner-Up** — Prep-A-Thon Coding Competition, Technobash 2025
 - ⚡ I debug better with music on 🎶
 
 <br clear="right"/>
 
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+> *"Simplicity is a prerequisite for reliability."* — Edsger W. Dijkstra
 
 <br/>
 
@@ -61,9 +63,8 @@ Currently building **[HoneyCloud](https://github.com/Ganesh-403/honeycloud)** �
       <br/>
       <sub>AI Adventures LLP &nbsp;·&nbsp; Pune, Maharashtra</sub>
       <br/><br/>
-      ▸ Eliminated manual attendance tracking with an end-to-end <strong>Absence Detection System</strong> (Python + Google Sheets API + GitHub Actions) — cut reporting time by <strong>~80%</strong> and human error to <strong>zero</strong><br/>
-      ▸ Built a <strong>real-time Google Sheets monitoring pipeline</strong> that automated data reconciliation across internal workflows, replacing a fully manual, error-prone process<br/>
-      ▸ Redesigned <strong>3 Python course modules</strong> and authored <strong>10+ interactive assessments</strong> on Moodle LMS, improving learner engagement
+      ▸ Built an end-to-end <strong>Absence Detection System</strong> (Python + Google Sheets API + GitHub Actions), cutting reporting time by <strong>~80%</strong><br/>
+      ▸ Automated data reconciliation across internal workflows with a real-time Google Sheets monitoring pipeline
     </td>
   </tr>
 </table>
@@ -80,12 +81,12 @@ Currently building **[HoneyCloud](https://github.com/Ganesh-403/honeycloud)** �
 
 | Layer | Technologies |
 |:------|:-------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![REST](https://img.shields.io/badge/REST%20APIs-F74C00?style=flat-square) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Async](https://img.shields.io/badge/Async-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![REST](https://img.shields.io/badge/REST%20APIs-F74C00?style=flat-square) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) |
 | **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-F74C00?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **AI / LLM & RAG** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-F74C00?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-181717?style=flat-square) ![RAG](https://img.shields.io/badge/RAG%20Pipelines-0078D4?style=flat-square) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-F74C00?style=flat-square) ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square) |
-| **Security** | ![Argon2id](https://img.shields.io/badge/Argon2id-181717?style=flat-square) ![RBAC](https://img.shields.io/badge/RBAC-F74C00?style=flat-square) ![SHA‑256](https://img.shields.io/badge/SHA--256-555555?style=flat-square) |
+| **AI / LLM & RAG** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-F74C00?style=flat-square) ![ChromaDB](https://img.shields.io/badge/ChromaDB-F74C00?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-181717?style=flat-square) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white) |
+| **Security** | ![Argon2id](https://img.shields.io/badge/Argon2id-181717?style=flat-square) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![RBAC](https://img.shields.io/badge/RBAC-F74C00?style=flat-square) |
 
 </div>
 
@@ -106,9 +107,12 @@ Currently building **[HoneyCloud](https://github.com/Ganesh-403/honeycloud)** �
            Built automation pipelines | Cut reporting time 80% | Dived into ML & AWS
 2025  ──▶  🥇 Won Site Craft Web Dev Challenge — VAMINT Club 2025
            🏆 Runner-Up Prep-A-Thon Coding Competition — Technobash 2025
-           🍯 HoneyCloud (LSTM + WebSockets)  |  🤖 Semantic Plagiarism Detector
-           🔐 SVF in C++17 (Argon2id, B-Tree, ext4-mimic)  |  ☁️ Cloud SaaS
-2026  ──▶  Graduating with CGPA 8.65 — seeking SDE / Backend / Cloud / Security roles 🎯
+           🍯 HoneyCloud (LSTM + WebSockets)  |  🔐 SVF in C++17 (Argon2id, B-Tree, ext4-mimic)
+2026  ──▶  🤖 Built RepoSage — Agentic GraphRAG Codebase Intelligence (LangGraph + ChromaDB)
+           📄 2 Papers Published — HoneyCloud system + Honeypot survey
+           🌱 GSSoC'26 Contributor  |  🛠️ ECSoC'26 Project Admin & Maintainer
+           🎓 Graduated June 30, 2026 — CGPA 8.65
+           🎯 Seeking AI / Backend / SRE / Data Analyst / DevOps & Cloud / SOC roles
 ```
 
 <br/>
@@ -123,6 +127,9 @@ Currently building **[HoneyCloud](https://github.com/Ganesh-403/honeycloud)** �
 
 | | |
 |:---:|:---|
+| 📄 | **Published 2 Research Papers** — HoneyCloud system architecture & AI-driven honeypot survey |
+| 🌱 | **Open Source Contributor** — GirlScript Summer of Code 2026 (GSSoC'26) |
+| 🛠️ | **Project Admin & Maintainer** — Elite Coders Summer of Code 2026 (ECSoC'26) |
 | 🥇 | **Winner** — Site Craft Web Development Challenge &nbsp;·&nbsp; VAMINT Club 2025, Pune |
 | 🏆 | **Runner-Up** — Prep-A-Thon Coding Competition &nbsp;·&nbsp; Technobash 2025, Pune |
 
@@ -161,7 +168,7 @@ Currently building **[HoneyCloud](https://github.com/Ganesh-403/honeycloud)** �
 </p>
 
 <p align="center">
-  I'm open to <strong>SDE, Backend, Cloud, AI, and Security Engineering</strong> roles from 2026.<br/>
+  I'm open to <strong>AI, Backend, SRE, Data Analyst, DevOps & Cloud, and SOC</strong> roles.<br/>
   If you're building something interesting — reach out.
 </p>
 
