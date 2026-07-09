@@ -37,7 +37,6 @@ Built **[RepoSage](https://github.com/Ganesh-403)** — an offline agentic Graph
 - 🛠️ **Project Admin & Maintainer** — Elite Coders Summer of Code 2026 (ECSoC'26)
 - 🥇 **Winner** — Site Craft Web Dev Challenge, VAMINT Club 2025
 - 🏆 **Runner-Up** — Prep-A-Thon Coding Competition, Technobash 2025
-- ⚡ I debug better with music on 🎶
 
 <br clear="right"/>
 
