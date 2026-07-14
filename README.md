@@ -30,7 +30,7 @@
 
 Computer Engineering graduate from **SPPU Pune** (CGPA **8.65**, June 2026), specializing in backend systems, AI/LLM tooling, cloud-native architecture, and cybersecurity. I ship production-grade software — honeypot platforms, agentic RAG systems, secure filesystems — and back it up with published research.
 
-Built **[RepoSage](https://github.com/Ganesh-403)** — an offline agentic GraphRAG codebase intelligence system (LangGraph + ChromaDB + AST-based chunking) — and **[HoneyCloud](https://github.com/Ganesh-403/honeycloud)**, a cloud-native honeypot platform with LSTM-based threat classification, documented across **2 published papers**.
+Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline agentic GraphRAG codebase intelligence system (LangGraph + ChromaDB + AST-based chunking) — and **[HoneyCloud](https://github.com/Ganesh-403/honeycloud)**, a cloud-native honeypot platform with LSTM-based threat classification, documented across **2 published papers**.
 
 - 🐍 **Python Developer Intern** @ AI Adventures LLP *(Dec 2024 – Feb 2025)*
 - 🌱 **Open Source Contributor** — GirlScript Summer of Code 2026 (GSSoC'26)
