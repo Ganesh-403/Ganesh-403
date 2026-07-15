@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?Feafont=Fira+Code&size=17&pause=1000&color=F74C00&center=true&vCenter=true&width=750&lines=Backend+%26+AI%2FML+Engineer+%7C+CGPA%3A+8.65+%2F+10;Built+RepoSage+%E2%80%94+Agentic+GraphRAG+Codebase+Intelligence;Shipped+HoneyCloud+%E2%80%94+LSTM+Threat+Intel%2C+2+Published+Papers;SVF+in+C%2B%2B17+%E2%80%94+Argon2id%2C+B-Tree%2C+ext4-mimic;AWS+%7C+FastAPI+%7C+LangChain+%7C+RAG+%7C+Docker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?Feafont=Fira+Code&size=17&pause=1000&color=F74C00&center=true&vCenter=true&width=750&lines=Backend+%26+AI%2FML+Engineer+%7C+CGPA%3A+7.95+%2F+10;Built+RepoSage+%E2%80%94+Agentic+GraphRAG+Codebase+Intelligence;Shipped+HoneyCloud+%E2%80%94+LSTM+Threat+Intel%2C+2+Published+Papers;SVF+in+C%2B%2B17+%E2%80%94+Argon2id%2C+B-Tree%2C+ext4-mimic;AWS+%7C+FastAPI+%7C+LangChain+%7C+RAG+%7C+Docker" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 
 ### I build infrastructure that sits between users and chaos.
 
-Computer Engineering graduate from **SPPU Pune** (CGPA **8.65**, June 2026), specializing in backend systems, AI/LLM tooling, cloud-native architecture, and cybersecurity. I ship production-grade software — honeypot platforms, agentic RAG systems, secure filesystems — and back it up with published research.
+Computer Engineering graduate from **SPPU Pune** (CGPA **7.95**, June 2026), specializing in backend systems, AI/LLM tooling, cloud-native architecture, and cybersecurity. I ship production-grade software — honeypot platforms, agentic RAG systems, secure filesystems — and back it up with published research.
 
 Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline agentic GraphRAG codebase intelligence system (LangGraph + ChromaDB + AST-based chunking) — and **[HoneyCloud](https://github.com/Ganesh-403/honeycloud)**, a cloud-native honeypot platform with LSTM-based threat classification, documented across **2 published papers**.
 
@@ -110,7 +110,7 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
 2026  ──▶  🤖 Built RepoSage — Agentic GraphRAG Codebase Intelligence (LangGraph + ChromaDB)
            📄 2 Papers Published — HoneyCloud system + Honeypot survey
            🌱 GSSoC'26 Contributor  |  🛠️ ECSoC'26 Project Admin & Maintainer
-           🎓 Graduated June 30, 2026 — CGPA 8.65
+           🎓 Graduated June 30, 2026 — CGPA 7.95
            🎯 Seeking AI / Backend / SRE / Data Analyst / DevOps & Cloud / SOC roles
 ```
 
