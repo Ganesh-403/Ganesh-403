@@ -44,32 +44,6 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
 
 <br/>
 
-
-
-<!-- ═══════════════════════════════════════════════════════════
-     EXPERIENCE
-══════════════════════════════════════════════════════════════ -->
-
-## 💼 Experience
-
-<table>
-  <tr>
-    <td width="52px" align="center">🐍</td>
-    <td>
-      <strong>Python Developer Intern — Automation & Backend Development</strong>
-      &nbsp;
-      <img src="https://img.shields.io/badge/Dec%202024–Feb%202025-F74C00?style=flat-square"/>
-      <br/>
-      <sub>AI Adventures LLP &nbsp;·&nbsp; Pune, Maharashtra</sub>
-      <br/><br/>
-      ▸ Built an end-to-end <strong>Absence Detection System</strong> (Python + Google Sheets API + GitHub Actions), cutting reporting time by <strong>~80%</strong><br/>
-      ▸ Automated data reconciliation across internal workflows with a real-time Google Sheets monitoring pipeline
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <!-- ═══════════════════════════════════════════════════════════
      TECH STACK
 ══════════════════════════════════════════════════════════════ -->
