@@ -43,11 +43,9 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
 > *"Simplicity is a prerequisite for reliability."* — Edsger W. Dijkstra
 
 <br/>
-
 <!-- ═══════════════════════════════════════════════════════════
      TECH STACK
 ══════════════════════════════════════════════════════════════ -->
-
 ## 🛠️ Tech Stack
 
 <div align="center">
