@@ -74,7 +74,6 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
 
 ```text
 2022  ──▶  Started B.E. Computer Engineering @ Savitribai Phule Pune University
-2023  ──▶  Explored Full-Stack, Python, and Data Science fundamentals
 2024  ──▶  Python Developer Intern @ AI Adventures LLP (Pune)
            Built automation pipelines | Cut reporting time 80% | Dived into ML & AWS
 2025  ──▶  🥇 Won Site Craft Web Dev Challenge — VAMINT Club 2025
