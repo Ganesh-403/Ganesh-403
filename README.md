@@ -1,20 +1,36 @@
 <!-- ═══════════════════════════════════════════════════════════
      HEADER
 ══════════════════════════════════════════════════════════════ -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F74C00&height=210&section=header&text=Ganesh%20Kambli&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Backend%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Cloud%20%E2%80%A2%20Security%20Engineering&descAlignY=57&descSize=17&animation=fadeIn"/>
+  <a href="#-identity" aria-label="Go to profile details">
+    <img
+      src="https://capsule-render.vercel.app/api?type=waving&color=F74C00&height=210&section=header&text=Ganesh%20Kambli&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Backend%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Cloud%20%E2%80%A2%20Security%20Engineering&descAlignY=57&descSize=17&animation=fadeIn"
+      alt="Ganesh Kambli — Backend • AI/ML • Cloud • Security Engineering"
+    />
+  </a>
 </p>
 
 <!-- Availability + Typing -->
+
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-AI%20%7C%20Backend%20%7C%20SRE%20%7C%20DevOps%20%7C%20SOC-2ea44f?style=flat-square"/>
+  <img
+    src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-AI%20%7C%20Backend%20%7C%20SRE%20%7C%20DevOps%20%7C%20SOC-2ea44f?style=flat-square"
+    alt="Open to Work — AI | Backend | SRE | DevOps | SOC"
+  />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Graduated-June%202026-F74C00?style=flat-square"/>
+  <img
+    src="https://img.shields.io/badge/Graduated-June%202026-F74C00?style=flat-square"
+    alt="Graduated June 2026"
+  />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?Feafont=Fira+Code&size=17&pause=1000&color=F74C00&center=true&vCenter=true&width=750&lines=Backend+%26+AI%2FML+Engineer+%7C+CGPA%3A+7.95+%2F+10;Built+RepoSage+%E2%80%94+Agentic+GraphRAG+Codebase+Intelligence;Shipped+HoneyCloud+%E2%80%94+LSTM+Threat+Intel%2C+2+Published+Papers;SVF+in+C%2B%2B17+%E2%80%94+Argon2id%2C+B-Tree%2C+ext4-mimic;AWS+%7C+FastAPI+%7C+LangChain+%7C+RAG+%7C+Docker" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.herokuapp.com?Feafont=Fira+Code&size=17&pause=1000&color=F74C00&center=true&vCenter=true&width=750&lines=Backend+%26+AI%2FML+Engineer+%7C+CGPA%3A+7.95+%2F+10;Built+RepoSage+%E2%80%94+Agentic+GraphRAG+Codebase+Intelligence;Shipped+HoneyCloud+%E2%80%94+LSTM+Threat+Intel%2C+2+Published+Papers;SVF+in+C%2B%2B17+%E2%80%94+Argon2id%2C+B-Tree%2C+ext4-mimic;AWS+%7C+FastAPI+%7C+LangChain+%7C+RAG+%7C+Docker"
+      alt="Backend & AI/ML Engineer — projects and tech stack"
+    />
   </a>
 </p>
 
@@ -24,7 +40,14 @@
      IDENTITY
 ══════════════════════════════════════════════════════════════ -->
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
+<a name="-identity"></a>
+
+<img
+  align="right"
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  width="280"
+  alt="Animated illustration of a developer coding"
+/>
 
 ### I build infrastructure that sits between users and chaos.
 
@@ -43,6 +66,7 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
 > *"Simplicity is a prerequisite for reliability."* — Edsger W. Dijkstra
 
 <br/>
+
 <!-- ═══════════════════════════════════════════════════════════
      TECH STACK
 ══════════════════════════════════════════════════════════════ -->
@@ -63,8 +87,6 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
 </div>
 
 <br/>
-
-
 
 <!-- ═══════════════════════════════════════════════════════════
      JOURNEY
@@ -96,7 +118,7 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
 
 <div align="center">
 
-| | |
+|  |  |
 |:---:|:---|
 | 📄 | **Published 2 Research Papers** — HoneyCloud system architecture & AI-driven honeypot survey |
 | 🌱 | **Open Source Contributor** — GirlScript Summer of Code 2026 (GSSoC'26) |
@@ -115,15 +137,24 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganesh-403&theme=radical&hide_border=true"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Ganesh-403&theme=radical&hide_border=true"
+    alt="Ganesh-403 GitHub contribution streak stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganesh-403&theme=react-dark&hide_border=true&area=true&color=F74C00&line=F74C00&point=ffffff"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ganesh-403&theme=react-dark&hide_border=true&area=true&color=F74C00&line=F74C00&point=ffffff"
+    alt="Ganesh-403 GitHub activity graph"
+  />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ganesh-403/Ganesh-403/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+  <img
+    src="https://raw.githubusercontent.com/Ganesh-403/Ganesh-403/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub contribution grid snake animation"
+  />
 </p>
 
 <br/>
@@ -145,20 +176,33 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ganeshkambli/">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img
+      src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Connect with me on LinkedIn"
+    />
   </a>
   &nbsp;
   <a href="mailto:gkambli70@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img
+      src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Send me an email"
+    />
   </a>
   &nbsp;
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ganesh-403&color=F74C00&style=for-the-badge&label=Profile+Views"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=Ganesh-403&color=F74C00&style=for-the-badge&label=Profile+Views"
+    alt="Profile views counter"
+  />
 </p>
 
 <!-- Footer -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F74C00&height=120&section=footer"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=F74C00&height=120&section=footer"
+    alt=""
+  />
 </p>
