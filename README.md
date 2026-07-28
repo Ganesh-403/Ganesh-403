@@ -1,21 +1,4 @@
 <!-- ═══════════════════════════════════════════════════════════
-     GLOBAL WRAPPER (CARD STYLE)
-══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-  <!-- Background-like feel using a centered container -->
-  <div style="
-      max-width: 980px;
-      margin: 0 auto;
-      border-radius: 18px;
-      padding: 18px 18px 8px 18px;
-      background: radial-gradient(circle at top, #161b22 0, #010409 45%, #000000 100%);
-      box-shadow: 0 0 40px rgba(0,0,0,0.55);
-      border: 1px solid rgba(247,76,0,0.4);
-  ">
-
-<!-- ═══════════════════════════════════════════════════════════
      HEADER
 ══════════════════════════════════════════════════════════════ -->
 
@@ -56,45 +39,33 @@
      IDENTITY
 ══════════════════════════════════════════════════════════════ -->
 
+<!-- Section divider -->
 <div align="center">
   <img src="https://img.shields.io/badge/-PROFILE-0d1117?style=for-the-badge&labelColor=F74C00&logo=github&logoColor=white" alt="Profile section badge" />
 </div>
 
 <br/>
 
-<div style="display: flex; align-items: flex-start; gap: 16px; flex-wrap: wrap; justify-content: center;">
+<img
+  align="right"
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  width="280"
+  alt="Animated illustration of a developer coding"
+/>
 
-  <div style="flex: 1 1 280px; min-width: 260px;">
+### I build infrastructure that sits between users and chaos.
 
-  <img
-    align="right"
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    width="260"
-    alt="Animated illustration of a developer coding"
-    style="border-radius: 12px;"
-  />
+Computer Engineering graduate from **SPPU Pune** (CGPA **7.95**, June 2026), specializing in backend systems, AI/LLM tooling, cloud-native architecture, and cybersecurity. I ship production-grade software — honeypot platforms, agentic RAG systems, secure filesystems — and back it up with published research.
 
-  </div>
+Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline agentic GraphRAG codebase intelligence system (LangGraph + ChromaDB + AST-based chunking) — and **[HoneyCloud](https://github.com/Ganesh-403/honeycloud)**, a cloud-native honeypot platform with LSTM-based threat classification, documented across **2 published papers**.
 
-  <div style="flex: 3 1 320px; min-width: 300px; text-align: left;">
+- 🐍 **Python Developer Intern** @ AI Adventures LLP *(Dec 2024 – Feb 2025)*
+- 🌱 **Open Source Contributor** — GirlScript Summer of Code 2026 (GSSoC'26)
+- 🛠️ **Project Admin & Maintainer** — Elite Coders Summer of Code 2026 (ECSoC'26)
+- 🥇 **Winner** — Site Craft Web Dev Challenge, VAMINT Club 2025
+- 🏆 **Runner-Up** — Prep-A-Thon Coding Competition, Technobash 2025
 
-  ### I build infrastructure that sits between users and chaos.
-
-  Computer Engineering graduate from **SPPU Pune** (CGPA **7.95**, June 2026), specializing in backend systems, AI/LLM tooling, cloud-native architecture, and cybersecurity. I ship production-grade software — honeypot platforms, agentic RAG systems, secure filesystems — and back it up with published research.
-
-  Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline agentic GraphRAG codebase intelligence system (LangGraph + ChromaDB + AST-based chunking) — and **[HoneyCloud](https://github.com/Ganesh-403/honeycloud)**, a cloud-native honeypot platform with LSTM-based threat classification, documented across **2 published papers**.
-
-  - 🐍 **Python Developer Intern** @ AI Adventures LLP *(Dec 2024 – Feb 2025)*
-  - 🌱 **Open Source Contributor** — GirlScript Summer of Code 2026 (GSSoC'26)
-  - 🛠️ **Project Admin & Maintainer** — Elite Coders Summer of Code 2026 (ECSoC'26)
-  - 🥇 **Winner** — Site Craft Web Dev Challenge, VAMINT Club 2025
-  - 🏆 **Runner-Up** — Prep-A-Thon Coding Competition, Technobash 2025
-
-  </div>
-
-</div>
-
-<br/>
+<br clear="right"/>
 
 <div align="center">
   <blockquote>
@@ -112,7 +83,6 @@
   <img src="https://img.shields.io/badge/-TECH%20STACK-0d1117?style=for-the-badge&labelColor=F74C00&logo=stackshare&logoColor=white" alt="Tech stack section badge" />
 </div>
 
-## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -188,7 +158,6 @@
   <img src="https://img.shields.io/badge/-JOURNEY-0d1117?style=for-the-badge&labelColor=F74C00&logo=road&logoColor=white" alt="Journey section badge" />
 </div>
 
-## 🗺️ Journey
 
 ```text
 2022  ──▶  Started B.E. Computer Engineering @ Savitribai Phule Pune University
@@ -214,7 +183,6 @@
   <img src="https://img.shields.io/badge/-ACHIEVEMENTS-0d1117?style=for-the-badge&labelColor=F74C00&logo=trophy&logoColor=white" alt="Achievements section badge" />
 </div>
 
-## 🏆 Achievements
 
 <div align="center">
 
@@ -253,7 +221,6 @@
   <img src="https://img.shields.io/badge/-GITHUB%20STATS-0d1117?style=for-the-badge&labelColor=F74C00&logo=github&logoColor=white" alt="GitHub stats section badge" />
 </div>
 
-## 📊 GitHub Stats
 
 <div align="center">
 
@@ -283,8 +250,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-LET'S%20CONNECT-0d1117?style=for-the-badge&labelColor=F74C00&logo=handshake&logoColor=white" alt="Connect section badge" />
 </div>
-
-## 🌐 Let's Connect
 
 <p align="center">
   🎶 &nbsp;<strong>Music</strong>&nbsp; · &nbsp;✈️ &nbsp;<strong>Travelling</strong>&nbsp; · &nbsp;🏋️ &nbsp;<strong>Fitness</strong>
@@ -327,6 +292,3 @@
     alt="Footer wave"
   />
 </div>
-
-  </div> <!-- end card -->
-</div>   <!-- end global wrapper -->
