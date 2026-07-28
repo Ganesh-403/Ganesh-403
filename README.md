@@ -246,10 +246,10 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
 <!-- ═══════════════════════════════════════════════════════════
      CONNECT
 ══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
   <img src="https://img.shields.io/badge/-LET'S%20CONNECT-0d1117?style=for-the-badge&labelColor=F74C00&logo=handshake&logoColor=white" alt="Connect section badge" />
 </div>
+
 
 <p align="center">
   🎶 &nbsp;<strong>Music</strong>&nbsp; · &nbsp;✈️ &nbsp;<strong>Travelling</strong>&nbsp; · &nbsp;🏋️ &nbsp;<strong>Fitness</strong>
