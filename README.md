@@ -2,37 +2,36 @@
      HEADER
 ══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <a href="#-identity" aria-label="Go to profile details">
+<div align="center">
+
+  <!-- Hero banner -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=F74C00&height=210&section=header&text=Ganesh%20Kambli&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Backend%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Cloud%20%E2%80%A2%20Security%20Engineering&descAlignY=57&descSize=17&animation=fadeIn"
+    alt="Ganesh Kambli — Backend • AI/ML • Cloud • Security Engineering"
+  />
+
+  <!-- Quick badges row -->
+  <p>
     <img
-      src="https://capsule-render.vercel.app/api?type=waving&color=F74C00&height=210&section=header&text=Ganesh%20Kambli&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Backend%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Cloud%20%E2%80%A2%20Security%20Engineering&descAlignY=57&descSize=17&animation=fadeIn"
-      alt="Ganesh Kambli — Backend • AI/ML • Cloud • Security Engineering"
+      src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-AI%20%7C%20Backend%20%7C%20SRE%20%7C%20DevOps%20%7C%20SOC-2ea44f?style=for-the-badge"
+      alt="Open to Work — AI | Backend | SRE | DevOps | SOC"
     />
-  </a>
-</p>
+    &nbsp;
+    <img
+      src="https://img.shields.io/badge/Graduated-June%202026-F74C00?style=for-the-badge"
+      alt="Graduated June 2026"
+    />
+  </p>
 
-<!-- Availability + Typing -->
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-AI%20%7C%20Backend%20%7C%20SRE%20%7C%20DevOps%20%7C%20SOC-2ea44f?style=flat-square"
-    alt="Open to Work — AI | Backend | SRE | DevOps | SOC"
-  />
-  &nbsp;&nbsp;
-  <img
-    src="https://img.shields.io/badge/Graduated-June%202026-F74C00?style=flat-square"
-    alt="Graduated June 2026"
-  />
-</p>
-
-<p align="center">
+  <!-- Typing banner -->
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?Feafont=Fira+Code&size=17&pause=1000&color=F74C00&center=true&vCenter=true&width=750&lines=Backend+%26+AI%2FML+Engineer+%7C+CGPA%3A+7.95+%2F+10;Built+RepoSage+%E2%80%94+Agentic+GraphRAG+Codebase+Intelligence;Shipped+HoneyCloud+%E2%80%94+LSTM+Threat+Intel%2C+2+Published+Papers;SVF+in+C%2B%2B17+%E2%80%94+Argon2id%2C+B-Tree%2C+ext4-mimic;AWS+%7C+FastAPI+%7C+LangChain+%7C+RAG+%7C+Docker"
+      src="https://readme-typing-svg.herokuapp.com?Feafont=Fira+Code&size=17&pause=1000&color=F74C00&center=true&vCenter=true&width=850&lines=Backend+%26+AI%2FML+Engineer+%7C+CGPA%3A+7.95+%2F+10;Built+RepoSage+%E2%80%94+Agentic+GraphRAG+Codebase+Intelligence;Shipped+HoneyCloud+%E2%80%94+LSTM+Threat+Intel%2C+2+Published+Papers;SVF+in+C%2B%2B17+%E2%80%94+Argon2id%2C+B-Tree%2C+ext4-mimic;AWS+%7C+FastAPI+%7C+LangChain+%7C+RAG+%7C+Docker"
       alt="Backend & AI/ML Engineer — projects and tech stack"
     />
   </a>
-</p>
+
+</div>
 
 <br/>
 
@@ -40,7 +39,12 @@
      IDENTITY
 ══════════════════════════════════════════════════════════════ -->
 
-<a name="-identity"></a>
+<!-- Section divider -->
+<div align="center">
+  <img src="https://img.shields.io/badge/-PROFILE-0d1117?style=for-the-badge&labelColor=F74C00&logo=github&logoColor=white" alt="Profile section badge" />
+</div>
+
+<br/>
 
 <img
   align="right"
@@ -63,7 +67,11 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
 
 <br clear="right"/>
 
-> *"Simplicity is a prerequisite for reliability."* — Edsger W. Dijkstra
+<div align="center">
+  <blockquote>
+    <em>"Simplicity is a prerequisite for reliability."</em> — Edsger W. Dijkstra
+  </blockquote>
+</div>
 
 <br/>
 
@@ -71,18 +79,73 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
      TECH STACK
 ══════════════════════════════════════════════════════════════ -->
 
+<div align="center">
+  <img src="https://img.shields.io/badge/-TECH%20STACK-0d1117?style=for-the-badge&labelColor=F74C00&logo=stackshare&logoColor=white" alt="Tech stack section badge" />
+</div>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-| Layer | Technologies |
-|:------|:-------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![REST](https://img.shields.io/badge/REST%20APIs-F74C00?style=flat-square) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-F74C00?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **AI / LLM & RAG** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-F74C00?style=flat-square) ![ChromaDB](https://img.shields.io/badge/ChromaDB-F74C00?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-181717?style=flat-square) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white) |
-| **Security** | ![Argon2id](https://img.shields.io/badge/Argon2id-181717?style=flat-square) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![RBAC](https://img.shields.io/badge/RBAC-F74C00?style=flat-square) |
+<table>
+  <tr>
+    <th>Layer</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend &amp; APIs</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST%20APIs-F74C00?style=flat-square" />
+      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Cloud &amp; DevOps</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+      <img src="https://img.shields.io/badge/CI%2FCD-F74C00?style=flat-square" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>AI / LLM &amp; RAG</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
+      <img src="https://img.shields.io/badge/FAISS-F74C00?style=flat-square" />
+      <img src="https://img.shields.io/badge/ChromaDB-F74C00?style=flat-square" />
+      <img src="https://img.shields.io/badge/Ollama-181717?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Security</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Argon2id-181717?style=flat-square" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+      <img src="https://img.shields.io/badge/RBAC-F74C00?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -91,6 +154,10 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
 <!-- ═══════════════════════════════════════════════════════════
      JOURNEY
 ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-JOURNEY-0d1117?style=for-the-badge&labelColor=F74C00&logo=road&logoColor=white" alt="Journey section badge" />
+</div>
 
 ## 🗺️ Journey
 
@@ -114,17 +181,36 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
      RECOGNITION (Achievements + Certs merged)
 ══════════════════════════════════════════════════════════════ -->
 
+<div align="center">
+  <img src="https://img.shields.io/badge/-ACHIEVEMENTS-0d1117?style=for-the-badge&labelColor=F74C00&logo=trophy&logoColor=white" alt="Achievements section badge" />
+</div>
+
 ## 🏆 Achievements
 
 <div align="center">
 
-|  |  |
-|:---:|:---|
-| 📄 | **Published 2 Research Papers** — HoneyCloud system architecture & AI-driven honeypot survey |
-| 🌱 | **Open Source Contributor** — GirlScript Summer of Code 2026 (GSSoC'26) |
-| 🛠️ | **Project Admin & Maintainer** — Elite Coders Summer of Code 2026 (ECSoC'26) |
-| 🥇 | **Winner** — Site Craft Web Development Challenge &nbsp;·&nbsp; VAMINT Club 2025, Pune |
-| 🏆 | **Runner-Up** — Prep-A-Thon Coding Competition &nbsp;·&nbsp; Technobash 2025, Pune |
+<table>
+  <tr>
+    <td align="center">📄</td>
+    <td><strong>Published 2 Research Papers</strong> — HoneyCloud system architecture & AI-driven honeypot survey</td>
+  </tr>
+  <tr>
+    <td align="center">🌱</td>
+    <td><strong>Open Source Contributor</strong> — GirlScript Summer of Code 2026 (GSSoC'26)</td>
+  </tr>
+  <tr>
+    <td align="center">🛠️</td>
+    <td><strong>Project Admin & Maintainer</strong> — Elite Coders Summer of Code 2026 (ECSoC'26)</td>
+  </tr>
+  <tr>
+    <td align="center">🥇</td>
+    <td><strong>Winner</strong> — Site Craft Web Development Challenge &nbsp;·&nbsp; VAMINT Club 2025, Pune</td>
+  </tr>
+  <tr>
+    <td align="center">🏆</td>
+    <td><strong>Runner-Up</strong> — Prep-A-Thon Coding Competition &nbsp;·&nbsp; Technobash 2025, Pune</td>
+  </tr>
+</table>
 
 </div>
 
@@ -134,34 +220,40 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
      GITHUB STATS
 ══════════════════════════════════════════════════════════════ -->
 
+<div align="center">
+  <img src="https://img.shields.io/badge/-GITHUB%20STATS-0d1117?style=for-the-badge&labelColor=F74C00&logo=github&logoColor=white" alt="GitHub stats section badge" />
+</div>
+
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
+
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Ganesh-403&theme=radical&hide_border=true"
     alt="Ganesh-403 GitHub contribution streak stats"
   />
-</p>
-
-<p align="center">
+  <br/><br/>
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Ganesh-403&theme=react-dark&hide_border=true&area=true&color=F74C00&line=F74C00&point=ffffff"
     alt="Ganesh-403 GitHub activity graph"
   />
-</p>
-
-<p align="center">
+  <br/><br/>
   <img
     src="https://raw.githubusercontent.com/Ganesh-403/Ganesh-403/output/github-contribution-grid-snake-dark.svg"
     alt="GitHub contribution grid snake animation"
   />
-</p>
+
+</div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════
      CONNECT
 ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-LET'S%20CONNECT-0d1117?style=for-the-badge&labelColor=F74C00&logo=handshake&logoColor=white" alt="Connect section badge" />
+</div>
 
 ## 🌐 Let's Connect
 
@@ -200,9 +292,9 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
 
 <!-- Footer -->
 
-<p align="center">
+<div align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=F74C00&height=120&section=footer"
-    alt=""
+    alt="Footer wave"
   />
-</p>
+</div>
