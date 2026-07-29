@@ -1,0 +1,124 @@
+<svg width="680" height="420" viewBox="0 0 680 420" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="680" height="420" fill="#0d1117"/>
+
+  <circle cx="340" cy="210" r="180" fill="none" stroke="#30363d" stroke-width="1" stroke-dasharray="2 5"/>
+  <circle cx="340" cy="210" r="130" fill="none" stroke="#30363d" stroke-width="1" stroke-dasharray="2 5"/>
+  <circle cx="340" cy="210" r="80" fill="none" stroke="#30363d" stroke-width="1" stroke-dasharray="2 5"/>
+
+  <circle cx="340" cy="210" r="62" fill="#F74C00" opacity="0.25">
+    <animate attributeName="opacity" values="0.15;0.35;0.15" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <defs>
+    <clipPath id="avatarClip">
+      <circle cx="340" cy="210" r="53"/>
+    </clipPath>
+  </defs>
+  <circle cx="340" cy="210" r="55" fill="#161b22" stroke="#F74C00" stroke-width="1.5"/>
+  <image href="https://github.com/Ganesh-403.png" x="287" y="157" width="106" height="106" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice"/>
+  <circle cx="340" cy="210" r="55" fill="none" stroke="#F74C00" stroke-width="1.5"/>
+
+  <!-- Outer ring: languages -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 340 210" to="360 340 210" dur="24s" repeatCount="indefinite"/>
+    <g transform="translate(340,30)">
+      <circle r="26" fill="#3C3489" stroke="#7F77DD" stroke-width="1"/>
+      <g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="24s" repeatCount="indefinite"/>
+        <text text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, sans-serif" font-size="12" font-weight="600" fill="#EEEDFE">Py</text></g>
+    </g>
+    <g transform="translate(497,120)">
+      <circle r="26" fill="#3C3489" stroke="#7F77DD" stroke-width="1"/>
+      <g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="24s" repeatCount="indefinite"/>
+        <text text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, sans-serif" font-size="12" font-weight="600" fill="#EEEDFE">C++</text></g>
+    </g>
+    <g transform="translate(497,300)">
+      <circle r="26" fill="#3C3489" stroke="#7F77DD" stroke-width="1"/>
+      <g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="24s" repeatCount="indefinite"/>
+        <text text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, sans-serif" font-size="12" font-weight="600" fill="#EEEDFE">SQL</text></g>
+    </g>
+    <g transform="translate(340,390)">
+      <circle r="26" fill="#3C3489" stroke="#7F77DD" stroke-width="1"/>
+      <g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="24s" repeatCount="indefinite"/>
+        <text text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, sans-serif" font-size="12" font-weight="600" fill="#EEEDFE">JS</text></g>
+    </g>
+    <g transform="translate(183,300)">
+      <circle r="26" fill="#3C3489" stroke="#7F77DD" stroke-width="1"/>
+      <g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="24s" repeatCount="indefinite"/>
+        <text text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, sans-serif" font-size="12" font-weight="600" fill="#EEEDFE">React</text></g>
+    </g>
+    <g transform="translate(183,120)">
+      <circle r="26" fill="#3C3489" stroke="#7F77DD" stroke-width="1"/>
+      <g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="24s" repeatCount="indefinite"/>
+        <text text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, sans-serif" font-size="12" font-weight="600" fill="#EEEDFE">Bash</text></g>
+    </g>
+  </g>
+
+  <!-- Middle ring: backend & cloud -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="360 340 210" to="0 340 210" dur="32s" repeatCount="indefinite"/>
+    <g transform="translate(340,80)">
+      <circle r="24" fill="#085041" stroke="#1D9E75" stroke-width="1"/>
+      <g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="32s" repeatCount="indefinite"/>
+        <text text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, sans-serif" font-size="11" fill="#E1F5EE">FastAPI</text></g>
+    </g>
+    <g transform="translate(452,145)">
+      <circle r="24" fill="#085041" stroke="#1D9E75" stroke-width="1"/>
+      <g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="32s" repeatCount="indefinite"/>
+        <text text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, sans-serif" font-size="11" fill="#E1F5EE">AWS</text></g>
+    </g>
+    <g transform="translate(452,275)">
+      <circle r="24" fill="#085041" stroke="#1D9E75" stroke-width="1"/>
+      <g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="32s" repeatCount="indefinite"/>
+        <text text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, sans-serif" font-size="11" fill="#E1F5EE">Docker</text></g>
+    </g>
+    <g transform="translate(340,340)">
+      <circle r="24" fill="#085041" stroke="#1D9E75" stroke-width="1"/>
+      <g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="32s" repeatCount="indefinite"/>
+        <text text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, sans-serif" font-size="11" fill="#E1F5EE">Mongo</text></g>
+    </g>
+    <g transform="translate(228,275)">
+      <circle r="24" fill="#085041" stroke="#1D9E75" stroke-width="1"/>
+      <g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="32s" repeatCount="indefinite"/>
+        <text text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, sans-serif" font-size="11" fill="#E1F5EE">Postgres</text></g>
+    </g>
+    <g transform="translate(228,145)">
+      <circle r="24" fill="#085041" stroke="#1D9E75" stroke-width="1"/>
+      <g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="32s" repeatCount="indefinite"/>
+        <text text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, sans-serif" font-size="11" fill="#E1F5EE">Flask</text></g>
+    </g>
+  </g>
+
+  <!-- Inner ring: AI & security -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 340 210" to="360 340 210" dur="40s" repeatCount="indefinite"/>
+    <g transform="translate(340,130)">
+      <circle r="22" fill="#712B13" stroke="#D85A30" stroke-width="1"/>
+      <g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="40s" repeatCount="indefinite"/>
+        <text text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, sans-serif" font-size="10" fill="#FAECE7">LangChain</text></g>
+    </g>
+    <g transform="translate(409,175)">
+      <circle r="22" fill="#712B13" stroke="#D85A30" stroke-width="1"/>
+      <g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="40s" repeatCount="indefinite"/>
+        <text text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, sans-serif" font-size="10" fill="#FAECE7">RAG</text></g>
+    </g>
+    <g transform="translate(409,245)">
+      <circle r="22" fill="#712B13" stroke="#D85A30" stroke-width="1"/>
+      <g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="40s" repeatCount="indefinite"/>
+        <text text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, sans-serif" font-size="10" fill="#FAECE7">FAISS</text></g>
+    </g>
+    <g transform="translate(340,290)">
+      <circle r="22" fill="#712B13" stroke="#D85A30" stroke-width="1"/>
+      <g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="40s" repeatCount="indefinite"/>
+        <text text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, sans-serif" font-size="10" fill="#FAECE7">JWT</text></g>
+    </g>
+    <g transform="translate(271,245)">
+      <circle r="22" fill="#712B13" stroke="#D85A30" stroke-width="1"/>
+      <g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="40s" repeatCount="indefinite"/>
+        <text text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, sans-serif" font-size="10" fill="#FAECE7">Argon2</text></g>
+    </g>
+    <g transform="translate(271,175)">
+      <circle r="22" fill="#712B13" stroke="#D85A30" stroke-width="1"/>
+      <g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="40s" repeatCount="indefinite"/>
+        <text text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, sans-serif" font-size="10" fill="#FAECE7">Chroma</text></g>
+    </g>
+  </g>
+</svg>
