@@ -6,7 +6,7 @@
 
   <!-- Hero banner -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=F74C00&height=210&section=header&text=Ganesh%20Kambli&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Backend%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Cloud%20%E2%80%A2%20Security%20Engineering&descAlignY=57&descSize=17&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=F74C00&height=210&section=header&text=Ganesh%20Kambli&fontSize=56&fontColor=ffffff&fontAlignY=36&fontFamily=Poppins&desc=Backend%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Cloud%20%E2%80%A2%20Security%20Engineering&descAlignY=57&descSize=17&animation=fadeIn"
     alt="Ganesh Kambli — Backend • AI/ML • Cloud • Security Engineering"
   />
 
@@ -26,7 +26,7 @@
   <!-- Typing banner -->
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?Feafont=Fira+Code&size=17&pause=1000&color=F74C00&center=true&vCenter=true&width=850&lines=Backend+%26+AI%2FML+Engineer+%7C+CGPA%3A+7.95+%2F+10;Built+RepoSage+%E2%80%94+Agentic+GraphRAG+Codebase+Intelligence;Shipped+HoneyCloud+%E2%80%94+LSTM+Threat+Intel%2C+2+Published+Papers;SVF+in+C%2B%2B17+%E2%80%94+Argon2id%2C+B-Tree%2C+ext4-mimic;AWS+%7C+FastAPI+%7C+LangChain+%7C+RAG+%7C+Docker"
+      src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=18&pause=1000&color=F74C00&center=true&vCenter=true&width=850&lines=Backend+%26+AI%2FML+Engineer+%7C+CGPA%3A+7.95+%2F+10;Built+RepoSage+%E2%80%94+Agentic+GraphRAG+Codebase+Intelligence;Shipped+HoneyCloud+%E2%80%94+LSTM+Threat+Intel%2C+2+Published+Papers;SVF+in+C%2B%2B17+%E2%80%94+Argon2id%2C+B-Tree%2C+ext4-mimic;AWS+%7C+FastAPI+%7C+LangChain+%7C+RAG+%7C+Docker"
       alt="Backend & AI/ML Engineer — projects and tech stack"
     />
   </a>
@@ -53,7 +53,7 @@
   alt="Animated illustration of a developer coding"
 />
 
-### I build infrastructure that sits between users and chaos.
+### 𝗜 𝗯𝘂𝗶𝗹𝗱 𝗶𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 𝘁𝗵𝗮𝘁 𝘀𝗶𝘁𝘀 𝗯𝗲𝘁𝘄𝗲𝗲𝗻 𝘂𝘀𝗲𝗿𝘀 𝗮𝗻𝗱 𝗰𝗵𝗮𝗼𝘀.
 
 Computer Engineering graduate from **SPPU Pune** (CGPA **7.95**, June 2026), specializing in backend systems, AI/LLM tooling, cloud-native architecture, and cybersecurity. I ship production-grade software — honeypot platforms, agentic RAG systems, secure filesystems — and back it up with published research.
 
@@ -69,7 +69,7 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
 
 <div align="center">
   <blockquote>
-    <em>"Simplicity is a prerequisite for reliability."</em> — Edsger W. Dijkstra
+    <em>"𝗦𝗶𝗺𝗽𝗹𝗶𝗰𝗶𝘁𝘆 𝗶𝘀 𝗮 𝗽𝗿𝗲𝗿𝗲𝗾𝘂𝗶𝘀𝗶𝘁𝗲 𝗳𝗼𝗿 𝗿𝗲𝗹𝗶𝗮𝗯𝗶𝗹𝗶𝘁𝘆."</em> — 𝘌𝘥𝘴𝘨𝘦𝘳 𝘞. 𝘋𝘪𝘫𝘬𝘴𝘵𝘳𝘢
   </blockquote>
 </div>
 
