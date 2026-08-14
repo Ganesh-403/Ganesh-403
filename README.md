@@ -120,14 +120,16 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
       <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <br/>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/CI%2FCD-F74C00?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
       <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+      <br/>
       <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
       <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-      <img src="https://img.shields.io/badge/CI%2FCD-F74C00?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
     </td>
   </tr>
   <tr>
@@ -137,6 +139,7 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
       <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
       <img src="https://img.shields.io/badge/LangSmith%20%2F%20LangFuse-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
       <img src="https://img.shields.io/badge/MCP-F74C00?style=flat-square&logo=anthropic&logoColor=white" />
+      <br/>
       <img src="https://img.shields.io/badge/FAISS-F74C00?style=flat-square&logo=meta&logoColor=white" />
       <img src="https://img.shields.io/badge/ChromaDB-F74C00?style=flat-square&logo=chroma&logoColor=white" />
       <img src="https://img.shields.io/badge/Qdrant-000000?style=flat-square&logo=qdrant&logoColor=white" />
@@ -174,7 +177,9 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
 </div>
 
 
-<table width="100%">
+<div align="center">
+
+<table>
   <tr>
     <td width="15%" align="center"><strong>2026</strong></td>
     <td>
@@ -207,6 +212,8 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
     </td>
   </tr>
 </table>
+
+</div>
 
 <br/>
 
