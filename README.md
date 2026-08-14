@@ -97,6 +97,9 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -104,8 +107,10 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
     <td>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/REST%20APIs-F74C00?style=flat-square" />
+      <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST%20APIs-F74C00?style=flat-square&logo=openapiinitiative&logoColor=white" />
       <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+      <img src="https://img.shields.io/badge/OAuth2-3E8EED?style=flat-square&logo=oauth&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -113,8 +118,15 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
     <td>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-      <img src="https://img.shields.io/badge/CI%2FCD-F74C00?style=flat-square" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/CI%2FCD-F74C00?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
     </td>
   </tr>
@@ -122,10 +134,13 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
     <td><strong>AI / LLM &amp; RAG</strong></td>
     <td>
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
-      <img src="https://img.shields.io/badge/FAISS-F74C00?style=flat-square" />
-      <img src="https://img.shields.io/badge/ChromaDB-F74C00?style=flat-square" />
-      <img src="https://img.shields.io/badge/Ollama-181717?style=flat-square" />
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangSmith%20%2F%20LangFuse-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/MCP-F74C00?style=flat-square&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/FAISS-F74C00?style=flat-square&logo=meta&logoColor=white" />
+      <img src="https://img.shields.io/badge/ChromaDB-F74C00?style=flat-square&logo=chroma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Qdrant-000000?style=flat-square&logo=qdrant&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ollama-181717?style=flat-square&logo=ollama&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -139,9 +154,9 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
   <tr>
     <td><strong>Security</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Argon2id-181717?style=flat-square" />
+      <img src="https://img.shields.io/badge/Argon2id-181717?style=flat-square&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-      <img src="https://img.shields.io/badge/RBAC-F74C00?style=flat-square" />
+      <img src="https://img.shields.io/badge/RBAC-F74C00?style=flat-square&logo=auth0&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -159,19 +174,39 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
 </div>
 
 
-```text
-2022  ──▶  Started B.E. Computer Engineering @ Savitribai Phule Pune University
-2024  ──▶  Python Developer Intern @ AI Adventures LLP (Pune)
-           Built automation pipelines | Cut reporting time 80% | Dived into ML & AWS
-2025  ──▶  🥇 Won Site Craft Web Dev Challenge — VAMINT Club 2025
-           🏆 Runner-Up Prep-A-Thon Coding Competition — Technobash 2025
-           🍯 HoneyCloud (LSTM + WebSockets)  |  🔐 SVF in C++17 (Argon2id, B-Tree, ext4-mimic)
-2026  ──▶  🤖 Built RepoSage — Agentic GraphRAG Codebase Intelligence (LangGraph + ChromaDB)
-           📄 2 Papers Published — HoneyCloud system + Honeypot survey
-           🌱 GSSoC'26 Contributor  |  🛠️ ECSoC'26 Project Admin & Maintainer
-           🎓 Graduated June 30, 2026 — CGPA 7.95
-           🎯 Seeking AI / Backend / SRE / Data Analyst / DevOps & Cloud / SOC roles
-```
+<table width="100%">
+  <tr>
+    <td width="15%" align="center"><strong>2026</strong></td>
+    <td>
+      🤖 <strong>Built RepoSage</strong> — Agentic GraphRAG Codebase Intelligence<br/>
+      📄 <strong>Published 2 Papers</strong> — HoneyCloud system architecture & Honeypot survey<br/>
+      🌱 <strong>GSSoC'26</strong> Contributor &nbsp;|&nbsp; 🛠️ <strong>ECSoC'26</strong> Project Admin & Maintainer<br/>
+      🎓 <strong>Graduated (June)</strong> — B.E. Computer Engineering (CGPA 7.95)<br/>
+      🎯 <em>Seeking AI / Backend / Cloud / DevOps roles</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>2025</strong></td>
+    <td>
+      🥇 <strong>Winner</strong> — Site Craft Web Dev Challenge (VAMINT Club)<br/>
+      🏆 <strong>Runner-Up</strong> — Prep-A-Thon Coding Competition (Technobash)<br/>
+      🍯 Built <strong>HoneyCloud</strong> (LSTM + WebSockets) &nbsp;|&nbsp; 🔐 Built <strong>SVF</strong> in C++17
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>2024</strong></td>
+    <td>
+      🐍 <strong>Python Developer Intern</strong> @ AI Adventures LLP (Pune)<br/>
+      <em>Built automation pipelines, cut reporting time by 80%, dived into ML & AWS</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>2022</strong></td>
+    <td>
+      🎓 <strong>Started B.E. Computer Engineering</strong> @ Savitribai Phule Pune University
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -238,6 +273,12 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
     src="https://raw.githubusercontent.com/Ganesh-403/Ganesh-403/output/github-contribution-grid-snake-dark.svg"
     alt="GitHub contribution grid snake animation"
   />
+
+  <br/><br/>
+  
+  <h3>⚡ Recent Activity</h3>
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
 
 </div>
 
