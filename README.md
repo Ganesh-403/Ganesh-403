@@ -285,11 +285,11 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
   
   <h3>⚡ Recent Activity</h3>
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2383](https://github.com/Ganesh-403/semantic-plagiarism-detector/pull/2383#issuecomment-5296099728) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
-2. 🔒 Closed issue [#2118](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/2118) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
-3. 🔒 Closed issue [#1728](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/1728) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
-4. 🔒 Closed issue [#2356](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/2356) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
-5. 🗣 Commented on [#2404](https://github.com/Ganesh-403/semantic-plagiarism-detector/pull/2404#issuecomment-5295976714) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
+1. 🔒 Closed issue [#2473](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/2473) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
+2. 🔒 Closed issue [#2472](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/2472) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
+3. 🔒 Closed issue [#2467](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/2467) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
+4. ℹ️ Reopened PR [#2482](https://github.com/Ganesh-403/semantic-plagiarism-detector/pull/2482) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
+5. ❌ Closed PR [#2482](https://github.com/Ganesh-403/semantic-plagiarism-detector/pull/2482) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
   <!--END_SECTION:activity-->
 
 </div>
