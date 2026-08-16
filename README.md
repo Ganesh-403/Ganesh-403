@@ -100,6 +100,7 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
       <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -110,7 +111,6 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
       <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
       <img src="https://img.shields.io/badge/REST%20APIs-F74C00?style=flat-square&logo=openapiinitiative&logoColor=white" />
       <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-      <img src="https://img.shields.io/badge/OAuth2-3E8EED?style=flat-square&logo=oauth&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -126,6 +126,7 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
       <img src="https://img.shields.io/badge/CI%2FCD-F74C00?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
       <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS%20SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white" />
       <br/>
       <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
       <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
@@ -160,6 +161,16 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
       <img src="https://img.shields.io/badge/Argon2id-181717?style=flat-square&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
       <img src="https://img.shields.io/badge/RBAC-F74C00?style=flat-square&logo=auth0&logoColor=white" />
+      <img src="https://img.shields.io/badge/OAuth2-3E8EED?style=flat-square&logo=oauth&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Testing</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+      <img src="https://img.shields.io/badge/Unit%20Testing-F74C00?style=flat-square&logo=testinglibrary&logoColor=white" />
+      <img src="https://img.shields.io/badge/Integration%20Testing-000000?style=flat-square&logo=testinglibrary&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
     </td>
   </tr>
 </table>
