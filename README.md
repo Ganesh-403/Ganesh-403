@@ -101,6 +101,7 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
       <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -296,11 +297,11 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
   
   <h3>⚡ Recent Activity</h3>
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2714](https://github.com/Ganesh-403/semantic-plagiarism-detector/pull/2714#issuecomment-5318100093) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
-2. ℹ️ Assigned PR [#2714](https://github.com/Ganesh-403/semantic-plagiarism-detector/pull/2714) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
-3. 🗣 Commented on [#2683](https://github.com/Ganesh-403/semantic-plagiarism-detector/pull/2683#issuecomment-5318085933) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
-4. ℹ️ Labeled issue [#2734](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/2734) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
-5. ❗ Opened issue [#2734](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/2734) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
+1. 🗣 Commented on [#806](https://github.com/kubeedge/ianvs/pull/806#issuecomment-5303377850) in [kubeedge/ianvs](https://github.com/kubeedge/ianvs)
+2. 🗣 Commented on [#806](https://github.com/kubeedge/ianvs/pull/806#issuecomment-5303374565) in [kubeedge/ianvs](https://github.com/kubeedge/ianvs)
+3. 🔒 Closed issue [#2348](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/2348) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
+4. 🔒 Closed issue [#2347](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/2347) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
+5. 🔒 Closed issue [#2316](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/2316) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
   <!--END_SECTION:activity-->
 
 </div>
