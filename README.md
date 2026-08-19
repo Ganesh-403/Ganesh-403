@@ -297,11 +297,11 @@ Built **[RepoSage](https://github.com/Ganesh-403/Repo-Sage)** — an offline age
   
   <h3>⚡ Recent Activity</h3>
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2586](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/2586) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
-2. ℹ️ Reopened PR [#2833](https://github.com/Ganesh-403/semantic-plagiarism-detector/pull/2833) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
-3. ❌ Closed PR [#2833](https://github.com/Ganesh-403/semantic-plagiarism-detector/pull/2833) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
-4. 🔒 Closed issue [#2574](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/2574) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
-5. 🗣 Commented on [#2831](https://github.com/Ganesh-403/semantic-plagiarism-detector/pull/2831#issuecomment-5327580441) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
+1. 🔒 Closed issue [#2569](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/2569) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
+2. 🔒 Closed issue [#2567](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/2567) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
+3. 🔒 Closed issue [#2844](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/2844) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
+4. 🔒 Closed issue [#2842](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/2842) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
+5. 🔒 Closed issue [#2594](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/2594) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
   <!--END_SECTION:activity-->
 
 </div>
