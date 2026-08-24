@@ -6,7 +6,7 @@
 
   <!-- Hero banner -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=F74C00&height=210&section=header&text=Ganesh%20Kambli&fontSize=56&fontColor=ffffff&fontAlignY=36&fontFamily=Poppins&desc=AI%20Engineer%20%40%20Flid%20AI%20%E2%80%A2%20Building%20LeapView%20%E2%80%A2%20Go%20%26%20Agent-Native%20Systems&descAlignY=57&descSize=17&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=F74C00&height=210&section=header&text=Ganesh%20Kambli&fontSize=56&fontColor=ffffff&fontAlignY=36&fontFamily=Poppins&desc=AI%20Engineer%20%40%20Flid%20AI%20%E2%80%A2%20Building%20LeapView%20%E2%80%A2%20Go%20%E2%80%A2%20Agent-Native%20BI&descAlignY=57&descSize=17&animation=fadeIn"
     alt="Ganesh Kambli — AI Engineer @ Flid AI"
   />
 
