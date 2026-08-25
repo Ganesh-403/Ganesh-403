@@ -272,11 +272,11 @@ I am an **AI Engineer @ Flid AI**, currently building **[LeapView](https://githu
   
   <h3>⚡ Recent Activity</h3>
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3476](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3476) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
-2. 🔒 Closed issue [#3475](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3475) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
-3. 🔒 Closed issue [#3384](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3384) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
-4. 🔒 Closed issue [#3385](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3385) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
-5. 🔒 Closed issue [#3530](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3530) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
+1. 🔒 Closed issue [#3199](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3199) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
+2. 🔒 Closed issue [#3198](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3198) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
+3. 🔒 Closed issue [#3204](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3204) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
+4. 🔒 Closed issue [#3488](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3488) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
+5. 🔒 Closed issue [#3213](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3213) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
   <!--END_SECTION:activity-->
 
 </div>
