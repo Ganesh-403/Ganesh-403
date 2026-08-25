@@ -272,11 +272,11 @@ I am an **AI Engineer @ Flid AI**, currently building **[LeapView](https://githu
   
   <h3>⚡ Recent Activity</h3>
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3199](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3199) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
-2. 🔒 Closed issue [#3198](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3198) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
-3. 🔒 Closed issue [#3204](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3204) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
-4. 🔒 Closed issue [#3488](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3488) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
-5. 🔒 Closed issue [#3213](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3213) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
+1. 🗣 Commented on [#357](https://github.com/flidai/leapview/pull/357#issuecomment-5409927691) in [flidai/leapview](https://github.com/flidai/leapview)
+2. 🗣 Commented on [#362](https://github.com/flidai/leapview/pull/362#issuecomment-5409599656) in [flidai/leapview](https://github.com/flidai/leapview)
+3. 🔒 Closed issue [#3336](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3336) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
+4. 💪 Opened PR [#369](https://github.com/flidai/leapview/pull/369) in [flidai/leapview](https://github.com/flidai/leapview)
+5. 🔒 Closed issue [#3399](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3399) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
   <!--END_SECTION:activity-->
 
 </div>
