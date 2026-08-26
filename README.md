@@ -272,11 +272,11 @@ I am an **AI Engineer @ Flid AI**, currently building **[LeapView](https://githu
   
   <h3>⚡ Recent Activity</h3>
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#371](https://github.com/flidai/leapview/pull/371) in [flidai/leapview](https://github.com/flidai/leapview)
-2. 🔒 Closed issue [#3631](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3631) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
-3. 🔒 Closed issue [#3629](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3629) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
-4. 🔒 Closed issue [#3627](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3627) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
-5. ℹ️ Reopened PR [#3628](https://github.com/Ganesh-403/semantic-plagiarism-detector/pull/3628) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
+1. 💪 Opened PR [#374](https://github.com/flidai/leapview/pull/374) in [flidai/leapview](https://github.com/flidai/leapview)
+2. 🎉 Merged PR [#370](https://github.com/flidai/leapview/pull/370) in [flidai/leapview](https://github.com/flidai/leapview)
+3. 🎉 Merged PR [#373](https://github.com/flidai/leapview/pull/373) in [flidai/leapview](https://github.com/flidai/leapview)
+4. 💪 Opened PR [#373](https://github.com/flidai/leapview/pull/373) in [flidai/leapview](https://github.com/flidai/leapview)
+5. 💪 Opened PR [#372](https://github.com/flidai/leapview/pull/372) in [flidai/leapview](https://github.com/flidai/leapview)
   <!--END_SECTION:activity-->
 
 </div>
