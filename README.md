@@ -272,11 +272,11 @@ I am an **AI Engineer @ Flid AI**, currently building **[LeapView](https://githu
   
   <h3>⚡ Recent Activity</h3>
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#374](https://github.com/flidai/leapview/pull/374) in [flidai/leapview](https://github.com/flidai/leapview)
-2. 🎉 Merged PR [#370](https://github.com/flidai/leapview/pull/370) in [flidai/leapview](https://github.com/flidai/leapview)
-3. 🎉 Merged PR [#373](https://github.com/flidai/leapview/pull/373) in [flidai/leapview](https://github.com/flidai/leapview)
-4. 💪 Opened PR [#373](https://github.com/flidai/leapview/pull/373) in [flidai/leapview](https://github.com/flidai/leapview)
-5. 💪 Opened PR [#372](https://github.com/flidai/leapview/pull/372) in [flidai/leapview](https://github.com/flidai/leapview)
+1. 🎉 Merged PR [#366](https://github.com/flidai/leapview/pull/366) in [flidai/leapview](https://github.com/flidai/leapview)
+2. 🔒 Closed issue [#3754](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3754) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
+3. 🔒 Closed issue [#3752](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3752) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
+4. 🗣 Commented on [#3824](https://github.com/Ganesh-403/semantic-plagiarism-detector/pull/3824#issuecomment-5434775998) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
+5. 🔒 Closed issue [#3750](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3750) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
   <!--END_SECTION:activity-->
 
 </div>
