@@ -272,11 +272,11 @@ I am an **AI Engineer @ Flid AI**, currently building **[LeapView](https://githu
   
   <h3>⚡ Recent Activity</h3>
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4066](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/4066) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
-2. 💪 Opened PR [#392](https://github.com/flidai/leapview/pull/392) in [flidai/leapview](https://github.com/flidai/leapview)
-3. 🔒 Closed issue [#3987](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3987) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
-4. 🔒 Closed issue [#3992](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3992) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
-5. 🔒 Closed issue [#3991](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3991) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
+1. ℹ️ Unassigned issue [#3761](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3761) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
+2. ℹ️ Unassigned issue [#3760](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3760) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
+3. ℹ️ Unassigned issue [#3757](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3757) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
+4. 🗣 Commented on [#3757](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3757#issuecomment-5466312162) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
+5. 🗣 Commented on [#3760](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3760#issuecomment-5466311822) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
   <!--END_SECTION:activity-->
 
 </div>
