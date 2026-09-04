@@ -272,11 +272,11 @@ I am an **AI Engineer @ Flid AI**, currently building **[LeapView](https://githu
   
   <h3>⚡ Recent Activity</h3>
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3700](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3700) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
-2. 🔒 Closed issue [#3701](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3701) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
-3. 🔒 Closed issue [#3990](https://github.com/Ganesh-403/semantic-plagiarism-detector/issues/3990) in [Ganesh-403/semantic-plagiarism-detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)
-4. 🎉 Merged PR [#2461](https://github.com/riscv/riscv-unified-db/pull/2461) in [riscv/riscv-unified-db](https://github.com/riscv/riscv-unified-db)
-5. 💪 Opened PR [#472](https://github.com/flidai/leapview/pull/472) in [flidai/leapview](https://github.com/flidai/leapview)
+1. 🗣 Commented on [#477](https://github.com/flidai/leapview/pull/477#issuecomment-5540692636) in [flidai/leapview](https://github.com/flidai/leapview)
+2. 🗣 Commented on [#477](https://github.com/flidai/leapview/pull/477#issuecomment-5539867882) in [flidai/leapview](https://github.com/flidai/leapview)
+3. 💪 Opened PR [#477](https://github.com/flidai/leapview/pull/477) in [flidai/leapview](https://github.com/flidai/leapview)
+4. 🗣 Commented on [#472](https://github.com/flidai/leapview/pull/472#issuecomment-5538306541) in [flidai/leapview](https://github.com/flidai/leapview)
+5. 🗣 Commented on [#472](https://github.com/flidai/leapview/pull/472#issuecomment-5537906484) in [flidai/leapview](https://github.com/flidai/leapview)
   <!--END_SECTION:activity-->
 
 </div>
