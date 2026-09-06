@@ -272,11 +272,11 @@ I am an **AI Engineer @ Flid AI**, currently building **[LeapView](https://githu
   
   <h3>⚡ Recent Activity</h3>
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#471](https://github.com/flidai/leapview/pull/471) in [flidai/leapview](https://github.com/flidai/leapview)
-2. 🎉 Merged PR [#485](https://github.com/flidai/leapview/pull/485) in [flidai/leapview](https://github.com/flidai/leapview)
-3. 🎉 Merged PR [#472](https://github.com/flidai/leapview/pull/472) in [flidai/leapview](https://github.com/flidai/leapview)
-4. 🎉 Merged PR [#474](https://github.com/flidai/leapview/pull/474) in [flidai/leapview](https://github.com/flidai/leapview)
-5. 🎉 Merged PR [#475](https://github.com/flidai/leapview/pull/475) in [flidai/leapview](https://github.com/flidai/leapview)
+1. 💪 Opened PR [#498](https://github.com/flidai/leapview/pull/498) in [flidai/leapview](https://github.com/flidai/leapview)
+2. 🗣 Commented on [#497](https://github.com/flidai/leapview/pull/497#issuecomment-5559803499) in [flidai/leapview](https://github.com/flidai/leapview)
+3. 🗣 Commented on [#497](https://github.com/flidai/leapview/pull/497#issuecomment-5559692375) in [flidai/leapview](https://github.com/flidai/leapview)
+4. 💪 Opened PR [#497](https://github.com/flidai/leapview/pull/497) in [flidai/leapview](https://github.com/flidai/leapview)
+5. 🎉 Merged PR [#496](https://github.com/flidai/leapview/pull/496) in [flidai/leapview](https://github.com/flidai/leapview)
   <!--END_SECTION:activity-->
 
 </div>
