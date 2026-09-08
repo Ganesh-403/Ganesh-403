@@ -69,10 +69,10 @@ def terminal(theme):
     ]
     for i, (cmd, answer, detail) in enumerate(scenes):
         body += f'<g class="scene scene{i}">'
-        body += text(30, 89, '$ ' + cmd, 22, '#f07424', 600, 'font-family="monospace"')
-        body += text(30, 132, answer, 27, c['text'], 650)
-        body += text(30, 170, detail, 18, c['muted']) + '</g>'
-    body += f'<rect class="cursor" x="30" y="195" width="10" height="18" fill="#f07424"/>'
+        body += text(30, 78, '$ ' + cmd, 22, '#f07424', 600, 'font-family="monospace"')
+        body += text(30, 115, answer, 27, c['text'], 650)
+        body += '</g>'
+    body += f'<rect class="cursor" x="30" y="128" width="10" height="18" fill="#f07424"/>'
     body += text(52, 210, 'explore the projects below', 15, c['muted'], extra='font-family="monospace"')
     styles = '''<style>
 .scene{opacity:0;animation:cycle 15s infinite;animation-timing-function:steps(1,end)}
@@ -81,25 +81,24 @@ def terminal(theme):
 .cursor{animation:blink 1.2s steps(2,start) infinite}@keyframes blink{to{opacity:0}}
 @media(prefers-reduced-motion:reduce){.scene,.cursor{animation:none}.scene0{opacity:1}.scene1,.scene2{opacity:0}}
 </style>'''
-    return svg(theme, 236, 'Animated terminal: whoami, currently building LeapView, and selected projects', body, styles)
+    return svg(theme, 160, 'Animated terminal: whoami, currently building LeapView, and selected projects', body, styles)
 
 
 def card(theme, project):
     slug, num, name, headline, detail, stack, accent, icon = project
     c = THEMES[theme]
-    body = f'<rect x="1" y="23" width="5" height="146" rx="2" fill="{accent}"/>'
-    body += text(30, 39, num + ' / ' + name, 16, accent, 750, 'letter-spacing="1.4"')
-    body += text(30, 83, headline, 28, c['text'], 650)
-    body += text(30, 117, detail, 20, c['muted'])
-    body += text(30, 158, stack, 14, c['muted'], 650, 'letter-spacing="1"')
+    body = f'<rect x="1" y="16" width="5" height="88" rx="2" fill="{accent}"/>'
+    body += text(24, 29, num + ' / ' + name, 16, accent, 750, 'letter-spacing="1.4"')
+    body += text(24, 67, headline, 28, c['text'], 650)
+    body += text(24, 98, stack, 14, c['muted'], 650, 'letter-spacing="1"')
     icons = {
         'chart': '<path d="M819 130V103M849 130V81M879 130V56"/><path d="M804 146H900"/>',
         'graph': '<path d="M814 68L881 86L842 137ZM814 68L842 137"/><circle cx="814" cy="68" r="10"/><circle cx="881" cy="86" r="10"/><circle cx="842" cy="137" r="10"/>',
         'hex': '<path d="M848 48L887 71V117L848 140L809 117V71ZM848 72L867 83V105L848 116L829 105V83Z"/>',
         'scan': '<path d="M822 56H801V77M877 56H898V77M801 118V139H822M898 118V139H877M824 83H875M824 99H865M824 115H875"/>',
     }
-    body += f'<g stroke="{accent}" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="{c["bg"]}">{icons[icon]}</g>'
-    return svg(theme, 192, name + ': ' + headline + ' ' + detail, body)
+    body += f'<g transform="translate(300,-2) scale(.65)" stroke="{accent}" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="{c["bg"]}">{icons[icon]}</g>'
+    return svg(theme, 120, name + ': ' + headline + ' ' + detail, body)
 
 
 def validate_activity(data):
@@ -129,15 +128,14 @@ def refresh():
 
 def activity(theme, data):
     c = THEMES[theme]
-    body = '<circle cx="36" cy="35" r="5" fill="#34d399"/>'
-    body += text(52, 40, 'CURRENTLY BUILDING / LEAPVIEW', 15, '#f07424', 750, 'letter-spacing="2"')
-    body += text(30, 79, f'Latest public PR · #{data["number"]} · {data["state"].upper()}', 22, c['text'], 650)
+    body = '<circle cx="36" cy="26" r="5" fill="#34d399"/>'
+    body += text(52, 31, 'CURRENTLY BUILDING / LEAPVIEW', 15, '#f07424', 750, 'letter-spacing="2"')
+    body += text(30, 64, f'Latest public PR · #{data["number"]} · {data["state"].upper()}', 22, c['text'], 650)
     lines = textwrap.wrap(' '.join(data['title'].split()), width=72, max_lines=2, placeholder='…')
     for i, line in enumerate(lines):
-        body += text(30, 117 + i * 29, line, 21, c['text'])
-    body += text(30, 188, 'PR updated ' + data['updated_at'][:10] + ' UTC · Refreshed every 12 hours', 15, c['muted'])
-    body += text(30, 222, 'Explore my public LeapView work ↗', 16, '#f07424', 650)
-    return svg(theme, 248, 'Currently building LeapView. Latest public PR: ' + data['title'], body)
+        body += text(30, 96 + i * 26, line, 21, c['text'])
+    body += text(30, 153, 'PR updated ' + data['updated_at'][:10] + ' UTC · Refreshed every 12 hours', 15, c['muted'])
+    return svg(theme, 174, 'Currently building LeapView. Latest public PR: ' + data['title'], body)
 
 
 def mobile_art(theme, kind, data=None, project=None):
@@ -152,6 +150,7 @@ def mobile_art(theme, kind, data=None, project=None):
         title = 'Ganesh Kambli — AI Engineer at Flid AI'
     elif kind == 'terminal':
         # Preserve the same animated scenes, with a compact two-line response.
+        height = 164
         source = terminal(theme)
         import re
         style = re.search(r'<style>.*?</style>', source, re.S).group(0)
@@ -161,34 +160,31 @@ def mobile_art(theme, kind, data=None, project=None):
                   ('ls projects/', 'RepoSage / HoneyCloud', 'Code intelligence & telemetry.')]
         for i, (cmd, answer, detail) in enumerate(scenes):
             body += f'<g class="scene scene{i}">'
-            body += text(24, 84, '$ ' + cmd, 22, '#f07424', 600, 'font-family="monospace"')
-            body += text(24, 134, answer, 29, c['text'], 650)
-            body += text(24, 175, detail, 23, c['muted']) + '</g>'
-        body += '<rect class="cursor" x="24" y="209" width="11" height="19" fill="#f07424"/>'
+            body += text(24, 75, '$ ' + cmd, 22, '#f07424', 600, 'font-family="monospace"')
+            body += text(24, 115, answer, 29, c['text'], 650)
+            body += '</g>'
+        body += '<rect class="cursor" x="24" y="133" width="11" height="19" fill="#f07424"/>'
         body = style + body
         title = 'Animated terminal — Ganesh, LeapView, RepoSage and HoneyCloud'
     elif kind == 'currently-building':
-        height = 280
-        body = text(24, 36, 'CURRENTLY BUILDING / LEAPVIEW', 17, '#f07424', 750)
-        body += text(24, 77, f'Latest public PR · #{data["number"]} · {data["state"].upper()}', 23, c['text'], 650)
-        for i, line in enumerate(textwrap.wrap(' '.join(data['title'].split()), 35, max_lines=3, placeholder='…')):
-            body += text(24, 117+i*29, line, 22, c['text'])
-        body += text(24, 221, 'PR updated ' + data['updated_at'][:10] + ' UTC', 18, c['muted'])
-        body += text(24, 254, 'Public work ↗  /  refreshes every 12h', 18, '#f07424')
+        height = 194
+        body = text(24, 30, 'CURRENTLY BUILDING / LEAPVIEW', 17, '#f07424', 750)
+        body += text(24, 65, f'Latest public PR · #{data["number"]} · {data["state"].upper()}', 23, c['text'], 650)
+        for i, line in enumerate(textwrap.wrap(' '.join(data['title'].split()), 35, max_lines=2, placeholder='…')):
+            body += text(24, 101+i*27, line, 22, c['text'])
+        body += text(24, 171, 'PR updated ' + data['updated_at'][:10] + ' UTC', 18, c['muted'])
         title = 'Latest public LeapView PR: ' + data['title']
     else:
         slug, num, name, headline, detail, stack, accent, icon = project
-        height = 264
-        body = f'<rect x="1" y="24" width="5" height="215" rx="2" fill="{accent}"/>'
+        height = 146
+        body = f'<rect x="1" y="14" width="5" height="118" rx="2" fill="{accent}"/>'
         label = name if slug != 'plagiarism' else 'SEMANTIC PLAGIARISM'
-        body += text(24, 38, num + ' / ' + label, 18, accent, 750)
+        body += text(20, 28, num + ' / ' + label, 18, accent, 750)
         for i, line in enumerate(textwrap.wrap(headline, 29)):
-            body += text(24, 83+i*32, line, 27, c['text'], 650)
-        for i, line in enumerate(textwrap.wrap(detail, 38)):
-            body += text(24, 155+i*28, line, 21, c['muted'])
+            body += text(20, 63+i*29, line, 27, c['text'], 650)
         short_stack = {'leapview':'GO / DUCKDB / SQL', 'reposage':'PYTHON / LANGGRAPH / OLLAMA',
                        'honeycloud':'RUST / AXUM / POSTGRESQL', 'plagiarism':'PYTHON / TRANSFORMERS / FAISS'}[slug]
-        body += text(24, 236, short_stack, 16, c['muted'], 650)
+        body += text(20, 126, short_stack, 16, c['muted'], 650)
         title = name + ': ' + headline
     result = svg(theme, height, title, body)
     return result.replace('width="960"', 'width="480"').replace(f'viewBox="0 0 960 {height}"', f'viewBox="0 0 480 {height}"').replace('width="958"', 'width="478"')
