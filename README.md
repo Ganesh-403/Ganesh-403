@@ -6,7 +6,14 @@
     <source media="(max-width: 600px)" srcset="assets/banner-light-mobile.svg" />
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
-    <img src="assets/banner-light.svg" alt="Ganesh Kambli — AI Engineer at Flid AI. Building LeapView." width="100%" />
+    <img src="assets/banner-light.svg" alt="Ganesh Kambli — AI Engineer at Flid AI. Building LeapView." width="49%" />
+  </picture>
+<picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/terminal-dark-mobile.svg" />
+    <source media="(max-width: 600px)" srcset="assets/terminal-light-mobile.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg" />
+    <img src="assets/terminal-light.svg" alt="Terminal intro: Ganesh Kambli, building LeapView with Go, DuckDB, and AI agents." width="49%" />
   </picture>
 </p>
 
@@ -27,16 +34,6 @@ alt="Building LeapView"
 src="https://img.shields.io/badge/Research-2%20Published%20Papers-2ea44f?style=for-the-badge&logo=googlescholar&logoColor=white"
 alt="2 Published Research Papers"
 />
-</p>
-
-<p align="center">
-<picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/terminal-dark-mobile.svg" />
-    <source media="(max-width: 600px)" srcset="assets/terminal-light-mobile.svg" />
-    <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg" />
-    <img src="assets/terminal-light.svg" alt="Terminal intro: Ganesh Kambli, building LeapView with Go, DuckDB, and AI agents." width="100%" />
-  </picture>
 </p>
 
 <p align="center"><a href="https://github.com/flidai/leapview">LeapView</a> · <a href="https://github.com/Ganesh-403/Repo-Sage">RepoSage</a> · <a href="https://github.com/Ganesh-403/honeycloud">HoneyCloud</a> · <a href="https://portfolio-website-ganesh-kamblis-projects.vercel.app/">Portfolio</a></p>
@@ -81,19 +78,16 @@ I'm **Ganesh**, an **AI Engineer at Flid AI**, building **[LeapView](https://git
     <source media="(max-width: 600px)" srcset="assets/leapview-light-mobile.svg" />
     <source media="(prefers-color-scheme: dark)" srcset="assets/leapview-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/leapview-light.svg" />
-    <img src="assets/leapview-light.svg" alt="LeapView — Governed analytics as code. Go, DuckDB, SQL, TypeScript." width="100%" />
+    <img src="assets/leapview-light.svg" alt="LeapView — Governed analytics as code. Go, DuckDB, SQL, TypeScript." width="49%" />
   </picture>
 </a>
-</p>
-
-<p align="center">
 <a href="https://github.com/Ganesh-403/Repo-Sage">
 <picture>
     <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/reposage-dark-mobile.svg" />
     <source media="(max-width: 600px)" srcset="assets/reposage-light-mobile.svg" />
     <source media="(prefers-color-scheme: dark)" srcset="assets/reposage-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/reposage-light.svg" />
-    <img src="assets/reposage-light.svg" alt="RepoSage — Local codebase intelligence with LangGraph, Ollama, and graph retrieval." width="100%" />
+    <img src="assets/reposage-light.svg" alt="RepoSage — Local codebase intelligence with LangGraph, Ollama, and graph retrieval." width="49%" />
   </picture>
 </a>
 </p>
@@ -105,19 +99,16 @@ I'm **Ganesh**, an **AI Engineer at Flid AI**, building **[LeapView](https://git
     <source media="(max-width: 600px)" srcset="assets/honeycloud-light-mobile.svg" />
     <source media="(prefers-color-scheme: dark)" srcset="assets/honeycloud-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/honeycloud-light.svg" />
-    <img src="assets/honeycloud-light.svg" alt="HoneyCloud — Six-protocol honeypot and live attack telemetry. Rust, Axum, PostgreSQL." width="100%" />
+    <img src="assets/honeycloud-light.svg" alt="HoneyCloud — Six-protocol honeypot and live attack telemetry. Rust, Axum, PostgreSQL." width="49%" />
   </picture>
 </a>
-</p>
-
-<p align="center">
 <a href="https://github.com/Ganesh-403/semantic-plagiarism-detector">
 <picture>
     <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/plagiarism-dark-mobile.svg" />
     <source media="(max-width: 600px)" srcset="assets/plagiarism-light-mobile.svg" />
     <source media="(prefers-color-scheme: dark)" srcset="assets/plagiarism-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/plagiarism-light.svg" />
-    <img src="assets/plagiarism-light.svg" alt="Semantic Plagiarism Detector — Multilingual embeddings, paragraph comparisons, and FAISS search." width="100%" />
+    <img src="assets/plagiarism-light.svg" alt="Semantic Plagiarism Detector — Multilingual embeddings, paragraph comparisons, and FAISS search." width="49%" />
   </picture>
 </a>
 </p>
