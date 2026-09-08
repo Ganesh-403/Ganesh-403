@@ -52,17 +52,13 @@ I'm **Ganesh**, an **AI Engineer at Flid AI**, building **[LeapView](https://git
 - 🛠️ **Open Source & Community**: Project Admin & Maintainer for **ECSoC'26** and open-source contributor (**GSSoC'26**).
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer coding animation" />
-</p>
-
-<p align="center">
 <a href="https://github.com/flidai/leapview/pulls?q=is%3Apr+author%3AGanesh-403+sort%3Aupdated-desc">
 <picture>
     <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/currently-building-dark-mobile.svg" />
     <source media="(max-width: 600px)" srcset="assets/currently-building-light-mobile.svg" />
     <source media="(prefers-color-scheme: dark)" srcset="assets/currently-building-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/currently-building-light.svg" />
-    <img src="assets/currently-building-light.svg" alt="Currently building LeapView — latest public pull request. Open my public work." width="100%" />
+    <img src="assets/currently-building-light.svg" alt="Currently building LeapView — latest public pull request. Open my public work." width="85%" />
   </picture>
 </a>
 </p>
