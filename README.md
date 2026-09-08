@@ -58,7 +58,7 @@ I'm **Ganesh**, an **AI Engineer at Flid AI**, building **[LeapView](https://git
     <source media="(max-width: 600px)" srcset="assets/currently-building-light-mobile.svg" />
     <source media="(prefers-color-scheme: dark)" srcset="assets/currently-building-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/currently-building-light.svg" />
-    <img src="assets/currently-building-light.svg" alt="Currently building LeapView — latest public pull request. Open my public work." width="85%" />
+    <img src="assets/currently-building-light.svg" alt="Currently building LeapView — latest public pull request. Open my public work." width="49%" />
   </picture>
 </a>
 </p>

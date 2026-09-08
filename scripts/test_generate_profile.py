@@ -35,7 +35,7 @@ class ProfileTests(unittest.TestCase):
         for name, contents in out.items():
             if name.endswith('.svg'):
                 root = ET.fromstring(contents)
-                self.assertIn(root.attrib['viewBox'].split()[2], ('240', '480', '960'))
+                self.assertEqual(root.attrib['viewBox'], '0 0 240 160' if '-mobile.svg' in name else '0 0 480 200')
                 self.assertTrue(root.find('{http://www.w3.org/2000/svg}title') is not None)
         self.assertIn('…', out['assets/currently-building-dark.svg'])
 
