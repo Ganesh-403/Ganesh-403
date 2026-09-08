@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="192" viewBox="0 0 960 192" role="img" aria-label="REPOSAGE: Your codebase, in conversation. Local inference. Graph context. Source references.">
+<title>REPOSAGE: Your codebase, in conversation. Local inference. Graph context. Source references.</title>
+<defs></defs>
+<rect x="1" y="1" width="958" height="190" rx="22" fill="#0d1117" stroke="#30363d"/>
+<g font-family="'Segoe UI',Arial,sans-serif" fill="#f0f6fc"><rect x="1" y="23" width="5" height="146" rx="2" fill="#a78bfa"/><text x="30" y="39" font-size="16" fill="#a78bfa" font-weight="750" letter-spacing="1.4">02 / REPOSAGE</text><text x="30" y="83" font-size="28" fill="#f0f6fc" font-weight="650" >Your codebase, in conversation.</text><text x="30" y="117" font-size="20" fill="#a3b1c2" font-weight="400" >Local inference. Graph context. Source references.</text><text x="30" y="158" font-size="14" fill="#a3b1c2" font-weight="650" letter-spacing="1">PYTHON / LANGGRAPH / OLLAMA / CHROMADB</text><g stroke="#a78bfa" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="#0d1117"><path d="M814 68L881 86L842 137ZM814 68L842 137"/><circle cx="814" cy="68" r="10"/><circle cx="881" cy="86" r="10"/><circle cx="842" cy="137" r="10"/></g></g>
+</svg>

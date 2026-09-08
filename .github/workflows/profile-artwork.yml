@@ -1,0 +1,57 @@
+name: Refresh Profile Artwork
+
+on:
+  schedule:
+    - cron: '20 */12 * * *'
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - 'scripts/generate_profile.py'
+      - 'scripts/test_generate_profile.py'
+      - 'assets/**'
+      - 'data/public-activity.json'
+      - '.github/workflows/profile-artwork.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python3 -m unittest discover -s scripts -p 'test_*.py'
+      - run: python3 scripts/generate_profile.py --check
+
+  refresh:
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    concurrency:
+      group: profile-readme-writes
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Refresh from public LeapView pull requests
+        run: python3 scripts/generate_profile.py --refresh
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - name: Commit updated artwork
+        run: |
+          git add assets/currently-building-*.svg data/public-activity.json
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'docs: refresh public LeapView activity panel'
+          git pull --rebase
+          git push
