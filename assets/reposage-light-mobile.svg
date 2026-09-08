@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="146" viewBox="0 0 480 146" role="img" aria-label="REPOSAGE: Your codebase, in conversation.">
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="144" viewBox="0 0 240 144" role="img" aria-label="REPOSAGE: Your codebase, in conversation.">
 <title>REPOSAGE: Your codebase, in conversation.</title>
 <defs></defs>
-<rect x="1" y="1" width="478" height="144" rx="22" fill="#fffaf5" stroke="#eaded3"/>
-<g font-family="'Segoe UI',Arial,sans-serif" fill="#24292f"><rect x="1" y="14" width="5" height="118" rx="2" fill="#a78bfa"/><text x="20" y="28" font-size="18" fill="#a78bfa" font-weight="750" >02 / REPOSAGE</text><text x="20" y="63" font-size="27" fill="#24292f" font-weight="650" >Your codebase, in</text><text x="20" y="92" font-size="27" fill="#24292f" font-weight="650" >conversation.</text><text x="20" y="126" font-size="16" fill="#596778" font-weight="650" >PYTHON / LANGGRAPH / OLLAMA</text></g>
+<rect x="1" y="1" width="238" height="142" rx="22" fill="#fffaf5" stroke="#eaded3"/>
+<g font-family="'Segoe UI',Arial,sans-serif" fill="#24292f"><rect x="1" y="14" width="4" height="112" rx="2" fill="#a78bfa"/><text x="14" y="27" font-size="16" fill="#a78bfa" font-weight="750" >REPOSAGE</text><text x="14" y="62" font-size="24" fill="#24292f" font-weight="650" >Chat with</text><text x="14" y="89" font-size="24" fill="#24292f" font-weight="650" >your code.</text><text x="14" y="121" font-size="13" fill="#596778" font-weight="650" >PYTHON / OLLAMA</text></g>
 </svg>

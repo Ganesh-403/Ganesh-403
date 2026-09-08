@@ -81,19 +81,16 @@ I'm **Ganesh**, an **AI Engineer at Flid AI**, building **[LeapView](https://git
     <source media="(max-width: 600px)" srcset="assets/leapview-light-mobile.svg" />
     <source media="(prefers-color-scheme: dark)" srcset="assets/leapview-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/leapview-light.svg" />
-    <img src="assets/leapview-light.svg" alt="LeapView — Governed analytics as code. Go, DuckDB, SQL, TypeScript." width="100%" />
+    <img src="assets/leapview-light.svg" alt="LeapView — Governed analytics as code. Go, DuckDB, SQL, TypeScript." width="49%" />
   </picture>
 </a>
-</p>
-
-<p align="center">
 <a href="https://github.com/Ganesh-403/Repo-Sage">
 <picture>
     <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/reposage-dark-mobile.svg" />
     <source media="(max-width: 600px)" srcset="assets/reposage-light-mobile.svg" />
     <source media="(prefers-color-scheme: dark)" srcset="assets/reposage-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/reposage-light.svg" />
-    <img src="assets/reposage-light.svg" alt="RepoSage — Local codebase intelligence with LangGraph, Ollama, and graph retrieval." width="100%" />
+    <img src="assets/reposage-light.svg" alt="RepoSage — Local codebase intelligence with LangGraph, Ollama, and graph retrieval." width="49%" />
   </picture>
 </a>
 </p>
@@ -105,19 +102,16 @@ I'm **Ganesh**, an **AI Engineer at Flid AI**, building **[LeapView](https://git
     <source media="(max-width: 600px)" srcset="assets/honeycloud-light-mobile.svg" />
     <source media="(prefers-color-scheme: dark)" srcset="assets/honeycloud-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/honeycloud-light.svg" />
-    <img src="assets/honeycloud-light.svg" alt="HoneyCloud — Six-protocol honeypot and live attack telemetry. Rust, Axum, PostgreSQL." width="100%" />
+    <img src="assets/honeycloud-light.svg" alt="HoneyCloud — Six-protocol honeypot and live attack telemetry. Rust, Axum, PostgreSQL." width="49%" />
   </picture>
 </a>
-</p>
-
-<p align="center">
 <a href="https://github.com/Ganesh-403/semantic-plagiarism-detector">
 <picture>
     <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/plagiarism-dark-mobile.svg" />
     <source media="(max-width: 600px)" srcset="assets/plagiarism-light-mobile.svg" />
     <source media="(prefers-color-scheme: dark)" srcset="assets/plagiarism-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/plagiarism-light.svg" />
-    <img src="assets/plagiarism-light.svg" alt="Semantic Plagiarism Detector — Multilingual embeddings, paragraph comparisons, and FAISS search." width="100%" />
+    <img src="assets/plagiarism-light.svg" alt="Semantic Plagiarism Detector — Multilingual embeddings, paragraph comparisons, and FAISS search." width="49%" />
   </picture>
 </a>
 </p>

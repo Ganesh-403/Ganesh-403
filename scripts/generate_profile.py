@@ -84,23 +84,6 @@ def terminal(theme):
     return svg(theme, 160, 'Animated terminal: whoami, currently building LeapView, and selected projects', body, styles)
 
 
-def card(theme, project):
-    slug, num, name, headline, detail, stack, accent, icon = project
-    c = THEMES[theme]
-    body = f'<rect x="1" y="16" width="5" height="88" rx="2" fill="{accent}"/>'
-    body += text(24, 29, num + ' / ' + name, 16, accent, 750, 'letter-spacing="1.4"')
-    body += text(24, 67, headline, 28, c['text'], 650)
-    body += text(24, 98, stack, 14, c['muted'], 650, 'letter-spacing="1"')
-    icons = {
-        'chart': '<path d="M819 130V103M849 130V81M879 130V56"/><path d="M804 146H900"/>',
-        'graph': '<path d="M814 68L881 86L842 137ZM814 68L842 137"/><circle cx="814" cy="68" r="10"/><circle cx="881" cy="86" r="10"/><circle cx="842" cy="137" r="10"/>',
-        'hex': '<path d="M848 48L887 71V117L848 140L809 117V71ZM848 72L867 83V105L848 116L829 105V83Z"/>',
-        'scan': '<path d="M822 56H801V77M877 56H898V77M801 118V139H822M898 118V139H877M824 83H875M824 99H865M824 115H875"/>',
-    }
-    body += f'<g transform="translate(300,-2) scale(.65)" stroke="{accent}" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="{c["bg"]}">{icons[icon]}</g>'
-    return svg(theme, 120, name + ': ' + headline + ' ' + detail, body)
-
-
 def validate_activity(data):
     if not isinstance(data, dict) or not isinstance(data.get('number'), int) or data['number'] <= 0:
         raise ValueError('Invalid public pull request number')
@@ -190,6 +173,22 @@ def mobile_art(theme, kind, data=None, project=None):
     return result.replace('width="960"', 'width="480"').replace(f'viewBox="0 0 960 {height}"', f'viewBox="0 0 480 {height}"').replace('width="958"', 'width="478"')
 
 
+def small_project(theme, project):
+    slug, num, name, headline, detail, stack, accent, icon = project
+    c = THEMES[theme]
+    labels = {'leapview': 'LEAPVIEW', 'reposage': 'REPOSAGE', 'honeycloud': 'HONEYCLOUD', 'plagiarism': 'PLAGIARISM'}
+    lines = {'leapview': ['Analytics', 'as code.'], 'reposage': ['Chat with', 'your code.'],
+             'honeycloud': ['Live threat', 'intelligence.'], 'plagiarism': ['Match meaning,', 'not just words.']}
+    stacks = {'leapview': 'GO / DUCKDB', 'reposage': 'PYTHON / OLLAMA', 'honeycloud': 'RUST / AXUM', 'plagiarism': 'PYTHON / FAISS'}
+    body = f'<rect x="1" y="14" width="4" height="112" rx="2" fill="{accent}"/>'
+    body += text(14, 27, labels[slug], 16, accent, 750)
+    for i, line in enumerate(lines[slug]):
+        body += text(14, 62+i*27, line, 24, c['text'], 650)
+    body += text(14, 121, stacks[slug], 13, c['muted'], 650)
+    result = svg(theme, 144, name + ': ' + headline, body)
+    return result.replace('width="960"', 'width="240"').replace('viewBox="0 0 960 144"', 'viewBox="0 0 240 144"').replace('width="958"', 'width="238"')
+
+
 def outputs(data):
     out = {}
     for theme in THEMES:
@@ -199,8 +198,8 @@ def outputs(data):
         out[f'assets/terminal-{theme}.svg'] = terminal(theme)
         out[f'assets/currently-building-{theme}.svg'] = activity(theme, data)
         for project in PROJECTS:
-            out[f'assets/{project[0]}-{theme}.svg'] = card(theme, project)
-            out[f'assets/{project[0]}-{theme}-mobile.svg'] = mobile_art(theme, 'card', project=project)
+            out[f'assets/{project[0]}-{theme}.svg'] = mobile_art(theme, 'card', project=project)
+            out[f'assets/{project[0]}-{theme}-mobile.svg'] = small_project(theme, project)
     out['data/public-activity.json'] = json.dumps(data, indent=2, ensure_ascii=False) + '\n'
     return out
 
