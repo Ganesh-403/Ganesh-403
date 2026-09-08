@@ -1,7 +1,7 @@
 {
-  "number": 540,
-  "title": "CI: remove unused tool installation after hosted profiling",
-  "url": "https://github.com/flidai/leapview/pull/540",
-  "state": "open",
-  "updated_at": "2026-09-08T11:36:44Z"
+  "number": 544,
+  "title": "CI: bound PostgreSQL conformance at four package workers",
+  "url": "https://github.com/flidai/leapview/pull/544",
+  "state": "closed",
+  "updated_at": "2026-09-08T15:54:50Z"
 }
