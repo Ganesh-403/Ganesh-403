@@ -109,16 +109,18 @@ def refresh():
     return data
 
 
-def activity(theme, data):
+def activity(theme, data, mobile=False):
     c = THEMES[theme]
-    body = '<circle cx="36" cy="26" r="5" fill="#34d399"/>'
-    body += text(52, 31, 'CURRENTLY BUILDING / LEAPVIEW', 15, '#f07424', 750, 'letter-spacing="2"')
-    body += text(30, 64, f'Latest public PR · #{data["number"]} · {data["state"].upper()}', 22, c['text'], 650)
-    lines = textwrap.wrap(' '.join(data['title'].split()), width=72, max_lines=2, placeholder='…')
+    width, height = (240, 160) if mobile else (480, 200)
+    pad = 14 if mobile else 24
+    body = text(pad, 25 if mobile else 32, 'BUILDING / LEAPVIEW' if mobile else 'CURRENTLY BUILDING / LEAPVIEW', 13 if mobile else 17, '#f07424', 750)
+    body += text(pad, 52 if mobile else 68, f'PR #{data["number"]} · {data["state"].upper()}', 19 if mobile else 24, c['text'], 650)
+    lines = textwrap.wrap(' '.join(data['title'].split()), width=22 if mobile else 35, max_lines=3 if mobile else 2, placeholder='…')
     for i, line in enumerate(lines):
-        body += text(30, 96 + i * 26, line, 21, c['text'])
-    body += text(30, 153, 'PR updated ' + data['updated_at'][:10] + ' UTC · Refreshed every 12 hours', 15, c['muted'])
-    return svg(theme, 174, 'Currently building LeapView. Latest public PR: ' + data['title'], body)
+        body += text(pad, (79 if mobile else 105) + i*(20 if mobile else 28), line, 17 if mobile else 22, c['text'])
+    body += text(pad, 144 if mobile else 176, 'Updated ' + data['updated_at'][:10] + ' UTC', 12 if mobile else 17, c['muted'])
+    result = svg(theme, height, 'Currently building LeapView. Latest public PR: ' + data['title'], body)
+    return result.replace('width="960"', f'width="{width}"').replace(f'viewBox="0 0 960 {height}"', f'viewBox="0 0 {width} {height}"').replace('width="958"', f'width="{width-2}"')
 
 
 def mobile_art(theme, kind, data=None, project=None):
@@ -159,15 +161,15 @@ def mobile_art(theme, kind, data=None, project=None):
         title = 'Latest public LeapView PR: ' + data['title']
     else:
         slug, num, name, headline, detail, stack, accent, icon = project
-        height = 146
-        body = f'<rect x="1" y="14" width="5" height="118" rx="2" fill="{accent}"/>'
+        height = 200
+        body = f'<rect x="1" y="14" width="5" height="172" rx="2" fill="{accent}"/>'
         label = name if slug != 'plagiarism' else 'SEMANTIC PLAGIARISM'
-        body += text(20, 28, num + ' / ' + label, 18, accent, 750)
+        body += text(20, 36, num + ' / ' + label, 18, accent, 750)
         for i, line in enumerate(textwrap.wrap(headline, 29)):
-            body += text(20, 63+i*29, line, 27, c['text'], 650)
+            body += text(20, 84+i*29, line, 27, c['text'], 650)
         short_stack = {'leapview':'GO / DUCKDB / SQL', 'reposage':'PYTHON / LANGGRAPH / OLLAMA',
                        'honeycloud':'RUST / AXUM / POSTGRESQL', 'plagiarism':'PYTHON / TRANSFORMERS / FAISS'}[slug]
-        body += text(20, 126, short_stack, 16, c['muted'], 650)
+        body += text(20, 174, short_stack, 16, c['muted'], 650)
         title = name + ': ' + headline
     result = svg(theme, height, title, body)
     return result.replace('width="960"', 'width="480"').replace(f'viewBox="0 0 960 {height}"', f'viewBox="0 0 480 {height}"').replace('width="958"', 'width="478"')
@@ -180,13 +182,13 @@ def small_project(theme, project):
     lines = {'leapview': ['Analytics', 'as code.'], 'reposage': ['Chat with', 'your code.'],
              'honeycloud': ['Live threat', 'intelligence.'], 'plagiarism': ['Match meaning,', 'not just words.']}
     stacks = {'leapview': 'GO / DUCKDB', 'reposage': 'PYTHON / OLLAMA', 'honeycloud': 'RUST / AXUM', 'plagiarism': 'PYTHON / FAISS'}
-    body = f'<rect x="1" y="14" width="4" height="112" rx="2" fill="{accent}"/>'
+    body = f'<rect x="1" y="14" width="4" height="132" rx="2" fill="{accent}"/>'
     body += text(14, 27, labels[slug], 16, accent, 750)
     for i, line in enumerate(lines[slug]):
-        body += text(14, 62+i*27, line, 24, c['text'], 650)
-    body += text(14, 121, stacks[slug], 13, c['muted'], 650)
-    result = svg(theme, 144, name + ': ' + headline, body)
-    return result.replace('width="960"', 'width="240"').replace('viewBox="0 0 960 144"', 'viewBox="0 0 240 144"').replace('width="958"', 'width="238"')
+        body += text(14, 68+i*27, line, 24, c['text'], 650)
+    body += text(14, 138, stacks[slug], 13, c['muted'], 650)
+    result = svg(theme, 160, name + ': ' + headline, body)
+    return result.replace('width="960"', 'width="240"').replace('viewBox="0 0 960 160"', 'viewBox="0 0 240 160"').replace('width="958"', 'width="238"')
 
 
 def header_tile(theme, kind, mobile=False):
@@ -222,7 +224,7 @@ def outputs(data):
     for theme in THEMES:
         out[f'assets/banner-{theme}.svg'] = header_tile(theme, 'banner')
         for kind in ['banner', 'terminal', 'currently-building']:
-            out[f'assets/{kind}-{theme}-mobile.svg'] = (mobile_art(theme, kind, data=data) if kind == 'currently-building' else header_tile(theme, kind, mobile=True))
+            out[f'assets/{kind}-{theme}-mobile.svg'] = (activity(theme, data, mobile=True) if kind == 'currently-building' else header_tile(theme, kind, mobile=True))
         out[f'assets/terminal-{theme}.svg'] = header_tile(theme, 'terminal')
         out[f'assets/currently-building-{theme}.svg'] = activity(theme, data)
         for project in PROJECTS:
