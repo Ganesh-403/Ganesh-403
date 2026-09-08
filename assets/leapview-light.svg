@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="192" viewBox="0 0 960 192" role="img" aria-label="LEAPVIEW: Governed analytics. Defined in code. Semantic models, dashboards, and AI agents.">
+<title>LEAPVIEW: Governed analytics. Defined in code. Semantic models, dashboards, and AI agents.</title>
+<defs></defs>
+<rect x="1" y="1" width="958" height="190" rx="22" fill="#fffaf5" stroke="#eaded3"/>
+<g font-family="'Segoe UI',Arial,sans-serif" fill="#24292f"><rect x="1" y="23" width="5" height="146" rx="2" fill="#00b8d9"/><text x="30" y="39" font-size="16" fill="#00b8d9" font-weight="750" letter-spacing="1.4">01 / LEAPVIEW</text><text x="30" y="83" font-size="28" fill="#24292f" font-weight="650" >Governed analytics. Defined in code.</text><text x="30" y="117" font-size="20" fill="#596778" font-weight="400" >Semantic models, dashboards, and AI agents.</text><text x="30" y="158" font-size="14" fill="#596778" font-weight="650" letter-spacing="1">GO / DUCKDB / SQL / TYPESCRIPT</text><g stroke="#00b8d9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="#fffaf5"><path d="M819 130V103M849 130V81M879 130V56"/><path d="M804 146H900"/></g></g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="192" viewBox="0 0 960 192" role="img" aria-label="HONEYCLOUD: Turn attack traffic into insight. Six protocols. Live telemetry. Attacker profiles.">
+<title>HONEYCLOUD: Turn attack traffic into insight. Six protocols. Live telemetry. Attacker profiles.</title>
+<defs></defs>
+<rect x="1" y="1" width="958" height="190" rx="22" fill="#0d1117" stroke="#30363d"/>
+<g font-family="'Segoe UI',Arial,sans-serif" fill="#f0f6fc"><rect x="1" y="23" width="5" height="146" rx="2" fill="#f59e0b"/><text x="30" y="39" font-size="16" fill="#f59e0b" font-weight="750" letter-spacing="1.4">03 / HONEYCLOUD</text><text x="30" y="83" font-size="28" fill="#f0f6fc" font-weight="650" >Turn attack traffic into insight.</text><text x="30" y="117" font-size="20" fill="#a3b1c2" font-weight="400" >Six protocols. Live telemetry. Attacker profiles.</text><text x="30" y="158" font-size="14" fill="#a3b1c2" font-weight="650" letter-spacing="1">RUST / AXUM / POSTGRESQL / DOCKER</text><g stroke="#f59e0b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="#0d1117"><path d="M848 48L887 71V117L848 140L809 117V71ZM848 72L867 83V105L848 116L829 105V83Z"/></g></g>
+</svg>

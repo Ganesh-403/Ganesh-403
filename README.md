@@ -4,11 +4,14 @@
 
 <div align="center">
 
-  <!-- Hero banner -->
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:F74C00,50:FF7A18,100:FBBF24&height=230&section=header&text=Ganesh%20Kambli&fontSize=56&fontColor=ffffff&fontAlignY=36&fontFamily=Poppins&desc=AI%20Engineer%20%40%20Flid%20AI%20%E2%80%A2%20Building%20LeapView%20%E2%80%A2%20Go%20%E2%80%A2%20Agent-Native%20BI&descAlignY=57&descSize=16&animation=fadeIn"
-    alt="Ganesh Kambli — AI Engineer @ Flid AI"
-  />
+  <!-- Theme-aware hero -->
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-dark-mobile.svg" />
+    <source media="(max-width: 600px)" srcset="assets/banner-light-mobile.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
+    <img src="assets/banner-light.svg" alt="Ganesh Kambli — AI Engineer at Flid AI. Building LeapView." width="100%" />
+  </picture>
 
   <!-- Quick badges row -->
   <p>
@@ -32,15 +35,18 @@
     />
   </p>
 
-  <!-- Typing banner -->
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=18&pause=1000&color=F74C00&center=true&vCenter=true&width=850&lines=AI+Engineer+%40+Flid+AI+(Building+LeapView);Go+(Golang)+%E2%80%A2+Agent-Native+BI+%E2%80%A2+Analytics+as+Code;Go+Backends+%E2%80%A2+DuckDB+%E2%80%A2+Local+LLM+Systems;Building+RepoSage+%26+HoneyCloud;Golang+%7C+Python+%7C+Docker+%7C+AWS+%7C+AI+Agents"
-      alt="AI Engineer — skills and projects"
-    />
-  </a>
+  <!-- Animated terminal, with a reduced-motion fallback -->
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/terminal-dark-mobile.svg" />
+    <source media="(max-width: 600px)" srcset="assets/terminal-light-mobile.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg" />
+    <img src="assets/terminal-light.svg" alt="Terminal intro: Ganesh Kambli, building LeapView with Go, DuckDB, and AI agents." width="100%" />
+  </picture>
 
 </div>
+
+<p align="center"><a href="https://github.com/flidai/leapview">LeapView</a> · <a href="https://github.com/Ganesh-403/Repo-Sage">RepoSage</a> · <a href="https://github.com/Ganesh-403/honeycloud">HoneyCloud</a> · <a href="https://portfolio-website-ganesh-kamblis-projects.vercel.app/">Portfolio</a></p>
 
 <br/>
 
@@ -54,12 +60,7 @@
 
 <br/>
 
-<img
-  align="right"
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  width="260"
-  alt="Developer coding animation"
-/>
+
 
 ### 🧠 Turning data, code, and signals into useful tools.
 
@@ -70,7 +71,25 @@ I'm **Ganesh**, an **AI Engineer at Flid AI**, building **[LeapView](https://git
 - 🔬 **Research & Publications**: Published **2 research papers** on distributed honeypot architectures and machine learning-driven threat classification.
 - 🛠️ **Open Source & Community**: Project Admin & Maintainer for **ECSoC'26** and open-source contributor (**GSSoC'26**).
 
-<br clear="right"/>
+<p align="center">
+<img
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  width="300"
+  alt="Developer coding animation"
+/>
+</p>
+
+<div align="center">
+<a href="https://github.com/flidai/leapview/pulls?q=is%3Apr+author%3AGanesh-403+sort%3Aupdated-desc">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/currently-building-dark-mobile.svg" />
+    <source media="(max-width: 600px)" srcset="assets/currently-building-light-mobile.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/currently-building-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/currently-building-light.svg" />
+    <img src="assets/currently-building-light.svg" alt="Currently building LeapView — latest public pull request. Open my public work." width="100%" />
+  </picture>
+</a>
+</div>
 
 <br/>
 
@@ -86,52 +105,47 @@ I'm **Ganesh**, an **AI Engineer at Flid AI**, building **[LeapView](https://git
 
 <div align="center">
 
-<table>
-  <tr>
-    <th width="35%">Project</th>
-    <th width="65%">Description & Tech Stack</th>
-  </tr>
-  <tr>
-    <td>
-      <strong><a href="https://github.com/flidai/leapview">LeapView</a></strong><br/>
-      <sub>Agent-Native BI Platform @ Flid AI</sub>
-    </td>
-    <td>
-      Open-source, agent-native BI platform. Build governed semantic models and dashboards as code, review every change in Git, and explore trusted analytics through dashboards and AI agents.<br/>
-      <code>Go (Golang)</code> <code>DuckDB</code> <code>Analytics as Code</code> <code>Docker</code> <code>AI Agents</code>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong><a href="https://github.com/Ganesh-403/Repo-Sage">RepoSage</a></strong><br/>
-      <sub>Autonomous GraphRAG Codebase Intelligence</sub>
-    </td>
-    <td>
-      Ask questions about a codebase with local LLM inference. Combines Python AST parsing, call-graph context, and hybrid search to produce answers with source-file and line references.<br/>
-      <code>Python</code> <code>LangGraph</code> <code>Ollama</code> <code>ChromaDB</code> <code>NetworkX</code>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong><a href="https://github.com/Ganesh-403/honeycloud">HoneyCloud</a></strong><br/>
-      <sub>Cloud Honeypot & Threat Intel System</sub>
-    </td>
-    <td>
-      Capture attack events across six protocols, build attacker profiles, and stream live telemetry to a dashboard. The current backend uses Rust, Axum, and PostgreSQL.<br/>
-      <code>Rust</code> <code>Axum</code> <code>PostgreSQL</code> <code>Docker</code> <code>WebSockets</code>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong><a href="https://github.com/Ganesh-403/semantic-plagiarism-detector">Semantic Plagiarism Detector</a></strong><br/>
-      <sub>AI-Powered NLP Analysis</sub>
-    </td>
-    <td>
-      Find semantically similar passages with multilingual sentence embeddings and vector search. Explore document comparisons, similarity heatmaps, and paragraph-level matches. <a href="https://semantic-plagiarism-detector.streamlit.app/">Try the live demo ↗</a><br/>
-      <code>Sentence Transformers</code> <code>FAISS</code> <code>Streamlit</code> <code>Python</code>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/flidai/leapview">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/leapview-dark-mobile.svg" />
+    <source media="(max-width: 600px)" srcset="assets/leapview-light-mobile.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/leapview-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/leapview-light.svg" />
+    <img src="assets/leapview-light.svg" alt="LeapView — Governed analytics as code. Go, DuckDB, SQL, TypeScript." width="100%" />
+  </picture>
+</a>
+
+<a href="https://github.com/Ganesh-403/Repo-Sage">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/reposage-dark-mobile.svg" />
+    <source media="(max-width: 600px)" srcset="assets/reposage-light-mobile.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/reposage-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/reposage-light.svg" />
+    <img src="assets/reposage-light.svg" alt="RepoSage — Local codebase intelligence with LangGraph, Ollama, and graph retrieval." width="100%" />
+  </picture>
+</a>
+
+<a href="https://github.com/Ganesh-403/honeycloud">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/honeycloud-dark-mobile.svg" />
+    <source media="(max-width: 600px)" srcset="assets/honeycloud-light-mobile.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/honeycloud-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/honeycloud-light.svg" />
+    <img src="assets/honeycloud-light.svg" alt="HoneyCloud — Six-protocol honeypot and live attack telemetry. Rust, Axum, PostgreSQL." width="100%" />
+  </picture>
+</a>
+
+<a href="https://github.com/Ganesh-403/semantic-plagiarism-detector">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/plagiarism-dark-mobile.svg" />
+    <source media="(max-width: 600px)" srcset="assets/plagiarism-light-mobile.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/plagiarism-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/plagiarism-light.svg" />
+    <img src="assets/plagiarism-light.svg" alt="Semantic Plagiarism Detector — Multilingual embeddings, paragraph comparisons, and FAISS search." width="100%" />
+  </picture>
+</a>
+
+<p><a href="https://semantic-plagiarism-detector.streamlit.app/">Try the plagiarism detector ↗</a></p>
 
 </div>
 
@@ -261,9 +275,9 @@ I'm **Ganesh**, an **AI Engineer at Flid AI**, building **[LeapView](https://git
   />
   <br/><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ganesh-403/Ganesh-403/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ganesh-403/Ganesh-403/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Ganesh-403/Ganesh-403/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/snake-light.svg" />
+    <img src="assets/snake-light.svg" alt="GitHub contribution grid snake animation" width="100%" />
   </picture>
 
   <br/><br/>

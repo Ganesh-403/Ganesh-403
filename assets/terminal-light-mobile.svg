@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="250" viewBox="0 0 480 250" role="img" aria-label="Animated terminal — Ganesh, LeapView, RepoSage and HoneyCloud">
+<title>Animated terminal — Ganesh, LeapView, RepoSage and HoneyCloud</title>
+<defs></defs>
+<rect x="1" y="1" width="478" height="248" rx="22" fill="#fffaf5" stroke="#eaded3"/>
+<g font-family="'Segoe UI',Arial,sans-serif" fill="#24292f"><style>
+.scene{opacity:0;animation:cycle 15s infinite;animation-timing-function:steps(1,end)}
+.scene0{opacity:1;animation-delay:0s}.scene1{animation-delay:5s}.scene2{animation-delay:10s}
+@keyframes cycle{0%,32%{opacity:1}33%,100%{opacity:0}}
+.cursor{animation:blink 1.2s steps(2,start) infinite}@keyframes blink{to{opacity:0}}
+@media(prefers-reduced-motion:reduce){.scene,.cursor{animation:none}.scene0{opacity:1}.scene1,.scene2{opacity:0}}
+</style><text x="24" y="32" font-size="16" fill="#596778" font-weight="400" >ganesh@github ~ /building</text><g class="scene scene0"><text x="24" y="84" font-size="22" fill="#f07424" font-weight="600" font-family="monospace">$ whoami</text><text x="24" y="134" font-size="29" fill="#24292f" font-weight="650" >Ganesh Kambli</text><text x="24" y="175" font-size="23" fill="#596778" font-weight="400" >AI Engineer at Flid AI.</text></g><g class="scene scene1"><text x="24" y="84" font-size="22" fill="#f07424" font-weight="600" font-family="monospace">$ cat currently-building</text><text x="24" y="134" font-size="29" fill="#24292f" font-weight="650" >LeapView</text><text x="24" y="175" font-size="23" fill="#596778" font-weight="400" >Go. DuckDB. AI agents.</text></g><g class="scene scene2"><text x="24" y="84" font-size="22" fill="#f07424" font-weight="600" font-family="monospace">$ ls projects/</text><text x="24" y="134" font-size="29" fill="#24292f" font-weight="650" >RepoSage / HoneyCloud</text><text x="24" y="175" font-size="23" fill="#596778" font-weight="400" >Code intelligence &amp; telemetry.</text></g><rect class="cursor" x="24" y="209" width="11" height="19" fill="#f07424"/></g>
+</svg>
