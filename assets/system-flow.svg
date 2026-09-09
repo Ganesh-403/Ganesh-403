@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="176" viewBox="0 0 960 176" role="img" aria-labelledby="title desc">
+<title id="title">From intent to insight</title><desc id="desc">My engineering interests: an idea flows through APIs, agents and data to an observable system.</desc>
+<defs><linearGradient id="line"><stop stop-color="#a78bfa"/><stop offset=".5" stop-color="#67e8f9"/><stop offset="1" stop-color="#f9a8d4"/></linearGradient></defs>
+<style>text {font-family: 'Segoe UI', Arial, sans-serif} .packet {stroke-dasharray: 5 28; animation: travel 6s linear infinite} @keyframes travel {to {stroke-dashoffset: -198}} @media (prefers-reduced-motion: reduce) {.packet {animation: none}}</style>
+<rect width="960" height="176" rx="16" fill="#111528"/><text x="28" y="32" fill="#94a3b8" font-size="11" letter-spacing="2">THE PROBLEMS I LIKE CONNECTING</text>
+<path d="M80 98H880" stroke="#35334e" stroke-width="2"/><path class="packet" d="M80 98H880" stroke="url(#line)" stroke-width="3"/>
+<g text-anchor="middle">
+<rect x="28" y="63" width="150" height="70" rx="10" fill="#211c3d" stroke="#a78bfa"/><text x="103" y="92" fill="#ddd6fe" font-size="18" font-weight="600">Intent</text><text x="103" y="115" fill="#a5b4cc" font-size="12">a useful problem</text>
+<rect x="217" y="63" width="150" height="70" rx="10" fill="#17263b" stroke="#67e8f9"/><text x="292" y="92" fill="#a5f3fc" font-size="18" font-weight="600">APIs</text><text x="292" y="115" fill="#a5b4cc" font-size="12">Go · Python</text>
+<rect x="406" y="63" width="150" height="70" rx="10" fill="#24203f" stroke="#c4b5fd"/><text x="481" y="92" fill="#ddd6fe" font-size="18" font-weight="600">Agents</text><text x="481" y="115" fill="#a5b4cc" font-size="12">tools · orchestration</text>
+<rect x="595" y="63" width="150" height="70" rx="10" fill="#302335" stroke="#f9a8d4"/><text x="670" y="92" fill="#fbcfe8" font-size="18" font-weight="600">Data</text><text x="670" y="115" fill="#a5b4cc" font-size="12">DuckDB · pipelines</text>
+<rect x="784" y="63" width="148" height="70" rx="10" fill="#152c30" stroke="#6ee7b7"/><text x="858" y="92" fill="#a7f3d0" font-size="18" font-weight="600">Insight</text><text x="858" y="115" fill="#a5b4cc" font-size="12">observe · improve</text>
+</g></svg>

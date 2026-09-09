@@ -1,136 +1,142 @@
-<!-- Hero -->
+<div align="center">
 
-<p align="center">
+<img src="./assets/hero.svg" width="100%" alt="Ganesh Kambli — AI Engineer at Flid AI. Building agent-native analytics with Go and DuckDB." />
+
+<br/>
+
+<p>
+<a href="https://flid.ai/"><img src="https://img.shields.io/badge/AI_Engineer-Flid_AI-a78bfa?style=for-the-badge&amp;labelColor=171329" alt="AI Engineer at Flid AI" /></a>
+<img src="https://img.shields.io/badge/Mumbai-India-67e8f9?style=for-the-badge&amp;labelColor=171329" alt="Based in Mumbai, India" />
+<a href="https://github.com/flidai/leapview"><img src="https://img.shields.io/badge/Building-LeapView-f9a8d4?style=for-the-badge&amp;labelColor=171329&amp;logo=github&amp;logoColor=white" alt="Building LeapView at Flid AI" /></a>
+</p>
+
+<p>
+<a href="https://portfolio-website-ganesh-kamblis-projects.vercel.app/">Portfolio ↗</a> &nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/ganeshkambli/">LinkedIn ↗</a> &nbsp; · &nbsp;
+<a href="mailto:gkambli70@gmail.com">Say hello ↗</a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3200&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Go+%2B+DuckDB+%2B+Python;Agent+architectures+%26+distributed+systems;Agent-native+BI.+Analytics+as+code.;Always+curious.+Always+building." width="100%" alt="Go, DuckDB and Python. Agent architectures and distributed systems. Agent-native BI and analytics as code." />
+
+</div>
+
+## 🪐 A little about my orbit
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28%" alt="Animated illustration of a developer at work" />
+
+I'm **Ganesh**, an **AI Engineer at [Flid AI](https://flid.ai/)** in Mumbai, India. I'm building **[LeapView](https://github.com/flidai/leapview)** — open-source BI powered by **Go and DuckDB**.
+
+My work connects **governed analytics, backend infrastructure, and AI agents**: semantic models and dashboards defined as code, reviewed in Git, and explored through dashboards and agents.
+
+- 🧠 **Current focus:** Go backends, DuckDB query execution, semantic data models, and context retrieval for agents.
+- ⚡ **Core tools:** Go, DuckDB, and Python.
+- 🛠️ **Things I build:** agent-native analytics, local code intelligence, honeypot infrastructure, and NLP tools.
+- 🔬 **Research:** 2 published papers on distributed honeypot architectures and machine learning-driven threat classification.
+- 🌱 **Community:** Project Admin & Maintainer for **ECSoC'26** and open-source contributor at **GSSoC'26**.
+- 🏆 **Achievements:** Winner, Site Craft Web Development Challenge (VAMINT Club 2025); runner-up, Prep-A-Thon Coding Competition (Technobash 2025).
+
+<br clear="right"/>
+
+<img src="./assets/system-flow.svg" width="100%" alt="My engineering interests: intent → APIs with Go and Python → agents and tools → data with DuckDB → observable insights" />
+
+## ✨ Selected builds
+
+A few corners of my work — from agent-native analytics and code intelligence to security and cloud infrastructure.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🚀 LeapView</h3>
+<p>Open-source BI at Flid AI: governed semantic models, dashboards as code, and analytics for AI agents.</p>
+<p><code>Go</code> <code>DuckDB</code> <code>AI agents</code></p>
+<a href="https://github.com/flidai/leapview"><b>Explore the project →</b></a>
+</td>
+<td width="50%" valign="top">
+<h3>🧠 RepoSage</h3>
+<p>Local codebase intelligence with GraphRAG, AST-based context, and answers grounded in source files.</p>
+<p><code>LangGraph</code> <code>Ollama</code> <code>ChromaDB</code></p>
+<a href="https://github.com/Ganesh-403/Repo-Sage"><b>Explore the project →</b></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🍯 HoneyCloud</h3>
+<p>Multi-protocol honeypot infrastructure with live attack telemetry, threat scoring, and attacker profiling.</p>
+<p><code>Rust</code> <code>Axum</code> <code>PostgreSQL</code></p>
+<a href="https://github.com/Ganesh-403/honeycloud"><b>Explore the project →</b></a>
+</td>
+<td width="50%" valign="top">
+<h3>🔍 Semantic Plagiarism Detector</h3>
+<p>Detecting paraphrased and cross-lingual text similarity with multilingual embeddings and vector search.</p>
+<p><code>Python</code> <code>SentenceTransformers</code> <code>FAISS</code></p>
+<a href="https://github.com/Ganesh-403/semantic-plagiarism-detector"><b>Explore the project →</b></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>☁️ AWS URL Shortener</h3>
+<p>Serverless URL shortening with Lambda, API Gateway, DynamoDB, S3, and CloudFront.</p>
+<p><code>AWS</code> <code>Lambda</code> <code>DynamoDB</code></p>
+<a href="https://github.com/Ganesh-403/aws-url-shortener"><b>Explore the project →</b></a>
+</td>
+<td width="50%" valign="top">
+<h3>⚡ GPU Huffman</h3>
+<p>CUDA-accelerated character-frequency counting, Huffman code generation, and CPU/GPU benchmarks.</p>
+<p><code>C++</code> <code>CUDA</code> <code>Huffman coding</code></p>
+<a href="https://github.com/Ganesh-403/GPU-huffman"><b>Explore the project →</b></a>
+</td>
+</tr>
+</table>
+
+<p align="center"><a href="https://github.com/Ganesh-403?tab=repositories"><b>More experiments, tools, and builds ↗</b></a></p>
+
+## 🎨 My toolbox
+
+<div align="center">
+
+<p><b>At the center of my work</b></p>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&amp;logo=duckdb&amp;logoColor=black" alt="DuckDB" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+
+<p><b>Backend &amp; data</b></p>
+<img src="https://skillicons.dev/icons?i=go,python,rust,fastapi,postgres,mongodb,redis,kafka&amp;perline=8" alt="Go, Python, Rust, FastAPI, PostgreSQL, MongoDB, Redis, Kafka" />
+
+<p><b>Cloud &amp; delivery</b></p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux,terraform&amp;perline=6" alt="Docker, Kubernetes, AWS, GitHub Actions, Linux, Terraform" />
+
+<details>
+<summary><b>Also in the toolkit: AI, frontend &amp; languages</b></summary>
+<br/>
+<p><code>LangGraph</code> <code>LangChain</code> <code>RAG / GraphRAG</code> <code>MCP</code> <code>ChromaDB</code> <code>Qdrant</code> <code>FAISS</code> <code>PyTorch</code> <code>SQL</code></p>
+<img src="https://skillicons.dev/icons?i=react,ts,cpp,git,html,css&amp;perline=6" alt="React, TypeScript, C++, Git, HTML, CSS" />
+</details>
+
+</div>
+
+## 🐍 A year of building, one square at a time
+
 <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-dark-mobile.svg" />
-    <source media="(max-width: 600px)" srcset="assets/banner-light-mobile.svg" />
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
-    <img src="assets/banner-light.svg" alt="Ganesh Kambli — AI Engineer at Flid AI. Building LeapView." width="49%" />
-  </picture>
-<picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/terminal-dark-mobile.svg" />
-    <source media="(max-width: 600px)" srcset="assets/terminal-light-mobile.svg" />
-    <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg" />
-    <img src="assets/terminal-light.svg" alt="Terminal intro: Ganesh Kambli, building LeapView with Go, DuckDB, and AI agents." width="49%" />
-  </picture>
-</p>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/snake-light.svg" />
+  <img alt="Animated snake moving through my GitHub contribution calendar" src="./assets/snake-light.svg" width="100%" />
+</picture>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/ganeshkambli/">
-<img
-src="https://img.shields.io/badge/AI%20Engineer-%40%20Flid%20AI-F74C00?style=for-the-badge&logo=openai&logoColor=white"
-alt="AI Engineer @ Flid AI"
-/>
-</a>
-<a href="https://github.com/flidai/leapview">
-<img
-src="https://img.shields.io/badge/Building-LeapView-00ADD8?style=for-the-badge&logo=go&logoColor=white"
-alt="Building LeapView"
-/>
-</a>
-<img
-src="https://img.shields.io/badge/Research-2%20Published%20Papers-2ea44f?style=for-the-badge&logo=googlescholar&logoColor=white"
-alt="2 Published Research Papers"
-/>
-</p>
+<p align="center"><sub>My contribution calendar, with a little personality. Refreshed daily.</sub></p>
 
-<p align="center"><a href="https://github.com/flidai/leapview">LeapView</a> · <a href="https://github.com/Ganesh-403/Repo-Sage">RepoSage</a> · <a href="https://github.com/Ganesh-403/honeycloud">HoneyCloud</a> · <a href="https://portfolio-website-ganesh-kamblis-projects.vercel.app/">Portfolio</a></p>
+<details>
+<summary><b>📊 More from my GitHub</b></summary>
+<br/>
 
-<h2 align="center">
-  <img src="https://img.shields.io/badge/-ABOUT%20ME-0d1117?style=for-the-badge&labelColor=F74C00&logo=github&logoColor=white" alt="About Me section badge" />
-</h2>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ganesh-403&amp;theme=radical" width="100%" alt="GitHub contribution activity overview" />
 
-<h3 align="center">🧠 Turning data, code, and signals into useful tools.</h3>
+<p><a href="https://github.com/Ganesh-403?tab=repositories">Browse my repositories</a> · <a href="https://github.com/Ganesh-403?tab=stars">Things I find interesting</a></p>
 
-I'm **Ganesh**, an **AI Engineer at Flid AI**, building **[LeapView](https://github.com/flidai/leapview)** — open-source BI powered by **Go** and **DuckDB**. My work connects governed analytics, backend infrastructure, and AI agents.
+</details>
 
-- 🚀 **At LeapView**: Semantic models and dashboards defined as code, reviewed in Git, and explored through dashboards and AI agents.
-- ⚡ **Engineering focus**: Go backends, DuckDB query execution, semantic data models, and context retrieval for agents.
-- 🔬 **Research & Publications**: Published **2 research papers** on distributed honeypot architectures and machine learning-driven threat classification.
-- 🛠️ **Open Source & Community**: Project Admin & Maintainer for **ECSoC'26** and open-source contributor (**GSSoC'26**).
-
-<h2 align="center">
-  <img src="https://img.shields.io/badge/-TECH%20STACK-0d1117?style=for-the-badge&labelColor=F74C00&logo=stackshare&logoColor=white" alt="Tech stack section badge" />
-</h2>
-
-<h3 align="center">Languages &amp; Core</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-<img src="https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
-
-<h3 align="center">AI &amp; Agent Systems</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Agent--Native%20BI-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Agent-Native BI" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/RAG%20%2F%20GraphRAG-F74C00?style=flat-square&logo=openai&logoColor=white" alt="RAG / GraphRAG" />
-<img src="https://img.shields.io/badge/MCP-F74C00?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" />
-<img src="https://img.shields.io/badge/ChromaDB-F74C00?style=flat-square&logo=chroma&logoColor=white" alt="ChromaDB" />
-<img src="https://img.shields.io/badge/Qdrant-000000?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant" />
-<img src="https://img.shields.io/badge/FAISS-00599C?style=flat-square&logo=meta&logoColor=white" alt="FAISS" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-</p>
-
-<h3 align="center">Data &amp; Backend Infrastructure</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" alt="DuckDB" />
-<img src="https://img.shields.io/badge/Axum-CE422B?style=flat-square&logo=rust&logoColor=white" alt="Axum" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
-<img src="https://img.shields.io/badge/REST%20%26%20WebSockets-F74C00?style=flat-square&logo=socketdotio&logoColor=white" alt="REST & WebSockets" />
-</p>
-
-<h3 align="center">Cloud &amp; DevOps</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-</p>
-
-<h2 align="center">
-  <img src="https://img.shields.io/badge/-PUBLICATIONS%20%26%20ACHIEVEMENTS-0d1117?style=for-the-badge&labelColor=F74C00&logo=trophy&logoColor=white" alt="Achievements section badge" />
-</h2>
-
-- <strong>2 Published Research Papers</strong> — Distributed honeypot architecture & AI-driven threat classification
-- <strong>Project Admin & Maintainer</strong> — Elite Coders Summer of Code (ECSoC'26)
-- <strong>Open Source Contributor</strong> — GirlScript Summer of Code (GSSoC'26)
-- <strong>Winner</strong> — Site Craft Web Development Challenge (VAMINT Club 2025)
-- <strong>Runner-Up</strong> — Prep-A-Thon Coding Competition (Technobash 2025)
-
-<h2 align="center">
-  <img src="https://img.shields.io/badge/-GITHUB%20STATS-0d1117?style=for-the-badge&labelColor=F74C00&logo=github&logoColor=white" alt="GitHub stats section badge" />
-</h2>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganesh-403&amp;theme=radical&amp;hide_border=true" width="495" alt="Ganesh-403 GitHub contribution streak stats" />
-</p>
-
-<p align="center">
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/snake-light.svg" />
-    <img src="assets/snake-light.svg" alt="GitHub contribution grid snake animation" width="100%" />
-  </picture>
-</p>
-
-<h3 align="center">⚡ Recent Activity</h3>
+<details>
+<summary><b>⚡ Recent public activity</b></summary>
+<br/>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#544](https://github.com/flidai/leapview/pull/544) in [flidai/leapview](https://github.com/flidai/leapview)
@@ -140,24 +146,20 @@ I'm **Ganesh**, an **AI Engineer at Flid AI**, building **[LeapView](https://git
 5. 💪 Opened PR [#542](https://github.com/flidai/leapview/pull/542) in [flidai/leapview](https://github.com/flidai/leapview)
 <!--END_SECTION:activity-->
 
-<h2 align="center">
-  <img src="https://img.shields.io/badge/-LET'S%20CONNECT-0d1117?style=for-the-badge&labelColor=F74C00&logo=handshake&logoColor=white" alt="Connect section badge" />
-</h2>
+</details>
 
-<p align="center">
-Always excited to collaborate on <strong>Agent-Native Systems</strong>, <strong>Golang infrastructure</strong>, and <strong>Analytics as Code</strong>.
+## 💬 Let's build something useful
+
+I'm interested in collaborating on **agent-native systems, Golang infrastructure, analytics as code, and open source**. If you're working on a problem in that space, I'd love to hear about it.
+
+<div align="center">
+
+<p>
+<a href="https://portfolio-website-ganesh-kamblis-projects.vercel.app/"><img src="https://img.shields.io/badge/Explore_my_portfolio-a78bfa?style=for-the-badge&amp;logo=vercel&amp;logoColor=171329" alt="Explore my portfolio" /></a>
+<a href="https://www.linkedin.com/in/ganeshkambli/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-67e8f9?style=for-the-badge&amp;logoColor=171329" alt="Connect on LinkedIn" /></a>
+<a href="mailto:gkambli70@gmail.com"><img src="https://img.shields.io/badge/Send_a_hello-f9a8d4?style=for-the-badge&amp;logo=gmail&amp;logoColor=171329" alt="Send me an email" /></a>
 </p>
 
-<p align="center">
-<a href="https://portfolio-website-ganesh-kamblis-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F74C00?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" height="28" /></a>
-<a href="https://www.linkedin.com/in/ganeshkambli/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" height="28" /></a>
-<a href="mailto:gkambli70@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" height="28" /></a>
-</p>
+<img src="./assets/footer.svg" width="100%" alt="Build with curiosity. Ship with care." />
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Ganesh-403&amp;color=F74C00&amp;style=for-the-badge&amp;label=Profile+Views" alt="Profile views counter" height="28" />
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F74C00,50:FF7A18,100:FBBF24&amp;height=120&amp;section=footer" width="100%" alt="Footer wave" />
-</p>
+</div>
