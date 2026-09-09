@@ -139,11 +139,11 @@ A few corners of my work — from agent-native analytics and code intelligence t
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#544](https://github.com/flidai/leapview/pull/544) in [flidai/leapview](https://github.com/flidai/leapview)
-2. 💪 Opened PR [#544](https://github.com/flidai/leapview/pull/544) in [flidai/leapview](https://github.com/flidai/leapview)
-3. 🗣 Commented on [#520](https://github.com/flidai/leapview/issues/520#issuecomment-5587019040) in [flidai/leapview](https://github.com/flidai/leapview)
-4. 🎉 Merged PR [#540](https://github.com/flidai/leapview/pull/540) in [flidai/leapview](https://github.com/flidai/leapview)
-5. 💪 Opened PR [#542](https://github.com/flidai/leapview/pull/542) in [flidai/leapview](https://github.com/flidai/leapview)
+1. ❌ Closed PR [#535](https://github.com/flidai/leapview/pull/535) in [flidai/leapview](https://github.com/flidai/leapview)
+2. 🎉 Merged PR [#551](https://github.com/flidai/leapview/pull/551) in [flidai/leapview](https://github.com/flidai/leapview)
+3. 🎉 Merged PR [#550](https://github.com/flidai/leapview/pull/550) in [flidai/leapview](https://github.com/flidai/leapview)
+4. 🎉 Merged PR [#548](https://github.com/flidai/leapview/pull/548) in [flidai/leapview](https://github.com/flidai/leapview)
+5. 🗣 Commented on [#548](https://github.com/flidai/leapview/pull/548#issuecomment-5599513912) in [flidai/leapview](https://github.com/flidai/leapview)
 <!--END_SECTION:activity-->
 
 </details>
