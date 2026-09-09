@@ -1,7 +1,7 @@
 {
-  "number": 544,
-  "title": "CI: bound PostgreSQL conformance at four package workers",
-  "url": "https://github.com/flidai/leapview/pull/544",
-  "state": "closed",
-  "updated_at": "2026-09-08T15:54:50Z"
+  "number": 547,
+  "title": "feat(recovery): persist RecoverySet v3 evidence bindings",
+  "url": "https://github.com/flidai/leapview/pull/547",
+  "state": "open",
+  "updated_at": "2026-09-09T04:24:01Z"
 }
