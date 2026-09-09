@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="110" viewBox="0 0 960 110" role="img" aria-labelledby="title">
+<title id="title">Build with curiosity. Ship with care.</title>
+<defs><linearGradient id="wave"><stop stop-color="#8b5cf6"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#ec4899"/></linearGradient></defs>
+<path d="M0 75Q160 110 320 78T640 78T960 75V110H0Z" fill="url(#wave)" opacity=".15"/><path d="M0 88Q160 55 320 90T640 90T960 88" fill="none" stroke="url(#wave)" stroke-width="2"/>
+<text x="480" y="45" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="18" font-weight="600" fill="#a78bfa">Build with curiosity. Ship with care.</text>
+</svg>

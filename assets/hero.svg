@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" role="img" aria-labelledby="title desc">
+<title id="title">Ganesh Kambli — AI Engineer at Flid AI</title>
+<desc id="desc">A violet, cyan and pink constellation surrounds a moving data orbit. Building agent-native analytics with Go and DuckDB.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#14102d"/><stop offset=".6" stop-color="#10192c"/><stop offset="1" stop-color="#24112d"/></linearGradient>
+<linearGradient id="spectrum"><stop stop-color="#a78bfa"/><stop offset=".5" stop-color="#67e8f9"/><stop offset="1" stop-color="#f9a8d4"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#8b5cf6" stop-opacity=".28"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a78bfa" stroke-opacity=".055"/></pattern>
+</defs>
+<style>
+text {font-family: 'Segoe UI', Arial, sans-serif} .mono {font-family: Consolas, 'Liberation Mono', monospace}
+.orbit {transform-origin: 776px 167px; animation: rotate 36s linear infinite} .reverse {animation-direction: reverse; animation-duration: 48s}
+.signal {stroke-dasharray: 8 18; animation: flow 12s linear infinite} .star {animation: glow 4s ease-in-out infinite alternate} .cursor {animation: blink 1.2s steps(2, jump-none) infinite}
+@keyframes rotate {to {transform: rotate(360deg)}} @keyframes flow {to {stroke-dashoffset: -260}} @keyframes glow {to {opacity: .3}} @keyframes blink {to {opacity: 0}}
+@media (prefers-reduced-motion: reduce) {* {animation: none !important}}
+</style>
+<rect width="960" height="360" rx="20" fill="url(#bg)"/><rect width="960" height="360" rx="20" fill="url(#grid)"/>
+<circle cx="776" cy="167" r="205" fill="url(#halo)"/><path d="M28 1H932" stroke="url(#spectrum)" stroke-width="2" opacity=".8"/>
+<g fill="#c4b5fd"><circle class="star" cx="627" cy="43" r="2"/><circle class="star" cx="923" cy="96" r="2"/><circle cx="877" cy="295" r="2"/><circle class="star" cx="652" cy="278" r="2.5"/><circle cx="563" cy="86" r="1.5"/></g>
+<g fill="none" stroke-width="1">
+<circle cx="776" cy="167" r="116" stroke="#a78bfa" stroke-opacity=".25"/><circle cx="776" cy="167" r="87" stroke="#67e8f9" stroke-opacity=".22"/>
+<path class="signal" d="M660 167H892M776 51V283" stroke="#a78bfa" stroke-opacity=".4"/>
+<g class="orbit"><ellipse cx="776" cy="167" rx="125" ry="52" stroke="#a78bfa" stroke-opacity=".65"/><circle cx="901" cy="167" r="5" fill="#c4b5fd" stroke="none"/></g>
+<g class="orbit reverse"><ellipse cx="776" cy="167" rx="52" ry="125" stroke="#67e8f9" stroke-opacity=".55"/><circle cx="776" cy="42" r="5" fill="#67e8f9" stroke="none"/></g>
+<circle cx="776" cy="167" r="43" fill="#15172f" stroke="url(#spectrum)" stroke-width="2"/>
+</g>
+<text x="776" y="178" text-anchor="middle" font-size="30" font-weight="700" fill="url(#spectrum)">GK</text>
+<text x="44" y="53" class="mono" font-size="12" letter-spacing="3" fill="#a5b4cc">ENGINEERING / INTELLIGENCE / SYSTEMS</text>
+<text x="42" y="132" font-size="64" font-weight="750" letter-spacing="-2" fill="#f5f3ff">Ganesh Kambli<tspan fill="#67e8f9">.</tspan></text>
+<text x="46" y="172" font-size="21" fill="#c4b5fd">AI Engineer <tspan fill="#75839e">@</tspan> <tspan fill="#f9a8d4">Flid AI</tspan></text>
+<text x="46" y="218" font-size="23" font-weight="600" fill="#e2e8f0">Building agent-native analytics</text><text x="46" y="249" font-size="23" font-weight="600" fill="#e2e8f0">with Go and DuckDB.</text>
+<rect x="44" y="286" width="872" height="44" rx="8" fill="#0b1020" stroke="#3b3357"/><circle cx="65" cy="308" r="4" fill="#67e8f9" class="star"/>
+<text x="82" y="313" class="mono" font-size="13" fill="#cbd5e1"><tspan fill="#a78bfa">~/ganesh</tspan><tspan fill="#64748b"> $ </tspan>go build ideas <tspan fill="#64748b">//</tspan> agents · data · distributed systems</text><rect x="650" y="301" width="7" height="15" fill="#67e8f9" class="cursor"/>
+</svg>
