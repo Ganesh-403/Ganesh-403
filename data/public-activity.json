@@ -1,7 +1,7 @@
 {
-  "number": 549,
-  "title": "FAI-675: Enforce closed resource graph references",
-  "url": "https://github.com/flidai/leapview/pull/549",
+  "number": 554,
+  "title": "feat(recovery): add exact-version managed object retrieval",
+  "url": "https://github.com/flidai/leapview/pull/554",
   "state": "open",
-  "updated_at": "2026-09-09T15:28:34Z"
+  "updated_at": "2026-09-10T03:15:41Z"
 }
