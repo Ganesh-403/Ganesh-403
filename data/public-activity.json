@@ -1,7 +1,7 @@
 {
-  "number": 554,
-  "title": "feat(recovery): add exact-version managed object retrieval",
-  "url": "https://github.com/flidai/leapview/pull/554",
-  "state": "open",
-  "updated_at": "2026-09-10T03:15:41Z"
+  "number": 562,
+  "title": "feat(semantic-access): integrate cache lifecycle and audit (FAI-645)",
+  "url": "https://github.com/flidai/leapview/pull/562",
+  "state": "closed",
+  "updated_at": "2026-09-10T13:29:02Z"
 }
