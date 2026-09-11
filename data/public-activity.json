@@ -1,7 +1,7 @@
 {
-  "number": 564,
-  "title": "test(semantic-access): qualify ADR-0017 supported profile (FAI-648)",
-  "url": "https://github.com/flidai/leapview/pull/564",
+  "number": 572,
+  "title": "fix(deployment): enforce control-plane publication ownership (FAI-616)",
+  "url": "https://github.com/flidai/leapview/pull/572",
   "state": "closed",
-  "updated_at": "2026-09-11T03:33:37Z"
+  "updated_at": "2026-09-11T15:08:17Z"
 }
