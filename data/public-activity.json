@@ -1,7 +1,7 @@
 {
-  "number": 562,
-  "title": "feat(semantic-access): integrate cache lifecycle and audit (FAI-645)",
-  "url": "https://github.com/flidai/leapview/pull/562",
+  "number": 564,
+  "title": "test(semantic-access): qualify ADR-0017 supported profile (FAI-648)",
+  "url": "https://github.com/flidai/leapview/pull/564",
   "state": "closed",
-  "updated_at": "2026-09-10T13:29:02Z"
+  "updated_at": "2026-09-11T03:33:37Z"
 }
