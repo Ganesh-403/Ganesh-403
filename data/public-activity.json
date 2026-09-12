@@ -1,7 +1,7 @@
 {
-  "number": 575,
-  "title": "feat(semantic-access): activate qualified cutover (FAI-649)",
-  "url": "https://github.com/flidai/leapview/pull/575",
+  "number": 584,
+  "title": "feat(release): add postgres transition preflight evaluation",
+  "url": "https://github.com/flidai/leapview/pull/584",
   "state": "open",
-  "updated_at": "2026-09-12T04:38:42Z"
+  "updated_at": "2026-09-12T15:13:26Z"
 }
