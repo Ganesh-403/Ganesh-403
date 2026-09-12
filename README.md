@@ -139,11 +139,11 @@ A few corners of my work — from agent-native analytics and code intelligence t
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#572](https://github.com/flidai/leapview/pull/572) in [flidai/leapview](https://github.com/flidai/leapview)
-2. 💪 Opened PR [#572](https://github.com/flidai/leapview/pull/572) in [flidai/leapview](https://github.com/flidai/leapview)
-3. ℹ️ Assigned PR [#541](https://github.com/flidai/leapview/pull/541) in [flidai/leapview](https://github.com/flidai/leapview)
+1. 💪 Opened PR [#575](https://github.com/flidai/leapview/pull/575) in [flidai/leapview](https://github.com/flidai/leapview)
+2. 🎉 Merged PR [#572](https://github.com/flidai/leapview/pull/572) in [flidai/leapview](https://github.com/flidai/leapview)
+3. 💪 Opened PR [#572](https://github.com/flidai/leapview/pull/572) in [flidai/leapview](https://github.com/flidai/leapview)
 4. ℹ️ Assigned PR [#541](https://github.com/flidai/leapview/pull/541) in [flidai/leapview](https://github.com/flidai/leapview)
-5. 🎉 Merged PR [#564](https://github.com/flidai/leapview/pull/564) in [flidai/leapview](https://github.com/flidai/leapview)
+5. ℹ️ Assigned PR [#541](https://github.com/flidai/leapview/pull/541) in [flidai/leapview](https://github.com/flidai/leapview)
 <!--END_SECTION:activity-->
 
 </details>
