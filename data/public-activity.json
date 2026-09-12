@@ -1,7 +1,7 @@
 {
-  "number": 572,
-  "title": "fix(deployment): enforce control-plane publication ownership (FAI-616)",
-  "url": "https://github.com/flidai/leapview/pull/572",
-  "state": "closed",
-  "updated_at": "2026-09-11T15:08:17Z"
+  "number": 575,
+  "title": "feat(semantic-access): activate qualified cutover (FAI-649)",
+  "url": "https://github.com/flidai/leapview/pull/575",
+  "state": "open",
+  "updated_at": "2026-09-12T04:38:42Z"
 }
