@@ -1,7 +1,7 @@
 {
-  "number": 584,
-  "title": "feat(release): add postgres transition preflight evaluation",
-  "url": "https://github.com/flidai/leapview/pull/584",
+  "number": 587,
+  "title": "docs(adr): reconcile ADR-0018 conformance evidence",
+  "url": "https://github.com/flidai/leapview/pull/587",
   "state": "open",
-  "updated_at": "2026-09-12T15:13:26Z"
+  "updated_at": "2026-09-13T04:39:04Z"
 }
