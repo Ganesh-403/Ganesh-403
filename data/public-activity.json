@@ -1,7 +1,7 @@
 {
-  "number": 587,
-  "title": "docs(adr): reconcile ADR-0018 conformance evidence",
-  "url": "https://github.com/flidai/leapview/pull/587",
+  "number": 597,
+  "title": "fix(project): bind idempotency to authoritative runtime scope",
+  "url": "https://github.com/flidai/leapview/pull/597",
   "state": "open",
-  "updated_at": "2026-09-13T04:39:04Z"
+  "updated_at": "2026-09-13T16:20:25Z"
 }
