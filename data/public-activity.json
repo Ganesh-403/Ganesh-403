@@ -1,7 +1,7 @@
 {
-  "number": 598,
-  "title": "test(project): qualify BND-06 retention boundaries",
-  "url": "https://github.com/flidai/leapview/pull/598",
+  "number": 607,
+  "title": "feat(release): add per-artifact migration capability authority",
+  "url": "https://github.com/flidai/leapview/pull/607",
   "state": "open",
-  "updated_at": "2026-09-14T04:39:04Z"
+  "updated_at": "2026-09-14T16:25:15Z"
 }
