@@ -1,7 +1,7 @@
 {
-  "number": 607,
-  "title": "feat(release): add per-artifact migration capability authority",
-  "url": "https://github.com/flidai/leapview/pull/607",
-  "state": "open",
-  "updated_at": "2026-09-14T16:25:15Z"
+  "number": 621,
+  "title": "fix(qualification): stabilize browser and postgres architecture checks",
+  "url": "https://github.com/flidai/leapview/pull/621",
+  "state": "closed",
+  "updated_at": "2026-09-15T04:54:09Z"
 }
