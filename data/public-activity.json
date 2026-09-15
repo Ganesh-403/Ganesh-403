@@ -1,7 +1,7 @@
 {
-  "number": 621,
-  "title": "fix(qualification): stabilize browser and postgres architecture checks",
-  "url": "https://github.com/flidai/leapview/pull/621",
-  "state": "closed",
-  "updated_at": "2026-09-15T04:54:09Z"
+  "number": 632,
+  "title": "feat(release): add forward transition qualification runner",
+  "url": "https://github.com/flidai/leapview/pull/632",
+  "state": "open",
+  "updated_at": "2026-09-15T15:15:36Z"
 }
