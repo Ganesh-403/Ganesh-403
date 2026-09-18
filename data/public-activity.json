@@ -1,7 +1,7 @@
 {
-  "number": 632,
-  "title": "feat(release): add forward transition qualification runner",
-  "url": "https://github.com/flidai/leapview/pull/632",
+  "number": 648,
+  "title": "test(dbt): add FAI-688 Azure boundary qualification harness",
+  "url": "https://github.com/flidai/leapview/pull/648",
   "state": "closed",
-  "updated_at": "2026-09-16T16:27:46Z"
+  "updated_at": "2026-09-18T13:36:44Z"
 }
