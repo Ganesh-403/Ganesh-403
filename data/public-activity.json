@@ -1,7 +1,7 @@
 {
-  "number": 648,
-  "title": "test(dbt): add FAI-688 Azure boundary qualification harness",
-  "url": "https://github.com/flidai/leapview/pull/648",
-  "state": "closed",
-  "updated_at": "2026-09-18T13:36:44Z"
+  "number": 647,
+  "title": "fix(qualification): select custom token expiry before fill",
+  "url": "https://github.com/flidai/leapview/pull/647",
+  "state": "open",
+  "updated_at": "2026-09-19T10:32:16Z"
 }
