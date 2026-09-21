@@ -1,7 +1,7 @@
 {
-  "number": 661,
-  "title": "feat(host): add admitted existing-host upgrade effects",
-  "url": "https://github.com/flidai/leapview/pull/661",
-  "state": "closed",
-  "updated_at": "2026-09-21T04:51:33Z"
+  "number": 668,
+  "title": "feat(recovery): coordinate physical provider restoration",
+  "url": "https://github.com/flidai/leapview/pull/668",
+  "state": "open",
+  "updated_at": "2026-09-21T16:14:13Z"
 }
