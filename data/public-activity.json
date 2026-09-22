@@ -1,7 +1,7 @@
 {
-  "number": 668,
-  "title": "feat(recovery): coordinate physical provider restoration",
-  "url": "https://github.com/flidai/leapview/pull/668",
-  "state": "closed",
-  "updated_at": "2026-09-22T04:23:17Z"
+  "number": 688,
+  "title": "fix(ci): preserve reusable Go caches and explain health gaps",
+  "url": "https://github.com/flidai/leapview/pull/688",
+  "state": "open",
+  "updated_at": "2026-09-22T16:38:11Z"
 }
