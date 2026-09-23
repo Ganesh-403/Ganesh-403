@@ -1,7 +1,7 @@
 {
-  "number": 688,
-  "title": "fix(ci): preserve reusable Go caches and explain health gaps",
-  "url": "https://github.com/flidai/leapview/pull/688",
+  "number": 695,
+  "title": "fix(scim): revoke MCP sessions and group memberships on deactivation",
+  "url": "https://github.com/flidai/leapview/pull/695",
   "state": "open",
-  "updated_at": "2026-09-22T16:38:11Z"
+  "updated_at": "2026-09-23T15:19:32Z"
 }
