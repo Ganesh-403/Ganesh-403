@@ -1,7 +1,7 @@
 {
-  "number": 726,
-  "title": "feat(agent): let platform admins configure the chatbot provider and model",
-  "url": "https://github.com/flidai/leapview/pull/726",
+  "number": 729,
+  "title": "fix(host): support target-bound revision-019 bootstrap",
+  "url": "https://github.com/flidai/leapview/pull/729",
   "state": "open",
-  "updated_at": "2026-09-24T16:48:16Z"
+  "updated_at": "2026-09-25T04:22:49Z"
 }
