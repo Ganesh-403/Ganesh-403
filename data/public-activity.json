@@ -1,7 +1,7 @@
 {
-  "number": 729,
-  "title": "fix(host): support target-bound revision-019 bootstrap",
-  "url": "https://github.com/flidai/leapview/pull/729",
-  "state": "open",
-  "updated_at": "2026-09-25T04:22:49Z"
+  "number": 727,
+  "title": "feat(site): add public compliance and security page",
+  "url": "https://github.com/flidai/leapview/pull/727",
+  "state": "closed",
+  "updated_at": "2026-09-25T16:39:11Z"
 }
