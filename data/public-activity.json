@@ -1,7 +1,7 @@
 {
-  "number": 748,
-  "title": "fix(deploy): bound public-site images and preserve rollback",
-  "url": "https://github.com/flidai/leapview/pull/748",
+  "number": 753,
+  "title": "fix(access): bound initial publisher password exemption to setup",
+  "url": "https://github.com/flidai/leapview/pull/753",
   "state": "open",
-  "updated_at": "2026-09-26T04:54:20Z"
+  "updated_at": "2026-09-26T15:08:56Z"
 }
