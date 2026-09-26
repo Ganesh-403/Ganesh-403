@@ -1,7 +1,7 @@
 {
-  "number": 727,
-  "title": "feat(site): add public compliance and security page",
-  "url": "https://github.com/flidai/leapview/pull/727",
-  "state": "closed",
-  "updated_at": "2026-09-25T16:39:11Z"
+  "number": 748,
+  "title": "fix(deploy): bound public-site images and preserve rollback",
+  "url": "https://github.com/flidai/leapview/pull/748",
+  "state": "open",
+  "updated_at": "2026-09-26T04:54:20Z"
 }
