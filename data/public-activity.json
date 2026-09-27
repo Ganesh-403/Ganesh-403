@@ -1,7 +1,7 @@
 {
   "number": 753,
-  "title": "fix(access): bound initial publisher password exemption to setup",
+  "title": "fix(access): complete first publication and image qualification",
   "url": "https://github.com/flidai/leapview/pull/753",
-  "state": "open",
-  "updated_at": "2026-09-26T15:08:56Z"
+  "state": "closed",
+  "updated_at": "2026-09-26T17:26:44Z"
 }
