@@ -1,7 +1,7 @@
 {
-  "number": 757,
-  "title": "Require historical upgrade qualification and reconcile demo deployments",
-  "url": "https://github.com/flidai/leapview/pull/757",
-  "state": "open",
-  "updated_at": "2026-09-28T05:18:08Z"
+  "number": 762,
+  "title": "fix(deploy): tolerate environment ordering after rehearsal",
+  "url": "https://github.com/flidai/leapview/pull/762",
+  "state": "closed",
+  "updated_at": "2026-09-28T11:30:11Z"
 }
