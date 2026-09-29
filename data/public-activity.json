@@ -1,7 +1,7 @@
 {
-  "number": 762,
-  "title": "fix(deploy): tolerate environment ordering after rehearsal",
-  "url": "https://github.com/flidai/leapview/pull/762",
-  "state": "closed",
-  "updated_at": "2026-09-28T11:30:11Z"
+  "number": 751,
+  "title": "test(deploy): qualify isolated Kamal public-site lifecycle",
+  "url": "https://github.com/flidai/leapview/pull/751",
+  "state": "open",
+  "updated_at": "2026-09-29T05:41:32Z"
 }
