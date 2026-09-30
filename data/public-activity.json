@@ -1,7 +1,7 @@
 {
-  "number": 778,
-  "title": "test(ducklake): isolate PostgreSQL extension setup",
-  "url": "https://github.com/flidai/leapview/pull/778",
+  "number": 782,
+  "title": "feat(deploy): add reusable public-site observation and acceptance",
+  "url": "https://github.com/flidai/leapview/pull/782",
   "state": "closed",
-  "updated_at": "2026-09-29T13:49:22Z"
+  "updated_at": "2026-09-30T13:23:53Z"
 }
