@@ -1,7 +1,7 @@
 {
-  "number": 782,
-  "title": "feat(deploy): add reusable public-site observation and acceptance",
-  "url": "https://github.com/flidai/leapview/pull/782",
-  "state": "closed",
-  "updated_at": "2026-09-30T13:23:53Z"
+  "number": 786,
+  "title": "Repair OpenSSL image admission and add safe vulnerability diagnostics",
+  "url": "https://github.com/flidai/leapview/pull/786",
+  "state": "open",
+  "updated_at": "2026-10-01T05:59:51Z"
 }
