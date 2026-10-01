@@ -1,7 +1,7 @@
 {
-  "number": 786,
-  "title": "Repair OpenSSL image admission and add safe vulnerability diagnostics",
-  "url": "https://github.com/flidai/leapview/pull/786",
+  "number": 792,
+  "title": "feat(nix): bind image candidates to OCI content",
+  "url": "https://github.com/flidai/leapview/pull/792",
   "state": "open",
-  "updated_at": "2026-10-01T05:59:51Z"
+  "updated_at": "2026-10-01T15:57:49Z"
 }
