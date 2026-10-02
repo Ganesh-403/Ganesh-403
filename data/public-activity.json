@@ -1,7 +1,7 @@
 {
-  "number": 792,
-  "title": "feat(nix): bind image candidates to OCI content",
-  "url": "https://github.com/flidai/leapview/pull/792",
+  "number": 812,
+  "title": "feat(security): verify exact Go binary vulnerability evidence",
+  "url": "https://github.com/flidai/leapview/pull/812",
   "state": "open",
-  "updated_at": "2026-10-02T05:40:40Z"
+  "updated_at": "2026-10-02T16:55:46Z"
 }
