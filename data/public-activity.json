@@ -1,7 +1,7 @@
 {
-  "number": 814,
-  "title": "test(ci): measure orchestration cache costs before adoption",
-  "url": "https://github.com/flidai/leapview/pull/814",
-  "state": "open",
-  "updated_at": "2026-10-03T04:39:54Z"
+  "number": 823,
+  "title": "chore(ci): standardize workflow names and record reassessment",
+  "url": "https://github.com/flidai/leapview/pull/823",
+  "state": "closed",
+  "updated_at": "2026-10-03T16:06:50Z"
 }
