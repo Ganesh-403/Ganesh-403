@@ -1,7 +1,7 @@
 {
-  "number": 830,
-  "title": "fix(security): detect deployment protection drift",
-  "url": "https://github.com/flidai/leapview/pull/830",
+  "number": 839,
+  "title": "fix(qualification): scope evidence reads and recovery uploads",
+  "url": "https://github.com/flidai/leapview/pull/839",
   "state": "open",
-  "updated_at": "2026-10-04T05:53:04Z"
+  "updated_at": "2026-10-04T13:22:48Z"
 }
