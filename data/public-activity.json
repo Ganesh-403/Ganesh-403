@@ -1,7 +1,7 @@
 {
-  "number": 839,
-  "title": "fix(qualification): scope evidence reads and recovery uploads",
-  "url": "https://github.com/flidai/leapview/pull/839",
+  "number": 841,
+  "title": "feat(nix): build and verify native Linux application candidates",
+  "url": "https://github.com/flidai/leapview/pull/841",
   "state": "open",
-  "updated_at": "2026-10-04T13:22:48Z"
+  "updated_at": "2026-10-05T05:44:05Z"
 }
