@@ -1,7 +1,7 @@
 {
-  "number": 841,
-  "title": "feat(nix): build and verify native Linux application candidates",
-  "url": "https://github.com/flidai/leapview/pull/841",
+  "number": 858,
+  "title": "fix(security): patch Undici in Electron proof fixture",
+  "url": "https://github.com/flidai/leapview/pull/858",
   "state": "open",
-  "updated_at": "2026-10-05T05:44:05Z"
+  "updated_at": "2026-10-06T06:24:38Z"
 }
