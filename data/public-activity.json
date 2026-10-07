@@ -1,7 +1,7 @@
 {
-  "number": 888,
-  "title": "fix(qualification): use current authoring lifecycle arguments",
-  "url": "https://github.com/flidai/leapview/pull/888",
+  "number": 919,
+  "title": "feat(managed): guard release handoffs with enrolled capacity",
+  "url": "https://github.com/flidai/leapview/pull/919",
   "state": "open",
-  "updated_at": "2026-10-07T06:02:48Z"
+  "updated_at": "2026-10-07T13:44:46Z"
 }
