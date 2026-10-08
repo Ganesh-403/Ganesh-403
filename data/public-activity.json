@@ -1,7 +1,7 @@
 {
-  "number": 919,
-  "title": "feat(managed): guard release handoffs with enrolled capacity",
-  "url": "https://github.com/flidai/leapview/pull/919",
+  "number": 928,
+  "title": "fix(nix): retain bounded host installer diagnostics",
+  "url": "https://github.com/flidai/leapview/pull/928",
   "state": "open",
-  "updated_at": "2026-10-07T13:44:46Z"
+  "updated_at": "2026-10-08T06:06:27Z"
 }
