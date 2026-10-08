@@ -1,7 +1,7 @@
 {
-  "number": 928,
-  "title": "fix(nix): retain bounded host installer diagnostics",
-  "url": "https://github.com/flidai/leapview/pull/928",
+  "number": 947,
+  "title": "feat(credentials): activate source and agent versions with offline rotation",
+  "url": "https://github.com/flidai/leapview/pull/947",
   "state": "open",
-  "updated_at": "2026-10-08T06:06:27Z"
+  "updated_at": "2026-10-08T16:28:20Z"
 }
