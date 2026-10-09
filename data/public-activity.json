@@ -1,7 +1,7 @@
 {
-  "number": 947,
-  "title": "feat(credentials): activate source and agent versions with offline rotation",
-  "url": "https://github.com/flidai/leapview/pull/947",
+  "number": 943,
+  "title": "fix(agent): recover truncated responses before executing tools",
+  "url": "https://github.com/flidai/leapview/pull/943",
   "state": "open",
-  "updated_at": "2026-10-08T16:28:20Z"
+  "updated_at": "2026-10-09T06:11:57Z"
 }
