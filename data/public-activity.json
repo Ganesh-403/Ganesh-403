@@ -1,7 +1,7 @@
 {
-  "number": 943,
-  "title": "fix(agent): recover truncated responses before executing tools",
-  "url": "https://github.com/flidai/leapview/pull/943",
+  "number": 972,
+  "title": "fix(ci): allow offline desktop archive acquisition",
+  "url": "https://github.com/flidai/leapview/pull/972",
   "state": "open",
-  "updated_at": "2026-10-09T06:11:57Z"
+  "updated_at": "2026-10-09T15:59:25Z"
 }
