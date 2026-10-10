@@ -1,7 +1,7 @@
 {
-  "number": 972,
-  "title": "fix(ci): allow offline desktop archive acquisition",
-  "url": "https://github.com/flidai/leapview/pull/972",
+  "number": 982,
+  "title": "fix(ci): prevent Docker credentials from leaking on rate limits",
+  "url": "https://github.com/flidai/leapview/pull/982",
   "state": "open",
-  "updated_at": "2026-10-09T15:59:25Z"
+  "updated_at": "2026-10-10T05:40:56Z"
 }
