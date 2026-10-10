@@ -1,7 +1,7 @@
 {
-  "number": 982,
-  "title": "fix(ci): prevent Docker credentials from leaking on rate limits",
-  "url": "https://github.com/flidai/leapview/pull/982",
-  "state": "open",
-  "updated_at": "2026-10-10T05:40:56Z"
+  "number": 994,
+  "title": "fix(deploy): let the isolated credential relay read its private config",
+  "url": "https://github.com/flidai/leapview/pull/994",
+  "state": "closed",
+  "updated_at": "2026-10-10T15:31:31Z"
 }
