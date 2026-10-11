@@ -1,7 +1,7 @@
 {
-  "number": 978,
-  "title": "feat(deploy): qualify managed recovery and deployment lifecycles",
-  "url": "https://github.com/flidai/leapview/pull/978",
+  "number": 1006,
+  "title": "fix(packaging): pin native PostgreSQL images for ARM64 installs",
+  "url": "https://github.com/flidai/leapview/pull/1006",
   "state": "open",
-  "updated_at": "2026-10-11T05:13:39Z"
+  "updated_at": "2026-10-11T17:40:18Z"
 }
