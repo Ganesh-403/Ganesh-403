@@ -1,7 +1,7 @@
 {
-  "number": 1019,
-  "title": "fix(ci): route pinned fixture pulls through the existing mirror",
-  "url": "https://github.com/flidai/leapview/pull/1019",
-  "state": "open",
-  "updated_at": "2026-10-13T06:40:53Z"
+  "number": 1017,
+  "title": "fix(release): repair Compose qualification, login responsiveness and chat revocation",
+  "url": "https://github.com/flidai/leapview/pull/1017",
+  "state": "closed",
+  "updated_at": "2026-10-13T14:46:27Z"
 }
