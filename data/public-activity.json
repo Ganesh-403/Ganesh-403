@@ -1,7 +1,7 @@
 {
-  "number": 921,
-  "title": "Reference only: Jacob’s deployment stack proposal (replaces #744)",
-  "url": "https://github.com/flidai/leapview/pull/921",
+  "number": 1019,
+  "title": "fix(ci): route pinned fixture pulls through the existing mirror",
+  "url": "https://github.com/flidai/leapview/pull/1019",
   "state": "open",
-  "updated_at": "2026-10-12T15:42:16Z"
+  "updated_at": "2026-10-13T06:40:53Z"
 }
