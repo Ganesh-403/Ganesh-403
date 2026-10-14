@@ -1,7 +1,7 @@
 {
-  "number": 1017,
-  "title": "fix(release): repair Compose qualification, login responsiveness and chat revocation",
-  "url": "https://github.com/flidai/leapview/pull/1017",
-  "state": "closed",
-  "updated_at": "2026-10-13T14:46:27Z"
+  "number": 1026,
+  "title": "docs(release): reconcile alpha upgrade and bundled install guidance",
+  "url": "https://github.com/flidai/leapview/pull/1026",
+  "state": "open",
+  "updated_at": "2026-10-14T03:58:59Z"
 }
