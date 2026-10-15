@@ -1,7 +1,7 @@
 {
-  "number": 1026,
-  "title": "docs(release): reconcile alpha upgrade and bundled install guidance",
-  "url": "https://github.com/flidai/leapview/pull/1026",
+  "number": 1029,
+  "title": "fix(release): close activation and Compose receipt failures",
+  "url": "https://github.com/flidai/leapview/pull/1029",
   "state": "closed",
-  "updated_at": "2026-10-14T06:24:20Z"
+  "updated_at": "2026-10-15T12:20:57Z"
 }
