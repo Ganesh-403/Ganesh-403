@@ -1,7 +1,7 @@
 {
-  "number": 1029,
-  "title": "fix(release): close activation and Compose receipt failures",
-  "url": "https://github.com/flidai/leapview/pull/1029",
-  "state": "closed",
-  "updated_at": "2026-10-15T12:20:57Z"
+  "number": 1030,
+  "title": "fix(ci): allow final Compose guest checks to complete",
+  "url": "https://github.com/flidai/leapview/pull/1030",
+  "state": "open",
+  "updated_at": "2026-10-16T04:18:18Z"
 }
