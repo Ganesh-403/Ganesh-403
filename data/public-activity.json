@@ -1,7 +1,7 @@
 {
-  "number": 1031,
-  "title": "fix(ci): retain safe first-publication preview diagnostics",
-  "url": "https://github.com/flidai/leapview/pull/1031",
+  "number": 921,
+  "title": "Reference only: Jacob’s deployment stack proposal (replaces #744)",
+  "url": "https://github.com/flidai/leapview/pull/921",
   "state": "closed",
-  "updated_at": "2026-10-16T08:19:36Z"
+  "updated_at": "2026-10-17T03:17:42Z"
 }
