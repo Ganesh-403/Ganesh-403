@@ -1,7 +1,7 @@
 {
-  "number": 921,
-  "title": "Reference only: Jacob’s deployment stack proposal (replaces #744)",
-  "url": "https://github.com/flidai/leapview/pull/921",
+  "number": 1033,
+  "title": "fix(runtime): reject invalid semantic schemas before publication",
+  "url": "https://github.com/flidai/leapview/pull/1033",
   "state": "closed",
-  "updated_at": "2026-10-17T03:17:42Z"
+  "updated_at": "2026-10-17T06:36:33Z"
 }
