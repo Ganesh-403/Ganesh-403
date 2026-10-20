@@ -1,7 +1,7 @@
 {
-  "number": 1033,
-  "title": "fix(runtime): reject invalid semantic schemas before publication",
-  "url": "https://github.com/flidai/leapview/pull/1033",
+  "number": 1044,
+  "title": "fix(ci): keep the orchestration archive inside its envelope budget",
+  "url": "https://github.com/flidai/leapview/pull/1044",
   "state": "closed",
-  "updated_at": "2026-10-17T06:36:33Z"
+  "updated_at": "2026-10-20T10:56:25Z"
 }
