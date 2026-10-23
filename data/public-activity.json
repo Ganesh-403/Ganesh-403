@@ -1,7 +1,7 @@
 {
-  "number": 1046,
-  "title": "Fix P4 QA findings: site polish, SEO, demo discovery, inspector (LV-63..66)",
-  "url": "https://github.com/flidai/leapview/pull/1046",
+  "number": 1047,
+  "title": "Fix P3 QA findings: hardening, error contracts, admin UX, hygiene (LV-32..62)",
+  "url": "https://github.com/flidai/leapview/pull/1047",
   "state": "open",
-  "updated_at": "2026-10-22T15:55:10Z"
+  "updated_at": "2026-10-23T02:28:04Z"
 }
