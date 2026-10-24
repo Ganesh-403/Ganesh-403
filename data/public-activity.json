@@ -1,7 +1,7 @@
 {
-  "number": 1047,
-  "title": "Fix P3 QA findings: hardening, error contracts, admin UX, hygiene (LV-32..62)",
-  "url": "https://github.com/flidai/leapview/pull/1047",
+  "number": 1051,
+  "title": "fix(host): admit the reviewed #1048 Caddyfile maintenance transition",
+  "url": "https://github.com/flidai/leapview/pull/1051",
   "state": "closed",
-  "updated_at": "2026-10-23T17:21:01Z"
+  "updated_at": "2026-10-24T11:59:44Z"
 }
