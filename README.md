@@ -139,11 +139,11 @@ A few corners of my work — from agent-native analytics and code intelligence t
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1051](https://github.com/flidai/leapview/pull/1051) in [flidai/leapview](https://github.com/flidai/leapview)
-2. 💪 Opened PR [#1051](https://github.com/flidai/leapview/pull/1051) in [flidai/leapview](https://github.com/flidai/leapview)
-3. 🎉 Merged PR [#1047](https://github.com/flidai/leapview/pull/1047) in [flidai/leapview](https://github.com/flidai/leapview)
-4. 🎉 Merged PR [#1050](https://github.com/flidai/leapview/pull/1050) in [flidai/leapview](https://github.com/flidai/leapview)
-5. 🎉 Merged PR [#1048](https://github.com/flidai/leapview/pull/1048) in [flidai/leapview](https://github.com/flidai/leapview)
+1. 🎉 Merged PR [#3](https://github.com/Ganesh-403/portfolio-website/pull/3) in [Ganesh-403/portfolio-website](https://github.com/Ganesh-403/portfolio-website)
+2. 💪 Opened PR [#3](https://github.com/Ganesh-403/portfolio-website/pull/3) in [Ganesh-403/portfolio-website](https://github.com/Ganesh-403/portfolio-website)
+3. 🎉 Merged PR [#2](https://github.com/Ganesh-403/portfolio-website/pull/2) in [Ganesh-403/portfolio-website](https://github.com/Ganesh-403/portfolio-website)
+4. 💪 Opened PR [#2](https://github.com/Ganesh-403/portfolio-website/pull/2) in [Ganesh-403/portfolio-website](https://github.com/Ganesh-403/portfolio-website)
+5. 🎉 Merged PR [#1](https://github.com/Ganesh-403/portfolio-website/pull/1) in [Ganesh-403/portfolio-website](https://github.com/Ganesh-403/portfolio-website)
 <!--END_SECTION:activity-->
 
 </details>
