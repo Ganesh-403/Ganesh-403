@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Ganesh Kambli — AI Engineer at Flid AI. Building agent-native analytics with Go and DuckDB." />
+<img src="./assets/hero.svg" width="100%" alt="Ganesh Kambli — Platform Engineer at Flid AI. Building agent-native products and the platforms that ship them." />
 
 <br/>
 
 <p>
-<a href="https://flid.ai/"><img src="https://img.shields.io/badge/AI_Engineer-Flid_AI-a78bfa?style=for-the-badge&amp;labelColor=171329" alt="AI Engineer at Flid AI" /></a>
+<a href="https://flid.ai/"><img src="https://img.shields.io/badge/Platform_Engineer-Flid_AI-a78bfa?style=for-the-badge&amp;labelColor=171329" alt="Platform Engineer at Flid AI" /></a>
 <img src="https://img.shields.io/badge/Mumbai-India-67e8f9?style=for-the-badge&amp;labelColor=171329" alt="Based in Mumbai, India" />
 <a href="https://github.com/flidai/leapview"><img src="https://img.shields.io/badge/Building-LeapView-f9a8d4?style=for-the-badge&amp;labelColor=171329&amp;logo=github&amp;logoColor=white" alt="Building LeapView at Flid AI" /></a>
 </p>
@@ -16,7 +16,7 @@
 <a href="mailto:gkambli70@gmail.com">Say hello ↗</a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3200&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Go+%2B+DuckDB+%2B+Python;Agent+architectures+%26+distributed+systems;Agent-native+BI.+Analytics+as+code.;Always+curious.+Always+building." width="100%" alt="Go, DuckDB and Python. Agent architectures and distributed systems. Agent-native BI and analytics as code." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3200&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Platform+engineering+%C2%B7+CI%2FCD+%C2%B7+releases;Go+%2B+Rust+%2B+NixOS;Zero-downtime+deploys.+Fast+rollbacks.;Agent-native+products%2C+shipped+with+care." width="100%" alt="Platform engineering, CI/CD and releases. Go, Rust and NixOS. Zero-downtime deploys and fast rollbacks. Agent-native products, shipped with care." />
 
 </div>
 
@@ -24,24 +24,24 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28%" alt="Animated illustration of a developer at work" />
 
-I'm **Ganesh**, an **AI Engineer at [Flid AI](https://flid.ai/)** in Mumbai, India. I'm building **[LeapView](https://github.com/flidai/leapview)** — open-source BI powered by **Go and DuckDB**.
+I'm **Ganesh**, a **Platform Engineer at [Flid AI](https://flid.ai/)** in Mumbai, India. I build agent-native products and the platforms that ship them: **[LeapView](https://github.com/flidai/leapview)**, open-source BI on Go and DuckDB, and **Alloy Catalog**, a Rust and SQLite catalog and search platform running on NixOS for enterprise customers.
 
-My work connects **governed analytics, backend infrastructure, and AI agents**: semantic models and dashboards defined as code, reviewed in Git, and explored through dashboards and agents.
+Most of my time goes into making shipping safe and boring: **merge-queue CI gates, zero-downtime blue-green deployments, versioned releases, and fast rollbacks**. I also run AI-assisted development at Flid, where coding agents take work from issue triage through independent review to merge, with humans setting the bar.
 
-- 🧠 **Current focus:** Go backends, DuckDB query execution, semantic data models, and context retrieval for agents.
-- ⚡ **Core tools:** Go, DuckDB, and Python.
-- 🛠️ **Things I build:** agent-native analytics, local code intelligence, honeypot infrastructure, and NLP tools.
+- 🧠 **Current focus:** CI/CD and release engineering, blue-green deploys on NixOS, production monitoring, and agent workflows.
+- ⚡ **Core tools:** Go, Rust, NixOS, and GitHub Actions.
+- 🛠️ **Things I build:** delivery platforms, agent-native analytics, internal monitoring, local code intelligence, and honeypot infrastructure.
 - 🔬 **Research:** 2 published papers on distributed honeypot architectures and machine learning-driven threat classification.
 - 🌱 **Community:** Project Admin & Maintainer for **ECSoC'26** and open-source contributor at **GSSoC'26**.
 - 🏆 **Achievements:** Winner, Site Craft Web Development Challenge (VAMINT Club 2025); runner-up, Prep-A-Thon Coding Competition (Technobash 2025).
 
 <br clear="right"/>
 
-<img src="./assets/system-flow.svg" width="100%" alt="My engineering interests: intent → APIs with Go and Python → agents and tools → data with DuckDB → observable insights" />
+<img src="./assets/system-flow.svg" width="100%" alt="How I ship: commit by humans and agents → CI gate and merge queue → versioned, signed release → blue-green deploy on NixOS → monitor and roll back" />
 
 ## ✨ Selected builds
 
-A few corners of my work — from agent-native analytics and code intelligence to security and cloud infrastructure.
+A few corners of my work, from delivery platforms and agent-native analytics to code intelligence, security and cloud infrastructure.
 
 <table>
 <tr>
@@ -50,6 +50,20 @@ A few corners of my work — from agent-native analytics and code intelligence t
 <p>Open-source BI at Flid AI: governed semantic models, dashboards as code, and analytics for AI agents.</p>
 <p><code>Go</code> <code>DuckDB</code> <code>AI agents</code></p>
 <a href="https://github.com/flidai/leapview"><b>Explore the project →</b></a>
+</td>
+<td width="50%" valign="top">
+<h3>🧩 Alloy Catalog</h3>
+<p>Product catalog and search platform at Flid AI, running on NixOS for enterprise customers with zero-downtime blue-green deploys.</p>
+<p><code>Rust</code> <code>SQLite</code> <code>NixOS</code></p>
+<sub>Private · in production</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>📡 Pulse</h3>
+<p>Flid AI's internal monitor for production health, CI runners, deployments, and coding-agent activity.</p>
+<p><code>Monitoring</code> <code>CI/CD</code> <code>MCP</code></p>
+<sub>Internal</sub>
 </td>
 <td width="50%" valign="top">
 <h3>🧠 RepoSage</h3>
@@ -96,19 +110,20 @@ A few corners of my work — from agent-native analytics and code intelligence t
 
 <p><b>At the center of my work</b></p>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go" />
-<img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&amp;logo=duckdb&amp;logoColor=black" alt="DuckDB" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
-
-<p><b>Backend &amp; data</b></p>
-<img src="https://skillicons.dev/icons?i=go,python,rust,fastapi,postgres,mongodb,redis,kafka&amp;perline=8" alt="Go, Python, Rust, FastAPI, PostgreSQL, MongoDB, Redis, Kafka" />
+<img src="https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust" />
+<img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&amp;logo=nixos&amp;logoColor=white" alt="NixOS" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
 
 <p><b>Cloud &amp; delivery</b></p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux,terraform&amp;perline=6" alt="Docker, Kubernetes, AWS, GitHub Actions, Linux, Terraform" />
+<img src="https://skillicons.dev/icons?i=nix,linux,githubactions,docker,kubernetes,aws,terraform&amp;perline=7" alt="Nix, Linux, GitHub Actions, Docker, Kubernetes, AWS, Terraform" />
+
+<p><b>Backend &amp; data</b></p>
+<img src="https://skillicons.dev/icons?i=go,rust,python,sqlite,postgres,redis,kafka,fastapi&amp;perline=8" alt="Go, Rust, Python, SQLite, PostgreSQL, Redis, Kafka, FastAPI" />
 
 <details>
 <summary><b>Also in the toolkit: AI, frontend &amp; languages</b></summary>
 <br/>
-<p><code>LangGraph</code> <code>LangChain</code> <code>RAG / GraphRAG</code> <code>MCP</code> <code>ChromaDB</code> <code>Qdrant</code> <code>FAISS</code> <code>PyTorch</code> <code>SQL</code></p>
+<p><code>DuckDB</code> <code>MongoDB</code> <code>LangGraph</code> <code>LangChain</code> <code>RAG / GraphRAG</code> <code>MCP</code> <code>ChromaDB</code> <code>Qdrant</code> <code>FAISS</code> <code>PyTorch</code> <code>SQL</code></p>
 <img src="https://skillicons.dev/icons?i=react,ts,cpp,git,html,css&amp;perline=6" alt="React, TypeScript, C++, Git, HTML, CSS" />
 </details>
 
@@ -150,7 +165,7 @@ A few corners of my work — from agent-native analytics and code intelligence t
 
 ## 💬 Let's build something useful
 
-I'm interested in collaborating on **agent-native systems, Golang infrastructure, analytics as code, and open source**. If you're working on a problem in that space, I'd love to hear about it.
+I'm interested in collaborating on **platform engineering, CI/CD and release engineering, agent-native systems, and open source**. If you're working on a problem in that space, I'd love to hear about it.
 
 <div align="center">
 
