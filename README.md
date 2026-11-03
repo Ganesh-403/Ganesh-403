@@ -154,11 +154,11 @@ A few corners of my work, from delivery platforms and agent-native analytics to 
 <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1072](https://github.com/flidai/leapview/pull/1072) in [flidai/leapview](https://github.com/flidai/leapview)
-2. 🎉 Merged PR [#9](https://github.com/Ganesh-403/Ganesh-403/pull/9) in [Ganesh-403/Ganesh-403](https://github.com/Ganesh-403/Ganesh-403)
-3. 💪 Opened PR [#9](https://github.com/Ganesh-403/Ganesh-403/pull/9) in [Ganesh-403/Ganesh-403](https://github.com/Ganesh-403/Ganesh-403)
-4. 🎉 Merged PR [#3](https://github.com/Ganesh-403/portfolio-website/pull/3) in [Ganesh-403/portfolio-website](https://github.com/Ganesh-403/portfolio-website)
-5. 💪 Opened PR [#3](https://github.com/Ganesh-403/portfolio-website/pull/3) in [Ganesh-403/portfolio-website](https://github.com/Ganesh-403/portfolio-website)
+1. 🎉 Merged PR [#1072](https://github.com/flidai/leapview/pull/1072) in [flidai/leapview](https://github.com/flidai/leapview)
+2. 🔒 Closed issue [#1053](https://github.com/flidai/leapview/issues/1053) in [flidai/leapview](https://github.com/flidai/leapview)
+3. 💪 Opened PR [#1072](https://github.com/flidai/leapview/pull/1072) in [flidai/leapview](https://github.com/flidai/leapview)
+4. 🎉 Merged PR [#9](https://github.com/Ganesh-403/Ganesh-403/pull/9) in [Ganesh-403/Ganesh-403](https://github.com/Ganesh-403/Ganesh-403)
+5. 💪 Opened PR [#9](https://github.com/Ganesh-403/Ganesh-403/pull/9) in [Ganesh-403/Ganesh-403](https://github.com/Ganesh-403/Ganesh-403)
 <!--END_SECTION:activity-->
 
 </details>
