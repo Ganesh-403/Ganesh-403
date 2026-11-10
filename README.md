@@ -158,7 +158,7 @@ A few corners of my work, from delivery platforms and agent-native analytics to 
 2. 🔒 Closed issue [#1053](https://github.com/flidai/leapview/issues/1053) in [flidai/leapview](https://github.com/flidai/leapview)
 3. 💪 Opened PR [#1072](https://github.com/flidai/leapview/pull/1072) in [flidai/leapview](https://github.com/flidai/leapview)
 4. 🎉 Merged PR [#9](https://github.com/Ganesh-403/Ganesh-403/pull/9) in [Ganesh-403/Ganesh-403](https://github.com/Ganesh-403/Ganesh-403)
-5. 💪 Opened PR [#9](https://github.com/Ganesh-403/Ganesh-403/pull/9) in [Ganesh-403/Ganesh-403](https://github.com/Ganesh-403/Ganesh-403)
+5. 🔒 Closed issue [#1034](https://github.com/flidai/leapview/issues/1034) in [flidai/leapview](https://github.com/flidai/leapview)
 <!--END_SECTION:activity-->
 
 </details>
