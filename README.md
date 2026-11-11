@@ -156,9 +156,9 @@ A few corners of my work, from delivery platforms and agent-native analytics to 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1072](https://github.com/flidai/leapview/pull/1072) in [flidai/leapview](https://github.com/flidai/leapview)
 2. 🔒 Closed issue [#1053](https://github.com/flidai/leapview/issues/1053) in [flidai/leapview](https://github.com/flidai/leapview)
-3. 💪 Opened PR [#1072](https://github.com/flidai/leapview/pull/1072) in [flidai/leapview](https://github.com/flidai/leapview)
-4. 🔒 Closed issue [#1034](https://github.com/flidai/leapview/issues/1034) in [flidai/leapview](https://github.com/flidai/leapview)
-5. ❌ Closed PR [#1037](https://github.com/flidai/leapview/pull/1037) in [flidai/leapview](https://github.com/flidai/leapview)
+3. 🔒 Closed issue [#1034](https://github.com/flidai/leapview/issues/1034) in [flidai/leapview](https://github.com/flidai/leapview)
+4. ❌ Closed PR [#1037](https://github.com/flidai/leapview/pull/1037) in [flidai/leapview](https://github.com/flidai/leapview)
+5. ❌ Closed PR [#921](https://github.com/flidai/leapview/pull/921) in [flidai/leapview](https://github.com/flidai/leapview)
 <!--END_SECTION:activity-->
 
 </details>
