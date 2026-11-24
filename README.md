@@ -154,9 +154,9 @@ A few corners of my work, from delivery platforms and agent-native analytics to 
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1053](https://github.com/flidai/leapview/issues/1053) in [flidai/leapview](https://github.com/flidai/leapview)
-2. 🔒 Closed issue [#1034](https://github.com/flidai/leapview/issues/1034) in [flidai/leapview](https://github.com/flidai/leapview)
-3. ❌ Closed PR [#1037](https://github.com/flidai/leapview/pull/1037) in [flidai/leapview](https://github.com/flidai/leapview)
+1. ❗ Opened issue [#2](https://github.com/flidai/headless-cad/issues/2) in [flidai/headless-cad](https://github.com/flidai/headless-cad)
+2. ❗ Opened issue [#1](https://github.com/flidai/headless-cad/issues/1) in [flidai/headless-cad](https://github.com/flidai/headless-cad)
+3. 🔒 Closed issue [#1053](https://github.com/flidai/leapview/issues/1053) in [flidai/leapview](https://github.com/flidai/leapview)
 4. ❌ Closed PR [#921](https://github.com/flidai/leapview/pull/921) in [flidai/leapview](https://github.com/flidai/leapview)
 5. ❌ Closed PR [#921](https://github.com/flidai/leapview/pull/921) in [flidai/leapview](https://github.com/flidai/leapview)
 <!--END_SECTION:activity-->
